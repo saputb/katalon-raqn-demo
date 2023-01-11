@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CONNEXION</name>
+   <tag></tag>
+   <elementGuidId>81b37e06-7d58-4dbc-8ef5-af65068db3b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-f4f1d682f9']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.calltoaction__text.calltoaction__text--initial</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e47eb6b-97fc-475d-9f5b-0e83a853ee0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial</value>
+      <webElementGuid>d69b963a-0f57-41e4-8cc4-27b4d7d5f2b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONNEXION</value>
+      <webElementGuid>41d7503f-26df-4921-b896-7bb1d9f46fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-f4f1d682f9&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>f8c22d80-c554-405b-8e15-a8bc14daf466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-f4f1d682f9']/span</value>
+      <webElementGuid>ccc0f0ba-beca-4a79-9c8a-88a324502817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::span[4]</value>
+      <webElementGuid>5a691373-ac77-4bed-8d42-f3bd68338415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('S', &quot;'&quot;, 'ENREGISTRER')])[1]/preceding::span[1]</value>
+      <webElementGuid>52a5b717-4d08-4e8f-a3f9-03c69e92d683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHWARZKOPF PROFESSIONAL'])[1]/preceding::span[2]</value>
+      <webElementGuid>3f7c35b4-6af4-4ace-aacd-3e526cad9bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONNEXION']/parent::*</value>
+      <webElementGuid>7fe66c1c-ecce-478e-a210-800cd7993853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/span</value>
+      <webElementGuid>674b526d-317e-4e2f-9efa-ccb9b1a738ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CONNEXION' or . = 'CONNEXION')]</value>
+      <webElementGuid>ffbe98ed-29eb-4932-a9b0-2491d7d12c6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SENREGISTRER</name>
+   <tag></tag>
+   <elementGuidId>d650fbbf-0f2a-4e10-9df8-8732d38ae300</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-78b26aa002']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#calltoaction-78b26aa002 > span.calltoaction__text.calltoaction__text--initial</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b9fcfb4-10fc-4d06-b6b5-289ae126678a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial</value>
+      <webElementGuid>06476b55-8fdb-41af-87bc-e053b7475fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S'ENREGISTRER</value>
+      <webElementGuid>1ab6597e-41ff-4604-9254-fbb61ec7aee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-78b26aa002&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>38e43168-8fea-4012-9207-7b57e5fe03a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-78b26aa002']/span</value>
+      <webElementGuid>d4000a0b-00a4-4e0f-9a41-6a68bd6d92fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONNEXION'])[1]/following::span[1]</value>
+      <webElementGuid>d0f9cb80-fdf2-4da2-938a-643ed4459e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHWARZKOPF PROFESSIONAL'])[1]/preceding::span[1]</value>
+      <webElementGuid>84cb0fa6-0142-42bc-919b-25f59d448bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP'])[1]/preceding::span[2]</value>
+      <webElementGuid>7cfa7153-e3a7-490d-af7c-a3e61310c3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//heliux-calltoaction[2]/div/div/a/span</value>
+      <webElementGuid>1d58ec2a-a8cd-4858-81c2-f7af57dd321d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;S&quot; , &quot;'&quot; , &quot;ENREGISTRER&quot;) or . = concat(&quot;S&quot; , &quot;'&quot; , &quot;ENREGISTRER&quot;))]</value>
+      <webElementGuid>b30a02fd-2a3f-4d4f-87f2-e202fe509246</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

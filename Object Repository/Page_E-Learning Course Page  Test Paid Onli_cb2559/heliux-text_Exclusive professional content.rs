@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>heliux-text_Exclusive professional content</name>
+   <tag></tag>
+   <elementGuidId>c76fe13b-f98a-4978-b3ba-442cb7b9b4c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-4428592a5e']/div/div/div/heliux-text</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>heliux-text.enrollmentBlock__canNotBuyPaidLo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>heliux-text</value>
+      <webElementGuid>116060b0-a63f-4b57-b99e-cbe726be5e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enrollmentBlock__canNotBuyPaidLo</value>
+      <webElementGuid>442e1c8d-385e-4652-8de7-cd85f85c1659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exclusive professional content</value>
+      <webElementGuid>817d4427-6300-4049-8512-f6113922d250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-4428592a5e&quot;)/div[@class=&quot;dynamiccontent margin-left-none margin-right-none&quot;]/div[@class=&quot;enrollmentBlock__base dynamiccontent1636563459808&quot;]/div[@class=&quot;enrollmentBlock__inner secondary&quot;]/heliux-text[@class=&quot;enrollmentBlock__canNotBuyPaidLo&quot;]</value>
+      <webElementGuid>4ed0277f-3a01-4d9f-86b2-1cbd5f1e215c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-4428592a5e']/div/div/div/heliux-text</value>
+      <webElementGuid>72aef0bd-c8c4-424f-997a-011c6ebdc843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Exclusive professional content']/parent::*</value>
+      <webElementGuid>915e4b1c-4280-408f-bc55-2b7eff68ba21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/heliux-text</value>
+      <webElementGuid>9d6e624c-96ee-4ce3-b597-c219fb57845f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//heliux-text[(text() = 'Exclusive professional content' or . = 'Exclusive professional content')]</value>
+      <webElementGuid>415ff553-59f4-43a6-95a5-5e0aef5574a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

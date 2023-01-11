@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>3156a1f2-6bdd-4d85-b6a3-8487a33c8f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#playPauseBtn > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>717de88e-a5c4-43c4-a028-c0688311b2fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M112.016 55H71.977a3.73 3.73 0 00-3.73 3.73v182.54a3.73 3.73 0 003.73 3.73h40.039a3.73 3.73 0 003.73-3.73V58.73a3.73 3.73 0 00-3.73-3.73zM228.023 55h-40.039a3.73 3.73 0 00-3.73 3.73v182.54a3.73 3.73 0 003.73 3.73h40.039a3.73 3.73 0 003.73-3.73V58.73a3.73 3.73 0 00-3.73-3.73z</value>
+      <webElementGuid>9a378e15-7e39-4f2c-8516-597bd1f5e525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;playPauseBtn&quot;)/svg[1]/path[1]</value>
+      <webElementGuid>3a6e48b7-6db3-46b0-9444-8e332bbae713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_E-Learning Course Page  Test Paid Self Paced/iframe_concat(id(, , ELearningCP_fluidicPla_2bd6db</value>
+      <webElementGuid>76cb44d0-1120-46b9-bdf7-4cbdbf14bc20</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

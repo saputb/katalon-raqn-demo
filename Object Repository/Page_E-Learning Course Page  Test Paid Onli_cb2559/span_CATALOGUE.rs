@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CATALOGUE</name>
+   <tag></tag>
+   <elementGuidId>995c2a78-be9e-4996-8bca-4da589dff9e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-2de96b21e1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#calltoaction-2de96b21e1 > span.calltoaction__text.calltoaction__text--initial</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4af56dc-04bb-4fd5-b18d-7d67e2fdc265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial</value>
+      <webElementGuid>b79b1315-c69d-46f9-8c48-9b0ff35a1d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CATALOGUE</value>
+      <webElementGuid>4898b25a-1d45-4439-a365-c1675064aa41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-2de96b21e1&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>96cd5f76-f884-4dce-9f5b-dcc22d2b2e0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-2de96b21e1']/span</value>
+      <webElementGuid>ba68f25a-f477-4444-b1a8-fee0ad733b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORER'])[10]/following::span[1]</value>
+      <webElementGuid>008ea933-ecf6-4a3e-8a61-ec37fe1edd16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUIVEZ-NOUS'])[1]/preceding::span[1]</value>
+      <webElementGuid>43ff7bf9-090e-494f-ba96-93e125daa633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENTIONS LÉGALES'])[1]/preceding::span[5]</value>
+      <webElementGuid>c73c9e4a-2488-4f5b-ac53-af568cd533df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/heliux-calltoaction/div[2]/div/a/span</value>
+      <webElementGuid>4d6d75ba-6cdd-4678-993c-af79478eee77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CATALOGUE' or . = 'CATALOGUE')]</value>
+      <webElementGuid>577c4c11-4599-4870-a5e0-c45885fedffe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_COMMENCER</name>
+   <tag></tag>
+   <elementGuidId>5c14b73d-c996-4073-8c82-552e583f4c3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='calltoaction-207be92906']/span)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d16a3018-f9e0-4887-a6ed-3407ff51f712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial</value>
+      <webElementGuid>af6b413d-d964-4ed1-859f-ce04e46b3cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COMMENCER</value>
+      <webElementGuid>d4a04e40-248d-448c-aa07-8d8720859de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teaserlist-c34a50b1ec&quot;)/ul[@class=&quot;teaserlist__items atomic--target
+                teaserlist__items--loadMore&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-top-small margin-left-small margin-right-small margin-bottom-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-e885ab9529&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-left margin-top-default margin-left-default margin-right-default margin-bottom-default default-margin-top default-margin-left&quot;]/div[@id=&quot;columncontrol-ce658f43cb&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-calltoaction[@class=&quot;calltoaction button margin-top-default margin-left-none margin-right-none margin-bottom-none calltoaction__animationsbuttonaccent1 isOffScreen isOnScreen&quot;]/div[@id=&quot;wrapper-calltoaction-207be92906&quot;]/div[@class=&quot;calltoaction__background&quot;]/a[@id=&quot;calltoaction-207be92906&quot;]/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>8205c088-bafe-49a6-b6e7-d2199995528b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='calltoaction-207be92906']/span)[3]</value>
+      <webElementGuid>a2760387-9112-4c43-a7f7-586c55c94b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[5]/following::span[1]</value>
+      <webElementGuid>c463698e-f8b3-449e-8295-1077aefcd061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[60]/following::span[2]</value>
+      <webElementGuid>882efef1-6043-41ed-bb2d-e819a9c8f4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHARGER PLUS'])[2]/preceding::span[1]</value>
+      <webElementGuid>97c68210-d1f1-4fa9-92ee-ccc4ce23ad5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COMMENCER']/parent::*</value>
+      <webElementGuid>6628cea3-8c4e-4d64-95af-6d6f79c7a3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//heliux-section[2]/div[3]/heliux-teaserlist-v2/div/ul/li[3]/div/div/heliux-section/div[3]/section[2]/div/heliux-grid/div[2]/heliux-calltoaction/div[2]/div/a/span</value>
+      <webElementGuid>26008f08-35c3-4f98-a485-e652ac5af7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'COMMENCER' or . = 'COMMENCER')]</value>
+      <webElementGuid>a6e3eec8-cc43-4aa9-ba53-f0933d7045e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
