@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_clients uniquement</name>
+   <tag></tag>
+   <elementGuidId>fe74fa88-4111-45a0-ac9f-581c1c66b89e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='text-c43a982b47']/p)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>da4779ab-266b-4c3c-bdd7-88c9577bda84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>€  clients uniquement</value>
+      <webElementGuid>4b38e8fd-c75c-4398-b5dc-5d3fac984f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carousel_uuid6cffcfcb_2333_47b0_8c31_09035406c74e&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider&quot;]/ul[@class=&quot;teaserlist__items
+                    atomic--target&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-top-small margin-left-small margin-right-small margin-bottom-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-2c82a46d8a&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-left margin-top-default margin-left-default margin-right-default margin-bottom-default default-margin-top default-margin-left&quot;]/div[@id=&quot;columncontrol-e33a2ceb53&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-left-none&quot;]/div[@id=&quot;section-7e4e3cd3e3&quot;]/heliux-text[@class=&quot;text container-max-grid accent2 margin-top-none margin-left-none margin-bottom-none&quot;]/div[@id=&quot;text-c43a982b47&quot;]/p[1]</value>
+      <webElementGuid>081d1d88-2443-42f2-ae75-d17a0ea5090f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='text-c43a982b47']/p)[2]</value>
+      <webElementGuid>53ac6732-bef4-4ac5-89e8-8a54e5a1654e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::p[1]</value>
+      <webElementGuid>c9e000ec-5b0a-452d-9ea9-0d388b58086d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Paid Online Seminar'])[1]/following::p[1]</value>
+      <webElementGuid>ceee2944-cfcd-4245-a86a-d0137f45ffd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[11]/preceding::p[1]</value>
+      <webElementGuid>6f1ae040-3cb0-41d2-bcdd-9d198e5a0838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/heliux-section/div[3]/section[2]/div/heliux-grid/div[2]/heliux-section/div[3]/heliux-text/div/p</value>
+      <webElementGuid>91e7f564-749a-49de-aafd-0a0b5fb2ab32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '€  clients uniquement' or . = '€  clients uniquement')]</value>
+      <webElementGuid>7478afff-dc73-4753-9fee-f6e625830384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
