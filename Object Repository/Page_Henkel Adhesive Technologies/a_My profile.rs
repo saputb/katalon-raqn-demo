@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My profile</name>
+   <tag></tag>
+   <elementGuidId>7272c2b0-1e48-4a1c-a516-1458d186abfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-659f40495f']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#calltoaction-659f40495f</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>98aa6bae-87c1-4b6e-befc-95d7fe644e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>calltoaction-659f40495f</value>
+      <webElementGuid>5982f7ff-95af-4df2-8be7-666e4e192b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-customizationclass</name>
+      <type>Main</type>
+      <value>customizations__calltoaction</value>
+      <webElementGuid>ba0907b2-5a59-4677-b84a-e89575c73f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__link cta </value>
+      <webElementGuid>f87d8abb-2680-4c99-b71b-622f3adce575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/profile.html</value>
+      <webElementGuid>a5a15db2-6e94-43fa-9bf1-bd5e488541b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>e34d5846-c855-4011-9b22-f62ecf31f946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-components-params-calltoactionmodalcontrol</name>
+      <type>Main</type>
+      <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;_self&quot;}</value>
+      <webElementGuid>7f1b9245-cbab-4dfe-a8f5-49e791670041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-components</name>
+      <type>Main</type>
+      <value>CallToActionModalControl</value>
+      <webElementGuid>ef15e4e8-376c-40d3-81c8-09540b0266e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          
+          My profile
+      </value>
+      <webElementGuid>b5b111c7-43ab-4af7-8b0e-486a3038add6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-659f40495f&quot;)</value>
+      <webElementGuid>2108128a-fe0f-4ccb-9e2e-b5734e62090a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-659f40495f']</value>
+      <webElementGuid>30e6cda4-f0dc-452e-bb47-19a071cf65e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-calltoaction-659f40495f']/div/a</value>
+      <webElementGuid>02d63f94-362d-4def-92ce-ec83f4eb54a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Testing Account2!'])[1]/following::a[1]</value>
+      <webElementGuid>f4f04b56-903d-427c-b710-0f8133d49927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TA'])[1]/following::a[1]</value>
+      <webElementGuid>b2e9d870-bcdf-4b06-bc88-408d3a0f53f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOG OUT'])[1]/preceding::a[1]</value>
+      <webElementGuid>08663b91-32b5-42f4-9ea4-77b2e1cdb1bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/us/en/profile.html')]</value>
+      <webElementGuid>76df8684-62a5-42a6-a1e9-2363938647d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>31a7ec24-9b28-4439-b69a-b3c7e6c0dd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'calltoaction-659f40495f' and @href = '/us/en/profile.html' and (text() = '
+          
+          My profile
+      ' or . = '
+          
+          My profile
+      ')]</value>
+      <webElementGuid>b49845de-0016-44b8-a3a7-5b0f10d50945</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

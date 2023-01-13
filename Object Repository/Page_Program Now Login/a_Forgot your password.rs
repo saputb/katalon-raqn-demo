@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot your password</name>
+   <tag></tag>
+   <elementGuidId>c024ccf2-14c1-4b42-87bd-8c7c1354d379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='forgotPassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#forgotPassword</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>53a76007-b13a-4aa8-bf12-a7ab19342881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>forgotPassword</value>
+      <webElementGuid>b8ed5f79-b9c1-498e-8046-a3fa003331ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/henkelgroupciamtest.onmicrosoft.com/B2C_1A_SignInUp_ProgramNow/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=TXY0RkdDN1B3ZnBndUNWRGFnQU9qUjVZRTZFSHlJZGlDRGFzc3RRSGtkSnBWb05BS1QyMFZoQ0t6VUEyZmdnVlMxcHd0R3pXcEgzcGJONXNqRFlONVE9PTsyMDIzLTAxLTExVDE0OjUzOjQ0LjkwODYzMjlaO3Iya1B1VHQybjFjaUlwQlVpdE54VVE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&amp;tx=StateProperties=eyJUSUQiOiI2YWRkMDMzZC05N2ZiLTRiMjQtYWVjZS02ZDlkNTBkODg3ODIifQ&amp;p=B2C_1A_SignInUp_ProgramNow</value>
+      <webElementGuid>631508a7-ac75-42d7-b2c9-2e6614b97994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot your password?</value>
+      <webElementGuid>2a8636ed-6c15-4c1a-bc32-977a6e7bed70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forgotPassword&quot;)</value>
+      <webElementGuid>a6a774aa-da66-4328-933c-6778caea6480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='forgotPassword']</value>
+      <webElementGuid>30008470-cc51-4e4c-88c5-e8547439a4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='localAccountForm']/div[3]/div[2]/div/a</value>
+      <webElementGuid>74973ca7-ec22-4550-856b-aa29a2cd6f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot your password?')]</value>
+      <webElementGuid>99bb8efb-7337-4f5b-8afb-5d71e97c7d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[1]</value>
+      <webElementGuid>6d031c72-df42-41dd-90dc-531aa90b76e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::a[1]</value>
+      <webElementGuid>b4b9faca-9996-47df-a576-cb89db1341ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::a[1]</value>
+      <webElementGuid>fce5581a-743a-48ec-b97a-3a84bc7c7529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[2]/preceding::a[1]</value>
+      <webElementGuid>197c03c5-70f4-49f6-b3c0-6e7a2b44dc6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot your password?']/parent::*</value>
+      <webElementGuid>4069bf9b-8446-44cf-b78e-73abe052fc35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/henkelgroupciamtest.onmicrosoft.com/B2C_1A_SignInUp_ProgramNow/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=TXY0RkdDN1B3ZnBndUNWRGFnQU9qUjVZRTZFSHlJZGlDRGFzc3RRSGtkSnBWb05BS1QyMFZoQ0t6VUEyZmdnVlMxcHd0R3pXcEgzcGJONXNqRFlONVE9PTsyMDIzLTAxLTExVDE0OjUzOjQ0LjkwODYzMjlaO3Iya1B1VHQybjFjaUlwQlVpdE54VVE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&amp;tx=StateProperties=eyJUSUQiOiI2YWRkMDMzZC05N2ZiLTRiMjQtYWVjZS02ZDlkNTBkODg3ODIifQ&amp;p=B2C_1A_SignInUp_ProgramNow')]</value>
+      <webElementGuid>f135562b-2a25-4ece-9f40-af0b02dba394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>1964ee2b-6121-42e3-8545-242774b8a264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'forgotPassword' and @href = '/henkelgroupciamtest.onmicrosoft.com/B2C_1A_SignInUp_ProgramNow/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPasswordExchange&amp;csrf_token=TXY0RkdDN1B3ZnBndUNWRGFnQU9qUjVZRTZFSHlJZGlDRGFzc3RRSGtkSnBWb05BS1QyMFZoQ0t6VUEyZmdnVlMxcHd0R3pXcEgzcGJONXNqRFlONVE9PTsyMDIzLTAxLTExVDE0OjUzOjQ0LjkwODYzMjlaO3Iya1B1VHQybjFjaUlwQlVpdE54VVE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&amp;tx=StateProperties=eyJUSUQiOiI2YWRkMDMzZC05N2ZiLTRiMjQtYWVjZS02ZDlkNTBkODg3ODIifQ&amp;p=B2C_1A_SignInUp_ProgramNow' and (text() = 'Forgot your password?' or . = 'Forgot your password?')]</value>
+      <webElementGuid>c309ac3d-96c7-47fc-980f-6835316edde4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

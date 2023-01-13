@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_programnow-ah10minmail.de</name>
+   <tag></tag>
+   <elementGuidId>095cabe7-eb87-4f7d-b015-6e0b76f467cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='text-7ba39ca521']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#text-7ba39ca521 > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5623538a-1455-4d24-98b3-9b95d07fad75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>programnow-ah@10minmail.de
+</value>
+      <webElementGuid>70ed4c9e-8ec5-40c5-b031-c5519d74ef85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-7ba39ca521&quot;)/p[1]</value>
+      <webElementGuid>6e20d439-5b63-4e66-b8ca-c5284911a6a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='text-7ba39ca521']/p</value>
+      <webElementGuid>318bf544-56dd-4639-a647-a73b07e8ee5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal information'])[1]/following::p[2]</value>
+      <webElementGuid>ff6ca1d6-2094-4225-bef0-fe4eac4e337a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::p[2]</value>
+      <webElementGuid>f3cba6c1-6b0e-4001-a097-a6697ce69bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDIT'])[1]/preceding::p[2]</value>
+      <webElementGuid>4949c4f5-d742-469d-a8f5-fe8c7c388aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='programnow-ah@10minmail.de']/parent::*</value>
+      <webElementGuid>2822a77a-ddbc-4270-9bc8-ce0938e48a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//heliux-text[3]/div/p</value>
+      <webElementGuid>6919d620-4315-43e1-84d7-c242f44055ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'programnow-ah@10minmail.de
+' or . = 'programnow-ah@10minmail.de
+')]</value>
+      <webElementGuid>fa22d549-d6f3-4da2-ab4d-a2000cb2679a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
