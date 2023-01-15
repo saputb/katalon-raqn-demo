@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://www-beta-henkel-adhesives-com.ref.web.raqn.io/us/en.html/please-log-me-in')
 
 WebUI.verifyElementVisible(findTestObject('Page_Henkel Adhesive Technologies/Text_Cookies_Adhesive'))
