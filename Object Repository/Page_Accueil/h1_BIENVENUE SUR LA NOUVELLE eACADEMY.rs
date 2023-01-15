@@ -6,12 +6,12 @@
    <elementGuidId>f69c0b28-80c7-4a6b-9edb-db97087e7ba6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='title-f9e241ea0d']/h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#title-f9e241ea0d > h1.heading1.hide-if-empty-placeholder.apply-margins.apply-font-style.title__heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title-f9e241ea0d']/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>2681b072-5d1b-49c4-ab11-9d982a8a3b8d</webElementGuid>
+      <webElementGuid>f500acfe-4f4d-48b2-aa91-db9913a83b0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>heading1 hide-if-empty-placeholder apply-margins apply-font-style title__heading</value>
-      <webElementGuid>60571864-dec1-42f2-9d19-a6a2d00e0804</webElementGuid>
+      <webElementGuid>a162bd89-da26-46a2-8e6f-9035f77fcc50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BIENVENUE SUR LA NOUVELLE eACADEMY!</value>
-      <webElementGuid>36ade0d5-4b91-4a5a-b314-40ebbec75012</webElementGuid>
+      <webElementGuid>6f45063c-cc32-41be-9f98-e885eb6b1447</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;title-f9e241ea0d&quot;)/h1[@class=&quot;heading1 hide-if-empty-placeholder apply-margins apply-font-style title__heading&quot;]</value>
-      <webElementGuid>488f7290-b9df-41d4-b7fb-e3ff9f8f3e2e</webElementGuid>
+      <webElementGuid>4f445a32-a92d-4c04-933b-a3193abffc41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='title-f9e241ea0d']/h1</value>
-      <webElementGuid>645c9c3e-0109-4906-8bb5-cc2a9c4766e8</webElementGuid>
+      <webElementGuid>27ebb7fa-c0f1-4e79-b0fe-e16ab5555806</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ASK EDUCATION'])[1]/following::h1[1]</value>
-      <webElementGuid>7bfb8634-39c6-4157-be33-7ca3fa62f425</webElementGuid>
+      <webElementGuid>2f36934d-808e-42aa-83d0-e70aba162b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[2]/following::h1[2]</value>
-      <webElementGuid>c445413e-c526-4731-bab7-33e7eede7261</webElementGuid>
+      <webElementGuid>05e1ca89-4462-488b-80c8-12f740985a97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('QU', &quot;'&quot;, 'AIMERIEZ-VOUS APPRENDRE ?')])[1]/preceding::h1[1]</value>
-      <webElementGuid>d3ac5797-65ea-4de8-b0fa-7c0fb7b739cd</webElementGuid>
+      <webElementGuid>fe3c2122-69ae-4a83-9048-07d8f0a5e05f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QUOI DE NEUF ?'])[1]/preceding::h1[1]</value>
-      <webElementGuid>5091b60f-bfd5-4167-92e5-064d529d3220</webElementGuid>
+      <webElementGuid>cddf076e-900b-4446-ae3c-083ad2a01735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BIENVENUE SUR LA NOUVELLE eACADEMY!']/parent::*</value>
-      <webElementGuid>e78b87c1-4159-4b9b-b25a-57d8daa386fa</webElementGuid>
+      <webElementGuid>d6545ad3-b140-4af6-848e-3f66b62c3545</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//heliux-text[2]/div/h1</value>
-      <webElementGuid>03049bc6-ca4f-4b87-bef2-760702fe1c20</webElementGuid>
+      <webElementGuid>06d5f390-9320-4774-bfce-4ce2ec5e6871</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'BIENVENUE SUR LA NOUVELLE eACADEMY!' or . = 'BIENVENUE SUR LA NOUVELLE eACADEMY!')]</value>
-      <webElementGuid>e0bcc49e-de4c-4ee4-ab24-162e1d31b240</webElementGuid>
+      <webElementGuid>5743dfe6-2d6b-4bb7-ac82-a4db05f7f4ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

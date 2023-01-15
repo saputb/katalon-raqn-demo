@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Login_Ref_SKP</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>28f5b069-4c6e-468a-b97c-6cf91901d6a6</testCaseGuid>

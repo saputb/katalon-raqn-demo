@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_CONNEXION</name>
+   <name>a_QUAIMERIEZ-VOUS APPRENDRE</name>
    <tag></tag>
-   <elementGuidId>22d7d765-fb5e-493c-aafe-c50badd4212d</elementGuidId>
+   <elementGuidId>4af64431-6c56-40d8-93cf-6c5e24afc859</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#calltoaction-f4f1d682f9</value>
+         <value>#calltoaction-fedd7b9e95</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='calltoaction-f4f1d682f9']</value>
+         <value>//a[@id='calltoaction-fedd7b9e95']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ca789109-f81c-4691-92ba-cf5a31d7a99d</webElementGuid>
+      <webElementGuid>e8172fd5-5494-4c57-8faf-75c95e49c5c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>calltoaction-f4f1d682f9</value>
-      <webElementGuid>311d9f11-52dc-40e0-9b06-d4f25530aa4d</webElementGuid>
+      <value>calltoaction-fedd7b9e95</value>
+      <webElementGuid>56c6619c-d2f3-4b5f-b7b4-9ce77f9fff16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-customizationclass</name>
       <type>Main</type>
-      <value>calltoaction1661250876704</value>
-      <webElementGuid>a89d72d4-b4a9-48e9-9af8-6e77d8263978</webElementGuid>
+      <value>calltoaction1634543529524</value>
+      <webElementGuid>5ea9a7b1-88e1-4bc2-a7c2-39fdae0d088d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta </value>
-      <webElementGuid>34b8b3bc-040f-4542-8ad2-7651788d8954</webElementGuid>
+      <webElementGuid>8ab7f7fb-8a84-4a98-9049-47d7d0af3db7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/fr/fr/bienvenue/login.html</value>
-      <webElementGuid>2f492ef6-3637-46f5-aa0c-5680031ffbd7</webElementGuid>
+      <value>/fr/fr/catalogue.html</value>
+      <webElementGuid>3766e644-435e-42ff-9e0b-2cfa0fad7485</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-components-params-calltoactionmodalcontrol</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;&quot;}</value>
-      <webElementGuid>bdfe0897-2dee-4b97-b3d2-3c2db2874a53</webElementGuid>
+      <webElementGuid>5f14d383-3cde-4bd5-bfd7-0b3a786b8d46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,15 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CallToActionModalControl</value>
-      <webElementGuid>d8432b16-b4e9-479e-a7f3-918a0b0c224a</webElementGuid>
+      <webElementGuid>711e4bf6-e300-4eb9-a1a1-4c154bf91162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>d81b80dc-4d85-4604-a932-a9442d5d5c35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,78 +87,86 @@
       <type>Main</type>
       <value>
           
-          CONNEXION
+          QU'AIMERIEZ-VOUS APPRENDRE ?
       </value>
-      <webElementGuid>54cbc8e0-cc75-4efc-9afd-0458d214c707</webElementGuid>
+      <webElementGuid>a47e02c1-3a65-418b-b6c6-9e69b9422d8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;calltoaction-f4f1d682f9&quot;)</value>
-      <webElementGuid>05007c5c-1d6a-497c-b799-f6db6b5f5de6</webElementGuid>
+      <value>id(&quot;calltoaction-fedd7b9e95&quot;)</value>
+      <webElementGuid>3894b1ab-b91b-4651-85ec-313192aa4a0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='calltoaction-f4f1d682f9']</value>
-      <webElementGuid>93e3f18b-d5e8-44d7-9fc5-d169e9e0eb1e</webElementGuid>
+      <value>//a[@id='calltoaction-fedd7b9e95']</value>
+      <webElementGuid>dbe1cd84-e6b5-4c66-8c2a-fde13a751f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='wrapper-calltoaction-f4f1d682f9']/div/a</value>
-      <webElementGuid>28bd8d21-093e-4684-9908-9d5a87e30bc4</webElementGuid>
+      <value>//div[@id='wrapper-calltoaction-fedd7b9e95']/div/a</value>
+      <webElementGuid>d7efce09-a600-46c9-b4f5-47a269ab4fed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::a[3]</value>
-      <webElementGuid>06b854fd-1396-4534-af83-29218c5dfd08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIENVENUE SUR LA NOUVELLE eACADEMY!'])[1]/following::a[1]</value>
+      <webElementGuid>e8768e78-fb14-4056-aca0-7aa3900335af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('S', &quot;'&quot;, 'ENREGISTRER')])[1]/preceding::a[1]</value>
-      <webElementGuid>a8556305-56c1-4700-820c-d82eabe5af97</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASK EDUCATION'])[1]/following::a[1]</value>
+      <webElementGuid>3035ad19-6e37-42b5-9ee4-5eb088021a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUOI DE NEUF ?'])[1]/preceding::a[1]</value>
+      <webElementGuid>1591d178-2efe-44ce-958a-d370828fbd9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/fr/fr/bienvenue/login.html')]</value>
-      <webElementGuid>9e7d5a4f-cd1a-43eb-9315-1d8109d72766</webElementGuid>
+      <value>(//a[contains(@href, '/fr/fr/catalogue.html')])[3]</value>
+      <webElementGuid>eaa7aea7-1994-4a85-9315-2675490be511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a</value>
-      <webElementGuid>18cad83d-95ea-4124-9314-cfc5ab6415f3</webElementGuid>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>d398ef5b-0115-425a-80a4-23f1f0831995</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'calltoaction-f4f1d682f9' and @href = '/fr/fr/bienvenue/login.html' and (text() = '
+      <value>//a[@id = 'calltoaction-fedd7b9e95' and @href = '/fr/fr/catalogue.html' and (text() = concat(&quot;
           
-          CONNEXION
-      ' or . = '
+          QU&quot; , &quot;'&quot; , &quot;AIMERIEZ-VOUS APPRENDRE ?
+      &quot;) or . = concat(&quot;
           
-          CONNEXION
-      ')]</value>
-      <webElementGuid>7190db3c-d1a5-49a9-8219-7c8ebf878375</webElementGuid>
+          QU&quot; , &quot;'&quot; , &quot;AIMERIEZ-VOUS APPRENDRE ?
+      &quot;))]</value>
+      <webElementGuid>3a046924-a2d4-44c1-af6e-67b7dda9769d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

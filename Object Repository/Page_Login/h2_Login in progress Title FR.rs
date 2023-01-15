@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h1_ASK EDUCATION</name>
+   <name>h2_Login in progress Title FR</name>
    <tag></tag>
-   <elementGuidId>d963120e-bc2c-4c98-b135-420d660c87c8</elementGuidId>
+   <elementGuidId>1d56203e-dd2e-46cd-aaf7-f53581e1df09</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h1.heading1.hide-if-empty-placeholder.apply-margins.apply-font-style.title__heading</value>
+         <value>h2.heading4</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='title-6fb8d38fde']/h1</value>
+         <value>//div[@id='notification_message_login_in_progress']/div[2]/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>27bec7bd-75c5-45a9-a2ce-5d6dda566aa6</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>feaa3a81-187f-46fb-b1b0-46cdec4a66ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>heading1 hide-if-empty-placeholder apply-margins apply-font-style title__heading</value>
-      <webElementGuid>c4a04fcc-b185-4b1b-9e92-ba32336acd3c</webElementGuid>
+      <value>heading4</value>
+      <webElementGuid>2a0e6cce-1b8c-4735-9c63-3b55db541bfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>ASK EDUCATION</value>
-      <webElementGuid>5618c23b-26ff-48d3-8903-1ede1d7a115b</webElementGuid>
+      <value>Login in progress Title FR</value>
+      <webElementGuid>970d1e4c-e405-46ac-ad8e-ccdafc782841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title-6fb8d38fde&quot;)/h1[@class=&quot;heading1 hide-if-empty-placeholder apply-margins apply-font-style title__heading&quot;]</value>
-      <webElementGuid>8cce4260-a5b8-4520-9ca6-a94816766408</webElementGuid>
+      <value>id(&quot;notification_message_login_in_progress&quot;)/div[@class=&quot;notifications__inner&quot;]/h2[@class=&quot;heading4&quot;]</value>
+      <webElementGuid>ee4c0556-9090-4e92-b2db-6457f155cd8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='title-6fb8d38fde']/h1</value>
-      <webElementGuid>29ec934c-9785-49d1-85c7-4d76779eacc3</webElementGuid>
+      <value>//div[@id='notification_message_login_in_progress']/div[2]/h2</value>
+      <webElementGuid>c39a70d6-9d5b-4d68-9162-8a13bc01ebc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[2]/following::h1[1]</value>
-      <webElementGuid>778bdff4-7e38-43ec-8ae6-710d481694fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close the notifications'])[1]/following::h2[1]</value>
+      <webElementGuid>3e2cdef2-a565-423a-9cb7-ef0ac75dfeae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MON APPRENTISSAGE'])[2]/following::h1[1]</value>
-      <webElementGuid>ca4e4ff1-2466-43fd-aa4b-970c24c452fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[2]/following::h2[1]</value>
+      <webElementGuid>b12bde99-7c37-4f8b-b326-9d166bfb57a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIENVENUE SUR LA NOUVELLE eACADEMY!'])[1]/preceding::h1[1]</value>
-      <webElementGuid>c8f4e233-21ac-4148-8124-4fa633431084</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIENVENUE À NOUVEAU !'])[1]/preceding::h2[1]</value>
+      <webElementGuid>12ca5d7b-85a9-4932-a7a3-b74252a84484</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('QU', &quot;'&quot;, 'AIMERIEZ-VOUS APPRENDRE ?')])[1]/preceding::h1[2]</value>
-      <webElementGuid>f0598f1f-b302-454a-9611-b3c646b03e32</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connectez-vous à votre compte'])[1]/preceding::h2[1]</value>
+      <webElementGuid>bd85cf2e-b398-4ba3-9bdd-1e431f6ba51b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='ASK EDUCATION']/parent::*</value>
-      <webElementGuid>b11f2f94-a8a1-4bab-8564-b7aca0eb6c2f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Login in progress Title FR']/parent::*</value>
+      <webElementGuid>6fb89136-1c0a-4eaf-837b-0b7a8beeb180</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1</value>
-      <webElementGuid>d3c3b6d4-df8a-43e7-bc75-1e6094f2d25c</webElementGuid>
+      <value>//div/div/div[2]/h2</value>
+      <webElementGuid>b078f8cc-3a99-44b7-a2b9-11321648028a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = 'ASK EDUCATION' or . = 'ASK EDUCATION')]</value>
-      <webElementGuid>c0cea0c3-5a06-4de8-a646-5ced8f142a78</webElementGuid>
+      <value>//h2[(text() = 'Login in progress Title FR' or . = 'Login in progress Title FR')]</value>
+      <webElementGuid>a254e850-9709-4746-89b0-00784a682a45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
