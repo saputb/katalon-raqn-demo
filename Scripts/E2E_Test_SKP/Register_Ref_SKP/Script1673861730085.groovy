@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in')
+
+WebUI.verifyElementVisible(findTestObject('Page_Senregistrer/button_Autoriser tous les cookies'))
+
+WebUI.click(findTestObject('Page_Senregistrer/button_Autoriser tous les cookies'))
+
+WebUI.setText(findTestObject('Page_Senregistrer/input_E-mail_email'), 'john@gmail.com')
+
+WebUI.setText(findTestObject('Page_Senregistrer/input_Mot de passe_password'), 'Test123!!!')
+
+String Ms= WebUI.verifyTextPresent

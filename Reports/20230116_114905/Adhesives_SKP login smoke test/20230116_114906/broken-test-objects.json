@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CATALOGUE\u0027])[2]/following::h1[1]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Catalogue/h1_APPRENDRE ET PROGRESSER_neighbor.png"
+      "pathToScreenshot": "Reports/20230116_114905/Adhesives_SKP login smoke test/20230116_114906/Object Repository/Page_Catalogue/h1_APPRENDRE ET PROGRESSER_neighbor.png"
     }
   ]
 }

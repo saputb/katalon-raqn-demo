@@ -46,6 +46,8 @@ WebUI.verifyElementPresent(findTestObject('Page_Login/h2_Login in progress Title
 
 WebUI.delay(5)
 
+WebUI.delay(5)
+
 WebUI.getWindowTitle()
 
 WebUI.verifyElementVisible(findTestObject('Page_Accueil/a_ACCUEIL'))
@@ -68,11 +70,11 @@ WebUI.verifyElementVisible(findTestObject('Page_Catalogue/h1_APPRENDRE ET PROGRE
 
 WebUI.mouseOver(findTestObject('Page_Catalogue/button_BS'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementClickable(findTestObject('Page_Catalogue/button_SE DCONNECTER'))
 
 WebUI.click(findTestObject('Page_Catalogue/button_SE DCONNECTER'))
-
-WebUI.delay(3)
 
 WebUI.getWindowTitle()
 

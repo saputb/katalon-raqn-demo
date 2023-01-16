@@ -1,0 +1,61 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Adhesives_SKP login smoke test,Chrome 107.0.0.0,,,2023-01-16 11:49:12,2023-01-16 11:57:02,7m - 50.246s,PASSED
+,,,,,,,
+Test Cases/E2E_Test_ADH/Login_Ref_ADH,Chrome 107.0.0.0,,,2023-01-16 11:49:27,2023-01-16 11:49:53,26.369s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2023-01-16 11:49:27,2023-01-16 11:49:29,1.739s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2023-01-16 11:49:29,2023-01-16 11:49:29,0.128s,PASSED
+"navigateToUrl(""https://www-beta-henkel-adhesives-com.ref.web.raqn.io/us/en.html/please-log-me-in"")",Chrome 107.0.0.0,,,2023-01-16 11:49:29,2023-01-16 11:49:32,3.072s,PASSED
+"verifyElementVisible(findTestObject(""Page_Henkel Adhesive Technologies/Text_Cookies_Adhesive""))",Chrome 107.0.0.0,,,2023-01-16 11:49:32,2023-01-16 11:49:33,0.930s,PASSED
+"click(findTestObject(""Page_Henkel Adhesive Technologies/button_Accept All Cookies""))",Chrome 107.0.0.0,,,2023-01-16 11:49:33,2023-01-16 11:49:33,0.489s,PASSED
+"mouseOver(findTestObject(""Page_Henkel Adhesive Technologies/heliux-icon""))",Chrome 107.0.0.0,,,2023-01-16 11:49:33,2023-01-16 11:49:35,2.123s,PASSED
+"click(findTestObject(""Page_Henkel Adhesive Technologies/a_LOG IN""))",Chrome 107.0.0.0,,,2023-01-16 11:49:35,2023-01-16 11:49:36,0.712s,PASSED
+switchToWindowIndex(0),Chrome 107.0.0.0,,,2023-01-16 11:49:36,2023-01-16 11:49:36,0.048s,PASSED
+delay(2),Chrome 107.0.0.0,,,2023-01-16 11:49:36,2023-01-16 11:49:38,2.006s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2023-01-16 11:49:38,2023-01-16 11:49:38,0.012s,PASSED
+delay(2),Chrome 107.0.0.0,,,2023-01-16 11:49:38,2023-01-16 11:49:40,2.006s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:49:40,2023-01-16 11:49:40,0.007s,PASSED
+"verifyElementVisible(findTestObject(""Page_Program Now Login/h1_Welcome to Henkel""), STOP_ON_FAILURE)",Chrome 107.0.0.0,,,2023-01-16 11:49:40,2023-01-16 11:49:41,0.501s,PASSED
+"setText(findTestObject(""Page_Program Now Login/input_Email Address_Email Address""), ""programnow-ah@10minmail.de "")",Chrome 107.0.0.0,,,2023-01-16 11:49:41,2023-01-16 11:49:42,1.032s,PASSED
+"setText(findTestObject(""Page_Program Now Login/input_Forgot your password_Password""), ""Test12345"")",Chrome 107.0.0.0,,,2023-01-16 11:49:42,2023-01-16 11:49:42,0.845s,PASSED
+"click(findTestObject(""Page_Program Now Login/button_Sign in""))",Chrome 107.0.0.0,,,2023-01-16 11:49:42,2023-01-16 11:49:43,0.502s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:49:43,2023-01-16 11:49:43,0.007s,PASSED
+switchToWindowIndex(0),Chrome 107.0.0.0,,,2023-01-16 11:49:43,2023-01-16 11:49:43,0.022s,PASSED
+"mouseOver(findTestObject(""Page_Henkel Adhesive Technologies/heliux-icon""))",Chrome 107.0.0.0,,,2023-01-16 11:49:43,2023-01-16 11:49:44,0.610s,PASSED
+"verifyElementText(findTestObject(""Page_Henkel Adhesive Technologies/h1_Hello Testing Account2""), ""Hello Testing Account2!"")",Chrome 107.0.0.0,,,2023-01-16 11:49:44,2023-01-16 11:49:51,7.761s,PASSED
+"verifyElementClickable(findTestObject(""Page_Henkel Adhesive Technologies/a_My profile""))",Chrome 107.0.0.0,,,2023-01-16 11:49:51,2023-01-16 11:49:52,0.469s,PASSED
+"verifyElementClickable(findTestObject(""Page_Henkel Adhesive Technologies/a_LOG OUT""))",Chrome 107.0.0.0,,,2023-01-16 11:49:52,2023-01-16 11:49:52,0.466s,PASSED
+"click(findTestObject(""Page_Henkel Adhesive Technologies/a_LOG OUT""))",Chrome 107.0.0.0,,,2023-01-16 11:49:52,2023-01-16 11:49:53,0.722s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:49:53,2023-01-16 11:49:53,0.008s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2023-01-16 11:49:53,2023-01-16 11:49:53,0.140s,PASSED
+,,,,,,,
+Test Cases/E2E_Test_SKP/Login_Ref_SKP,Chrome 107.0.0.0,,,2023-01-16 11:54:36,2023-01-16 11:57:02,2m - 25.887s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2023-01-16 11:54:36,2023-01-16 11:54:38,1.928s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2023-01-16 11:54:38,2023-01-16 11:54:38,0.132s,PASSED
+"navigateToUrl(""https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue.html/please-log-me-in"")",Chrome 107.0.0.0,,,2023-01-16 11:54:38,2023-01-16 11:54:42,3.328s,PASSED
+"verifyElementVisible(findTestObject(""Page_Welcome/button_Autoriser tous les cookies""))",Chrome 107.0.0.0,,,2023-01-16 11:54:42,2023-01-16 11:54:44,2.233s,PASSED
+"click(findTestObject(""Page_Welcome/button_Autoriser tous les cookies""))",Chrome 107.0.0.0,,,2023-01-16 11:54:44,2023-01-16 11:55:16,31.953s,PASSED
+"mouseOver(findTestObject(""Page_Welcome/button__login__button login__button--login cta""))",Chrome 107.0.0.0,,,2023-01-16 11:55:16,2023-01-16 11:55:46,30.546s,PASSED
+"click(findTestObject(""Page_Welcome/a_CONNEXION""))",Chrome 107.0.0.0,,,2023-01-16 11:55:46,2023-01-16 11:56:18,31.394s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:56:18,2023-01-16 11:56:18,0.005s,PASSED
+"verifyElementVisible(findTestObject(""Page_Login/div_BIENVENUE  NOUVEAU               Connectez-vous  votre compte                    E-mail                                                                    Mot de passe""), STOP_ON_FAILURE)",Chrome 107.0.0.0,,,2023-01-16 11:56:18,2023-01-16 11:56:20,2.019s,PASSED
+"setText(findTestObject(""Page_Login/input_E-mail_username""), ""bobby.saputra@henkel.com"")",Chrome 107.0.0.0,,,2023-01-16 11:56:20,2023-01-16 11:56:21,0.893s,PASSED
+"setText(findTestObject(""Page_Login/input_Mot de passe_password""), ""Test123!!!"")",Chrome 107.0.0.0,,,2023-01-16 11:56:21,2023-01-16 11:56:22,0.942s,PASSED
+"click(findTestObject(""Page_Login/input_Vous avez oubli votre mot de passe_gigya-input-submit""))",Chrome 107.0.0.0,,,2023-01-16 11:56:22,2023-01-16 11:56:22,0.428s,PASSED
+"verifyElementPresent(findTestObject(""Page_Login/h2_Login in progress Title FR""), 0)",Chrome 107.0.0.0,,,2023-01-16 11:56:22,2023-01-16 11:56:23,1.304s,PASSED
+delay(5),Chrome 107.0.0.0,,,2023-01-16 11:56:23,2023-01-16 11:56:28,5.002s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:56:28,2023-01-16 11:56:28,0.007s,PASSED
+"verifyElementVisible(findTestObject(""Page_Accueil/a_ACCUEIL""))",Chrome 107.0.0.0,,,2023-01-16 11:56:28,2023-01-16 11:56:29,0.475s,PASSED
+"verifyElementVisible(findTestObject(""Page_Accueil/a_MON APPRENTISSAGE""))",Chrome 107.0.0.0,,,2023-01-16 11:56:29,2023-01-16 11:56:29,0.262s,PASSED
+"verifyElementVisible(findTestObject(""Page_Accueil/a_CATALOGUE""))",Chrome 107.0.0.0,,,2023-01-16 11:56:29,2023-01-16 11:56:30,0.366s,PASSED
+"verifyElementVisible(findTestObject(""Page_Accueil/h1_ASK EDUCATION""))",Chrome 107.0.0.0,,,2023-01-16 11:56:30,2023-01-16 11:56:38,8.528s,PASSED
+"verifyElementVisible(findTestObject(""Page_Accueil/h1_BIENVENUE SUR LA NOUVELLE eACADEMY""))",Chrome 107.0.0.0,,,2023-01-16 11:56:38,2023-01-16 11:56:38,0.369s,PASSED
+"verifyElementClickable(findTestObject(""Page_Accueil/a_QUAIMERIEZ-VOUS APPRENDRE""))",Chrome 107.0.0.0,,,2023-01-16 11:56:38,2023-01-16 11:56:40,1.792s,PASSED
+"click(findTestObject(""Page_Accueil/a_QUAIMERIEZ-VOUS APPRENDRE""))",Chrome 107.0.0.0,,,2023-01-16 11:56:40,2023-01-16 11:56:55,14.811s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:56:55,2023-01-16 11:56:55,0.043s,PASSED
+"verifyElementVisible(findTestObject(""Page_Catalogue/h1_APPRENDRE ET PROGRESSER""))",Chrome 107.0.0.0,,,2023-01-16 11:56:55,2023-01-16 11:56:57,2.318s,PASSED
+"mouseOver(findTestObject(""Page_Catalogue/button_BS""))",Chrome 107.0.0.0,,,2023-01-16 11:56:57,2023-01-16 11:56:58,0.581s,PASSED
+"verifyElementClickable(findTestObject(""Page_Catalogue/button_SE DCONNECTER""))",Chrome 107.0.0.0,,,2023-01-16 11:56:58,2023-01-16 11:56:58,0.468s,PASSED
+"click(findTestObject(""Page_Catalogue/button_SE DCONNECTER""))",Chrome 107.0.0.0,,,2023-01-16 11:56:58,2023-01-16 11:56:59,0.512s,PASSED
+delay(3),Chrome 107.0.0.0,,,2023-01-16 11:56:59,2023-01-16 11:57:02,3.007s,PASSED
+getWindowTitle(),Chrome 107.0.0.0,,,2023-01-16 11:57:02,2023-01-16 11:57:02,0.007s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2023-01-16 11:57:02,2023-01-16 11:57:02,0.202s,PASSED
