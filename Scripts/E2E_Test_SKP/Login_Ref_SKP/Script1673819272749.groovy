@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue.html/please-log-me-in')
 
 WebUI.verifyElementVisible(findTestObject('Page_Welcome/button_Autoriser tous les cookies'))

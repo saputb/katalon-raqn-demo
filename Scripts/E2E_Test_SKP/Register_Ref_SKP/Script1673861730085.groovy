@@ -25,8 +25,22 @@ WebUI.verifyElementVisible(findTestObject('Page_Senregistrer/button_Autoriser to
 
 WebUI.click(findTestObject('Page_Senregistrer/button_Autoriser tous les cookies'))
 
-WebUI.setText(findTestObject('Page_Senregistrer/input_E-mail_email'), 'john@gmail.com')
+WebUI.setText(findTestObject('Page_Senregistrer/input_E-mail_email'), 'dontobono@gmail.com')
 
 WebUI.setText(findTestObject('Page_Senregistrer/input_Mot de passe_password'), 'Test123!!!')
 
-String Ms= WebUI.verifyTextPresent
+String Ms = WebUI.verifyTextPresent('invalid email address', false)
+
+if (Ms.equals('true')) {
+    int RN
+
+    RN = ((Math.random() * 500) as int)
+
+    WebUI.setText(findTestObject('Page_Senregistrer/input_E-mail_email'), ('dontobono' + RN) + '@gmail.com')
+
+    WebUI.click(findTestObject('Page_Senregistrer/input_Prfrences de communication_gigya-input-submit'))
+
+} else {
+    WebUI.comment('Registration Successful')
+}
+
