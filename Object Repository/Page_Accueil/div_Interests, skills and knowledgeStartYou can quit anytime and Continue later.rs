@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Interests, skills and knowledgeStartYou can quit anytime and Continue later</name>
+   <tag></tag>
+   <elementGuidId>50edbfdd-09d9-41bc-a4e1-7e55511b43b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pf-root']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pf__wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a41bc706-6ada-45a5-a740-49d522f82022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pf__wrapper</value>
+      <webElementGuid>85553417-f007-420d-8c3f-772f42229e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interests, skills and knowledgeStartYou can quit anytime and Continue later</value>
+      <webElementGuid>b9c9602c-9527-414a-adbf-c889a7be23fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pf-root&quot;)/div[@class=&quot;pf__app&quot;]/div[@class=&quot;pf__wrapper&quot;]</value>
+      <webElementGuid>26c9ef21-064b-4898-a72b-e45e2cc56d92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pf-root']/div/div</value>
+      <webElementGuid>cb549da6-9f21-4424-9058-8bd7d44dc82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[23]</value>
+      <webElementGuid>f99f883f-4d12-4459-97c7-3b87690eeb86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[23]</value>
+      <webElementGuid>b409f5a2-0e0c-49cb-956d-f95fb9b17d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>c3751ae5-9d69-405f-be01-868ba9c04caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Interests, skills and knowledgeStartYou can quit anytime and Continue later' or . = 'Interests, skills and knowledgeStartYou can quit anytime and Continue later')]</value>
+      <webElementGuid>b61c80f9-dbdc-4fd1-9ed4-02b9329f22cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

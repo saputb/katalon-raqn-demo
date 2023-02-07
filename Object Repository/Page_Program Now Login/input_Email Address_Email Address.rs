@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ae00cbc0-bec0-4e7c-a204-0c0612f2b1c5</webElementGuid>
+      <webElementGuid>e6a133b6-1257-4335-84a2-f6b06f3cc85e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5c34836f-7776-4aa6-a2d7-61ba3582609e</webElementGuid>
+      <webElementGuid>fa3cbb6b-2bc4-403d-8d86-0150856a58a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>signInName</value>
-      <webElementGuid>188bb254-07bf-4877-9f9d-fb3b093659de</webElementGuid>
+      <webElementGuid>3aa135df-9267-4f4a-8061-bd44b54d3cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Email Address</value>
-      <webElementGuid>932feea6-6320-40d1-8142-cfca52f2cf5f</webElementGuid>
+      <webElementGuid>4b3ef266-2c03-4fb1-9133-e5e1fa1787b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Please enter a valid Email Address</value>
-      <webElementGuid>afbe98d3-af8f-4dfd-a9f1-fd6cfc92b21e</webElementGuid>
+      <webElementGuid>ead58097-c6b8-4e23-9107-47b3ff2792cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email Address</value>
-      <webElementGuid>80da98d6-303d-445c-90a1-706b98dc021c</webElementGuid>
+      <webElementGuid>c053579d-8a7f-45d2-96bb-7c68e7234d85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Email Address</value>
-      <webElementGuid>7ded6946-a879-446e-ae33-82fe03229d05</webElementGuid>
+      <webElementGuid>2597f008-1cac-455e-a222-d279a0bf6ddc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signInName&quot;)</value>
-      <webElementGuid>049ebd8e-2bc3-4458-9558-646e06f55e32</webElementGuid>
+      <webElementGuid>e5588e9f-8ac7-48f7-976a-eefe5b2abfc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='signInName']</value>
-      <webElementGuid>7f823fa1-306e-4d52-9b43-806603d08546</webElementGuid>
+      <webElementGuid>c84dee7c-3826-4eee-a9e1-cf3808589c8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='localAccountForm']/div[3]/div/input</value>
-      <webElementGuid>eaa2ddaa-c6e6-437c-9ae0-946d7d8bb095</webElementGuid>
+      <webElementGuid>77ffa9cb-408c-46d6-83f3-c702716b1af3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>fb4998e3-c186-4fc8-b395-0695a605abc6</webElementGuid>
+      <webElementGuid>72be7af6-bd18-4a12-b324-101b6e3d1ebd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'signInName' and @name = 'Email Address' and @title = 'Please enter a valid Email Address' and @placeholder = 'Email Address']</value>
-      <webElementGuid>47c19a1a-8b1c-499d-8096-91d8299bf78c</webElementGuid>
+      <webElementGuid>5bb2d755-af6f-4780-a2a5-41478883d1ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

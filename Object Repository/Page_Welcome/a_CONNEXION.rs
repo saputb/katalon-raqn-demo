@@ -6,12 +6,12 @@
    <elementGuidId>22d7d765-fb5e-493c-aafe-c50badd4212d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#calltoaction-f4f1d682f9</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='calltoaction-f4f1d682f9']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#calltoaction-f4f1d682f9</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ca789109-f81c-4691-92ba-cf5a31d7a99d</webElementGuid>
+      <webElementGuid>eaeb5a28-540e-4586-83aa-12b394772f09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calltoaction-f4f1d682f9</value>
-      <webElementGuid>311d9f11-52dc-40e0-9b06-d4f25530aa4d</webElementGuid>
+      <webElementGuid>d66cc015-7022-443c-b9a7-5c861865ed4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-customizationclass</name>
       <type>Main</type>
       <value>calltoaction1661250876704</value>
-      <webElementGuid>a89d72d4-b4a9-48e9-9af8-6e77d8263978</webElementGuid>
+      <webElementGuid>7890329f-9b13-4688-8424-bb138aa42777</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta </value>
-      <webElementGuid>34b8b3bc-040f-4542-8ad2-7651788d8954</webElementGuid>
+      <webElementGuid>1492823c-879c-4830-805a-7c535c09c962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/fr/fr/bienvenue/login.html</value>
-      <webElementGuid>2f492ef6-3637-46f5-aa0c-5680031ffbd7</webElementGuid>
+      <webElementGuid>baa1b9ef-a965-4609-aa78-e1928ff3bfc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-components-params-calltoactionmodalcontrol</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;&quot;}</value>
-      <webElementGuid>bdfe0897-2dee-4b97-b3d2-3c2db2874a53</webElementGuid>
+      <webElementGuid>72491392-5b6f-4577-a81c-17ba15e67f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CallToActionModalControl</value>
-      <webElementGuid>d8432b16-b4e9-479e-a7f3-918a0b0c224a</webElementGuid>
+      <webElementGuid>6b7fec68-9762-48f5-bc51-a52144884e16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
           
           CONNEXION
       </value>
-      <webElementGuid>54cbc8e0-cc75-4efc-9afd-0458d214c707</webElementGuid>
+      <webElementGuid>a390d5dd-1c4f-42d8-a9f2-ffc81d4a2401</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calltoaction-f4f1d682f9&quot;)</value>
-      <webElementGuid>05007c5c-1d6a-497c-b799-f6db6b5f5de6</webElementGuid>
+      <webElementGuid>65cb34ae-980a-4152-a3b0-23c2ccb7838b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='calltoaction-f4f1d682f9']</value>
-      <webElementGuid>93e3f18b-d5e8-44d7-9fc5-d169e9e0eb1e</webElementGuid>
+      <webElementGuid>04b4ec34-95f0-464d-b025-3af05cce8abd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper-calltoaction-f4f1d682f9']/div/a</value>
-      <webElementGuid>28bd8d21-093e-4684-9908-9d5a87e30bc4</webElementGuid>
+      <webElementGuid>029f88d9-444f-49c6-bf2b-08d2aaee7760</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::a[3]</value>
-      <webElementGuid>06b854fd-1396-4534-af83-29218c5dfd08</webElementGuid>
+      <webElementGuid>51f15395-3da2-454d-ac0b-27c24f1e017e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('S', &quot;'&quot;, 'ENREGISTRER')])[1]/preceding::a[1]</value>
-      <webElementGuid>a8556305-56c1-4700-820c-d82eabe5af97</webElementGuid>
+      <webElementGuid>4c9097de-0cae-49f6-a714-297fe671e44d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/fr/fr/bienvenue/login.html')]</value>
-      <webElementGuid>9e7d5a4f-cd1a-43eb-9315-1d8109d72766</webElementGuid>
+      <webElementGuid>ef881ccf-e298-4e31-9638-6b68cffd5b43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a</value>
-      <webElementGuid>18cad83d-95ea-4124-9314-cfc5ab6415f3</webElementGuid>
+      <webElementGuid>5e36da4a-5f39-4f64-a133-a703f1466312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
           
           CONNEXION
       ')]</value>
-      <webElementGuid>7190db3c-d1a5-49a9-8219-7c8ebf878375</webElementGuid>
+      <webElementGuid>4359fbe3-4f1d-4f41-8b10-7aa866a88ec2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

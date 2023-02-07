@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>98aa6bae-87c1-4b6e-befc-95d7fe644e56</webElementGuid>
+      <webElementGuid>c9b2b954-025f-4452-8444-d3f07bf7ce53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calltoaction-659f40495f</value>
-      <webElementGuid>5982f7ff-95af-4df2-8be7-666e4e192b83</webElementGuid>
+      <webElementGuid>0719fdda-c59c-459f-8129-924f47342269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-customizationclass</name>
       <type>Main</type>
       <value>customizations__calltoaction</value>
-      <webElementGuid>ba0907b2-5a59-4677-b84a-e89575c73f78</webElementGuid>
+      <webElementGuid>702b715a-9019-45ca-8fdb-d4575be326b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta </value>
-      <webElementGuid>f87d8abb-2680-4c99-b71b-622f3adce575</webElementGuid>
+      <webElementGuid>ca6c5be9-7218-4958-9e2e-f2892cb14332</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/us/en/profile.html</value>
-      <webElementGuid>a5a15db2-6e94-43fa-9bf1-bd5e488541b6</webElementGuid>
+      <webElementGuid>d82bf624-5587-426f-8538-ae278b2ac063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
-      <webElementGuid>e34d5846-c855-4011-9b22-f62ecf31f946</webElementGuid>
+      <webElementGuid>12748d2d-b38f-4070-b0f4-ae62cf106f91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-components-params-calltoactionmodalcontrol</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;_self&quot;}</value>
-      <webElementGuid>7f1b9245-cbab-4dfe-a8f5-49e791670041</webElementGuid>
+      <webElementGuid>ad126177-6efe-40a4-ba31-0c2c3daf067a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CallToActionModalControl</value>
-      <webElementGuid>ef15e4e8-376c-40d3-81c8-09540b0266e5</webElementGuid>
+      <webElementGuid>e81556d9-1123-4d9c-8d47-1673a53819cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -89,7 +89,7 @@
           
           My profile
       </value>
-      <webElementGuid>b5b111c7-43ab-4af7-8b0e-486a3038add6</webElementGuid>
+      <webElementGuid>53b64cb3-adf3-4e99-b45e-32b00d37ced3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calltoaction-659f40495f&quot;)</value>
-      <webElementGuid>2108128a-fe0f-4ccb-9e2e-b5734e62090a</webElementGuid>
+      <webElementGuid>69f32d0b-d021-41b5-b0b5-88a397a3c867</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='calltoaction-659f40495f']</value>
-      <webElementGuid>30e6cda4-f0dc-452e-bb47-19a071cf65e9</webElementGuid>
+      <webElementGuid>6c9f05cd-709d-4ef8-8bd7-d86471cc0b96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper-calltoaction-659f40495f']/div/a</value>
-      <webElementGuid>02d63f94-362d-4def-92ce-ec83f4eb54a3</webElementGuid>
+      <webElementGuid>c9370afc-3009-4655-b947-53939dfad613</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Testing Account2!'])[1]/following::a[1]</value>
-      <webElementGuid>f4f04b56-903d-427c-b710-0f8133d49927</webElementGuid>
+      <webElementGuid>69a5f4fc-3c04-42f2-92dc-f34fe998c500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TA'])[1]/following::a[1]</value>
-      <webElementGuid>b2e9d870-bcdf-4b06-bc88-408d3a0f53f3</webElementGuid>
+      <webElementGuid>088d7328-7566-4405-a51f-aa4f5132c4a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LOG OUT'])[1]/preceding::a[1]</value>
-      <webElementGuid>08663b91-32b5-42f4-9ea4-77b2e1cdb1bb</webElementGuid>
+      <webElementGuid>79bca44f-67bc-4beb-81d5-d9f89898397d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/us/en/profile.html')]</value>
-      <webElementGuid>76df8684-62a5-42a6-a1e9-2363938647d0</webElementGuid>
+      <webElementGuid>f68aaecc-730f-4c30-b955-ea33abc8ccff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -153,7 +153,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a</value>
-      <webElementGuid>31a7ec24-9b28-4439-b69a-b3c7e6c0dd9b</webElementGuid>
+      <webElementGuid>c775553c-a80a-49a6-ae8b-0bd59c7d15a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +167,6 @@
           
           My profile
       ')]</value>
-      <webElementGuid>b49845de-0016-44b8-a3a7-5b0f10d50945</webElementGuid>
+      <webElementGuid>64fbd2b0-77b4-4b28-92d1-8de204bfe2d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

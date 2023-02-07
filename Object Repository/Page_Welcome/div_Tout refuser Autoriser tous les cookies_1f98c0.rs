@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tout refuser Autoriser tous les cookies_1f98c0</name>
+   <tag></tag>
+   <elementGuidId>b09fa4eb-dcad-46d3-aee7-52264e9e2791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onetrust-button-group-parent']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-button-group-parent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>766bab20-5117-4dff-8cb4-de1a3b5bd39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-button-group-parent</value>
+      <webElementGuid>ae7e6c2c-00e1-49fc-8a42-ce40ccb8a852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ot-sdk-twelve ot-sdk-columns has-reject-all-button</value>
+      <webElementGuid>2f03374e-e4a4-4216-b370-9a034de844a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tout refuser Autoriser tous les cookiesParamètres des cookies</value>
+      <webElementGuid>aa2c4bb8-94f0-469a-8ecc-f7ac740f2309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-button-group-parent&quot;)</value>
+      <webElementGuid>aa45888e-088d-4273-9d8d-91e6e96d82f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-button-group-parent']</value>
+      <webElementGuid>9a61ed6f-eb2f-4409-be70-a72068460d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-banner-sdk']/div/div/div[2]</value>
+      <webElementGuid>24427ecd-dfcb-46c4-afd9-f24fd6f1764d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merci d’accepter les cookies pour bénéficier de toute l’expérience'])[1]/following::div[1]</value>
+      <webElementGuid>f48d7190-b753-4104-828c-08ec60a9d5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTES POUR LES RÉSIDENTS DES ÉTATS-UNIS'])[1]/following::div[20]</value>
+      <webElementGuid>04ca5187-e66a-4946-be48-563b0402380e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div[2]</value>
+      <webElementGuid>c8641393-a9a4-429f-8ece-1750620ee5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'onetrust-button-group-parent' and (text() = 'Tout refuser Autoriser tous les cookiesParamètres des cookies' or . = 'Tout refuser Autoriser tous les cookiesParamètres des cookies')]</value>
+      <webElementGuid>607c7163-04d9-4f55-97c7-7f7c35064a54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

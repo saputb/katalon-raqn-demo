@@ -19,28 +19,26 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.verifyElementVisible(findTestObject('Page_Senregistrer/button_Autoriser tous les cookies'))
+WebUI.click(findTestObject('Object Repository/Page_Google/div_Accept all'))
 
-WebUI.click(findTestObject('Page_Senregistrer/button_Autoriser tous les cookies'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Google/div_gLFyf,.YacQvheight34pxfont-size16pxflex_8b6c18'), 
+    0)
 
-WebUI.setText(findTestObject('Page_Senregistrer/input_E-mail_email'), 'dontobono@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'Henkel dx')
 
-WebUI.setText(findTestObject('Page_Senregistrer/input_Mot de passe_password'), 'Test123!!!')
+WebUI.sendKeys(findTestObject('Object Repository/Page_Google/input__q'), Keys.chord(Keys.ENTER))
 
-String Ms = WebUI.verifyTextPresent('invalid email address', false)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Henkel dx - Google Search/h3_Digital Transformation - Henkel'))
 
-if (Ms.equals('true')) {
-    int RN
+WebUI.click(findTestObject('Object Repository/Page_Henkel dx - Google Search/h3_Digital Transformation - Henkel'))
 
-    RN = ((Math.random() * 500) as int)
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Digital Transformation/button_Accept All Cookies'))
 
-    WebUI.setText(findTestObject('Page_Senregistrer/input_E-mail_email'), ('dontobono' + RN) + '@gmail.com')
+WebUI.click(findTestObject('Object Repository/Page_Digital Transformation/button_Accept All Cookies'))
 
-    WebUI.click(findTestObject('Page_Senregistrer/input_Prfrences de communication_gigya-input-submit'))
+WebUI.closeBrowser()
 
-} else {
-    WebUI.comment('Registration Successful')
-}
+WebUI.refresh()
 

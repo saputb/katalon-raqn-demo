@@ -6,12 +6,12 @@
    <elementGuidId>19137f06-d3fd-4ebf-9b03-fdb1ba2ae7d4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.login__button.login__button--login.cta</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='header-controls']/heliux-login/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.login__button.login__button--login.cta</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fb85c6f1-b3fa-4adc-827d-82d3d7ef8f53</webElementGuid>
+      <webElementGuid>7af19190-bfc4-4c60-8dd6-d7f8e70e91cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login__button login__button--login cta</value>
-      <webElementGuid>08ec07f3-526f-4632-a341-64e284662f71</webElementGuid>
+      <webElementGuid>4d820235-1e9f-49f6-8e17-5939872e08cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-controls&quot;)/heliux-login[@class=&quot;login&quot;]/div[@class=&quot;login__wrapper login--loggedOut login1667733523206&quot;]/button[@class=&quot;login__button login__button--login cta&quot;]</value>
-      <webElementGuid>de684017-6605-4b50-950f-b5a9733430b6</webElementGuid>
+      <webElementGuid>5f93e90b-4138-430e-971d-bb1b8d5baac3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-controls']/heliux-login/div/button</value>
-      <webElementGuid>b846fb2f-e337-4dea-9a31-46cf97132550</webElementGuid>
+      <webElementGuid>bd91c54a-1261-46ff-9780-bc174e8a42ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::button[2]</value>
-      <webElementGuid>9f74b26b-e463-484a-ac6a-a35a579aff96</webElementGuid>
+      <webElementGuid>25765724-f039-4c8d-9445-f89c565ff6b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CONNEXION'])[1]/preceding::button[2]</value>
-      <webElementGuid>fe678210-3b39-40d8-ba58-92fd4f406393</webElementGuid>
+      <webElementGuid>e07bffcb-5b64-4b4e-96f1-67525e0bf759</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('S', &quot;'&quot;, 'ENREGISTRER')])[1]/preceding::button[2]</value>
-      <webElementGuid>c47f83a5-1dee-4172-b448-49d3925ba0c5</webElementGuid>
+      <webElementGuid>776f45f5-0092-4543-8322-bebb76fb539a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button</value>
-      <webElementGuid>9981b81a-149c-474a-a19f-a231bccb42b1</webElementGuid>
+      <webElementGuid>256b97eb-1145-4438-b5c7-a52634f24a6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6cc94182-8989-4b12-8722-a377733ec166</webElementGuid>
+      <webElementGuid>e50e6f43-88d6-4805-86e9-84a2e2e8e9ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calltoaction-07d3383d83</value>
-      <webElementGuid>b6918b2e-05b4-47f3-bd7d-9f9be4fbf155</webElementGuid>
+      <webElementGuid>8682356b-f502-4ba8-afd3-df90158496c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-customizationclass</name>
       <type>Main</type>
       <value>customizations__calltoaction</value>
-      <webElementGuid>942aa81a-0c2c-4d09-90bb-957c60557b05</webElementGuid>
+      <webElementGuid>73b67e08-c402-41a0-875b-cd41493a6845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta </value>
-      <webElementGuid>257f15b4-5881-464c-9a47-4dc5fddf2520</webElementGuid>
+      <webElementGuid>2a39d762-e5c7-45d1-bdf7-b1bd2090858c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CiamCallToAction</value>
-      <webElementGuid>8771b58e-5dff-4fbb-a9b9-5f53043ed0fd</webElementGuid>
+      <webElementGuid>d0bdb40c-acf1-4f48-9a8e-c496c46e555d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-components-params-ciamcalltoaction</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;type&quot;:&quot;logout&quot;,&quot;flow&quot;:&quot;redirect&quot;,&quot;redirectUrl&quot;:&quot;/content/heliux/adhesive/program-now-test/us/en/home&quot;,&quot;enabled&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;&quot;}</value>
-      <webElementGuid>97e7b68b-776e-455f-8999-ee6bcad71b57</webElementGuid>
+      <webElementGuid>8fecb5e1-10ad-44db-8034-24beedb2b6fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
           
           LOG OUT
       </value>
-      <webElementGuid>3255a289-d3d7-4679-808b-b91b731f550d</webElementGuid>
+      <webElementGuid>b631cd21-20c0-4380-8b0b-25100e474e71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calltoaction-07d3383d83&quot;)</value>
-      <webElementGuid>2e1d8e9e-0f9f-408d-b27f-643de3ea3359</webElementGuid>
+      <webElementGuid>8a3aec80-9ad0-452a-a3a5-9cc6689e8f7b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='calltoaction-07d3383d83']</value>
-      <webElementGuid>6397715c-c15e-46d3-8a70-4c260a409c9e</webElementGuid>
+      <webElementGuid>6ee8069a-26cc-4ac9-956f-dd5c2e44e675</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper-calltoaction-07d3383d83']/div/a</value>
-      <webElementGuid>233d4313-c77d-4a47-8adf-d1912f11fc07</webElementGuid>
+      <webElementGuid>759cc2af-2473-4bfe-8fb9-d3ff7707a473</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My profile'])[1]/following::a[1]</value>
-      <webElementGuid>d237a875-85c1-4bb0-9fe5-6eeed1812ea8</webElementGuid>
+      <webElementGuid>d9238c70-1db8-4e94-b903-c441c2823eab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello Testing Account2!'])[1]/following::a[2]</value>
-      <webElementGuid>c3c6ce66-0761-4803-8ded-1e91e3ff897b</webElementGuid>
+      <webElementGuid>bea18ce5-d419-4340-823a-30b18d30c416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Henkel Adhesive Technologies'])[2]/preceding::a[1]</value>
-      <webElementGuid>6428770e-7f23-469a-969d-5e65f9d1bb3e</webElementGuid>
+      <webElementGuid>4216b13f-5683-448f-9e93-b20c7d104c3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//heliux-calltoaction[2]/div/div/a</value>
-      <webElementGuid>8bad167a-f3c4-49ed-98fd-21cb7e8f03a0</webElementGuid>
+      <webElementGuid>d3c3c552-964e-4f50-90f0-9c4a7b9080c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
           
           LOG OUT
       ')]</value>
-      <webElementGuid>bdb66b9e-b9ba-4986-81e7-91d2bd059a9a</webElementGuid>
+      <webElementGuid>05070c8b-b0ff-4286-99df-01c071bdf888</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

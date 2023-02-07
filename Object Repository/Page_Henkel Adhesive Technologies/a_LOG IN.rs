@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dfa7445e-ba19-4d5b-aa77-871ceae3454e</webElementGuid>
+      <webElementGuid>b1db54e8-b5a9-40b2-9f99-c15c6ebbd756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calltoaction-5e4d4f9739</value>
-      <webElementGuid>25b0ee16-5c91-460c-9704-1b8ab2fb636c</webElementGuid>
+      <webElementGuid>6ca23097-7d89-48a3-a64a-847ce0bc396c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-customizationclass</name>
       <type>Main</type>
       <value>customizations__calltoaction</value>
-      <webElementGuid>a3f6efca-0ebe-45c0-bfe8-afed9c93ec47</webElementGuid>
+      <webElementGuid>22af95c1-efbe-4013-a60d-03897965d4f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta </value>
-      <webElementGuid>7f96253c-e1db-4aed-874b-e0918db4284e</webElementGuid>
+      <webElementGuid>4b0b7e87-5848-4c2b-9028-cce0fb677416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CiamCallToAction</value>
-      <webElementGuid>c0f388b7-2f8f-420b-951b-d439202a0cc1</webElementGuid>
+      <webElementGuid>c8093bee-2950-4bb4-b069-5681f87becbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-components-params-ciamcalltoaction</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;type&quot;:&quot;login&quot;,&quot;flow&quot;:&quot;popup&quot;,&quot;redirectUrl&quot;:&quot;/content/heliux/adhesive/program-now/us/en/ecommerce-poc/user-details&quot;,&quot;enabled&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;&quot;}</value>
-      <webElementGuid>c52fd5ed-f7b1-4158-a535-7e35e25cd70a</webElementGuid>
+      <webElementGuid>6df86e9f-d182-4f87-9f71-479171095f15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
           
           LOG IN
       </value>
-      <webElementGuid>fd1d7891-f578-464e-beac-f73facb931ea</webElementGuid>
+      <webElementGuid>35873768-183c-4adf-8a83-906299a6e05e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calltoaction-5e4d4f9739&quot;)</value>
-      <webElementGuid>0b0fe920-9f29-4d9f-8b12-2f2ca52f02a1</webElementGuid>
+      <webElementGuid>96f6c107-bd2f-43a4-813d-cd2bdbeee062</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='calltoaction-5e4d4f9739']</value>
-      <webElementGuid>931ba88d-f3af-49cb-82f3-bd0e2a5c8b8b</webElementGuid>
+      <webElementGuid>d3f9216a-e706-4b23-9c18-56bf130efc1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper-calltoaction-5e4d4f9739']/div/a</value>
-      <webElementGuid>daf729e8-7ed3-4640-b140-8509ee4d3308</webElementGuid>
+      <webElementGuid>1fc912bb-d430-4616-b538-99084ef75c64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear search history'])[1]/following::a[2]</value>
-      <webElementGuid>37588859-f67e-4218-8c67-f5d76fc3e7f8</webElementGuid>
+      <webElementGuid>2a5ad47e-3c03-4461-9b0d-3eb4fba2b4ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/following::a[2]</value>
-      <webElementGuid>95e02a9b-deea-4276-846a-aa177f0a6f96</webElementGuid>
+      <webElementGuid>7a89b090-b778-4515-ad13-cca95de8056e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::a[1]</value>
-      <webElementGuid>9572d0cb-e4ed-45f1-9cc3-93ceb7ee862e</webElementGuid>
+      <webElementGuid>34e47e9e-e13c-4fa9-9089-99501e066078</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a</value>
-      <webElementGuid>e50e5f05-f702-4b73-85dc-f82271026797</webElementGuid>
+      <webElementGuid>8d662ab9-f7ef-4cb5-8a1c-8a48f98e6502</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
           
           LOG IN
       ')]</value>
-      <webElementGuid>286fb353-61c1-4b0b-ad58-aa3f6914bf6e</webElementGuid>
+      <webElementGuid>4d6c5c9c-6003-4ea7-9939-3dc6e82c4d16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

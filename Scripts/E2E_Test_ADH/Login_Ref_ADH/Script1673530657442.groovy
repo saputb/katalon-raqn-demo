@@ -23,13 +23,13 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www-beta-henkel-adhesives-com.ref.web.raqn.io/us/en.html/please-log-me-in')
 
-WebUI.verifyElementVisible(findTestObject('Page_Henkel Adhesive Technologies/Text_Cookies_Adhesive'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/Text_Cookies_Adhesive'))
 
-WebUI.click(findTestObject('Page_Henkel Adhesive Technologies/button_Accept All Cookies'))
+WebUI.click(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/button_Accept All Cookies'))
 
-WebUI.mouseOver(findTestObject('Page_Henkel Adhesive Technologies/heliux-icon'))
+WebUI.mouseOver(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/heliux-icon'))
 
-WebUI.click(findTestObject('Page_Henkel Adhesive Technologies/a_LOG IN'))
+WebUI.click(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/a_LOG IN'))
 
 WebUI.switchToWindowIndex(0)
 
@@ -41,27 +41,28 @@ WebUI.delay(2)
 
 WebUI.getWindowTitle()
 
-WebUI.verifyElementVisible(findTestObject('Page_Program Now Login/h1_Welcome to Henkel'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Page_Program Now Login/p_Login to enter your account'))
 
-WebUI.setText(findTestObject('Page_Program Now Login/input_Email Address_Email Address'), 'programnow-ah@10minmail.de ')
+WebUI.setText(findTestObject('Object Repository/Page_Program Now Login/input_Email Address_Email Address'), 'programnow-ah@10minmail.de ')
 
-WebUI.setText(findTestObject('Page_Program Now Login/input_Forgot your password_Password'), 'Test12345')
+WebUI.setText(findTestObject('Object Repository/Page_Program Now Login/input_Forgot your password_Password'), 'Test12345')
 
-WebUI.click(findTestObject('Page_Program Now Login/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/Page_Program Now Login/button_Sign in'))
 
 WebUI.getWindowTitle()
 
 WebUI.switchToWindowIndex(0)
 
-WebUI.mouseOver(findTestObject('Page_Henkel Adhesive Technologies/heliux-icon'))
+WebUI.mouseOver(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/heliux-icon'))
 
-WebUI.verifyElementText(findTestObject('Page_Henkel Adhesive Technologies/h1_Hello Testing Account2'), 'Hello Testing Account2!')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/h1_Hello Testing Account2'), 
+    'Hello Testing Account2!')
 
-WebUI.verifyElementClickable(findTestObject('Page_Henkel Adhesive Technologies/a_My profile'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/a_My profile'))
 
-WebUI.verifyElementClickable(findTestObject('Page_Henkel Adhesive Technologies/a_LOG OUT'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/a_LOG OUT'))
 
-WebUI.click(findTestObject('Page_Henkel Adhesive Technologies/a_LOG OUT'))
+WebUI.click(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/a_LOG OUT'))
 
 WebUI.getWindowTitle()
 

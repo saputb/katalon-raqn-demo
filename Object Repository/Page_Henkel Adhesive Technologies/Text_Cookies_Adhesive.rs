@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>e3ffe299-5b35-4321-8d98-6dfd1860fad7</webElementGuid>
+      <webElementGuid>731e027b-44c2-4132-b6aa-06076fd66129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-policy-text</value>
-      <webElementGuid>4a3266d2-4c93-45a0-abbd-71e6dc9885ad</webElementGuid>
+      <webElementGuid>923508eb-7328-4d73-a03e-2b97b73ca3bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </value>
-      <webElementGuid>075f3c06-c21b-48bc-ab70-754817852e80</webElementGuid>
+      <webElementGuid>9578a40a-58b6-498b-b599-79fd3c5f51af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onetrust-policy-text&quot;)</value>
-      <webElementGuid>39c2fe79-d084-4586-a1d9-5896050b6409</webElementGuid>
+      <webElementGuid>c597f799-7a89-418c-ba03-9e867a9fc81e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id='onetrust-policy-text']</value>
-      <webElementGuid>b0bcca23-5c28-4d77-a32f-9d5c9e925dc1</webElementGuid>
+      <webElementGuid>5d56fdd0-439c-46fb-9f69-c8f078cdbae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-policy']/p</value>
-      <webElementGuid>10ceb55e-ce49-4b9e-b45c-958ca57dac77</webElementGuid>
+      <webElementGuid>b16af222-831a-403d-8e44-072bec89a843</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please accept our cookies to get the best experience of our website.'])[1]/following::p[1]</value>
-      <webElementGuid>2506b011-ac64-4a27-acd8-b65401731b3e</webElementGuid>
+      <webElementGuid>cdbf5ecb-6270-465b-823d-8b1f875856f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[1]</value>
-      <webElementGuid>5532db95-d5ec-42cc-9d4b-9deb87425d2e</webElementGuid>
+      <webElementGuid>ffedab97-f6cc-42c3-809b-7a251426d687</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept All Cookies'])[1]/preceding::p[1]</value>
-      <webElementGuid>805d16a1-6324-455a-b579-136532980a38</webElementGuid>
+      <webElementGuid>8f886051-0e6c-4d0a-ace2-059ca03399f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Settings'])[1]/preceding::p[1]</value>
-      <webElementGuid>f2d863a6-5489-4a82-997f-c4235f8ea1be</webElementGuid>
+      <webElementGuid>86f292c7-fe6f-4455-b577-008def606582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.']/parent::*</value>
-      <webElementGuid>443cf63b-1d25-48bc-aa66-2f30ab463b6c</webElementGuid>
+      <webElementGuid>be0215e6-74ee-4fc1-92e7-d6efd2613bb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/p</value>
-      <webElementGuid>69eb8b8d-399c-402b-b7e7-8858c3e6936e</webElementGuid>
+      <webElementGuid>8a314012-6295-49b6-9200-8c65424028d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = 'onetrust-policy-text' and (text() = 'By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. ' or . = 'By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. ')]</value>
-      <webElementGuid>06ecbeee-a5e9-4cba-8a2f-2f92b323459a</webElementGuid>
+      <webElementGuid>a4c9418c-489d-4710-a21c-86f62f231db9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

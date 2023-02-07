@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>heliux-icon</value>
-      <webElementGuid>e1adaef6-5854-4896-9f1d-987a8156ad31</webElementGuid>
+      <webElementGuid>9eee9c1d-69cb-4e22-b852-399588d855ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-controls&quot;)/heliux-login[@class=&quot;login&quot;]/div[@class=&quot;login__wrapper login--loggedOut login1672834451901&quot;]/button[@class=&quot;login__button login__button--login cta&quot;]/heliux-icon[1]</value>
-      <webElementGuid>760722a8-0686-4115-98d3-09d25ef467db</webElementGuid>
+      <webElementGuid>b1637b41-a65e-4fa9-9f72-7727d81f72b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-controls']/heliux-login/div/button/heliux-icon</value>
-      <webElementGuid>67e76bf9-2582-4a6b-afd3-022d77c4e763</webElementGuid>
+      <webElementGuid>2628a87e-306f-4dfc-b9b4-8e7428fec98d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear search history'])[1]/following::heliux-icon[3]</value>
-      <webElementGuid>0bb3efc7-b914-4876-9069-166005d42e35</webElementGuid>
+      <webElementGuid>8a783743-d0e0-4e18-838a-7976982651e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/following::heliux-icon[6]</value>
-      <webElementGuid>586bbf66-d1a9-4776-9ef7-cf74003ec174</webElementGuid>
+      <webElementGuid>ebc42a18-d5dc-4a36-8a31-4d2e70ded99c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LOG IN'])[1]/preceding::heliux-icon[3]</value>
-      <webElementGuid>83340eb8-d7a1-454e-8d47-d7c8ef18d7e2</webElementGuid>
+      <webElementGuid>fd6242ea-07ad-48dc-97ec-b1f6de1344df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::heliux-icon[3]</value>
-      <webElementGuid>e8f1c983-d61e-43ce-9612-c36c3c4cd400</webElementGuid>
+      <webElementGuid>d5a4fb14-ac40-4f5f-8e5c-98d4ebe5b7a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//heliux-login/div/button/heliux-icon</value>
-      <webElementGuid>e7b42030-d633-4cc3-87b7-866ddf022c6d</webElementGuid>
+      <webElementGuid>503e6ac3-23f1-49e0-bd96-71661c815d2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

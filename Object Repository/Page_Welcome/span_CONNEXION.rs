@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5e47eb6b-97fc-475d-9f5b-0e83a853ee0d</webElementGuid>
+      <webElementGuid>cfbc8c8d-395a-448a-9a48-554a448c3093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__text calltoaction__text--initial</value>
-      <webElementGuid>d69b963a-0f57-41e4-8cc4-27b4d7d5f2b7</webElementGuid>
+      <webElementGuid>483a5724-8faa-4d07-81db-3dc2d0a809b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CONNEXION</value>
-      <webElementGuid>41d7503f-26df-4921-b896-7bb1d9f46fc1</webElementGuid>
+      <webElementGuid>85e79751-a906-4644-8aa9-9433c55abf3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calltoaction-f4f1d682f9&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
-      <webElementGuid>f8c22d80-c554-405b-8e15-a8bc14daf466</webElementGuid>
+      <webElementGuid>5f540e48-96ef-4e56-be22-3114a98ff813</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='calltoaction-f4f1d682f9']/span</value>
-      <webElementGuid>ccc0f0ba-beca-4a79-9c8a-88a324502817</webElementGuid>
+      <webElementGuid>f5d35a9a-c5d5-4fd8-86cb-85d6f7db7c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::span[4]</value>
-      <webElementGuid>5a691373-ac77-4bed-8d42-f3bd68338415</webElementGuid>
+      <webElementGuid>b4caf831-8a3d-4610-a570-039e0ebd7482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('S', &quot;'&quot;, 'ENREGISTRER')])[1]/preceding::span[1]</value>
-      <webElementGuid>52a5b717-4d08-4e8f-a3f9-03c69e92d683</webElementGuid>
+      <webElementGuid>4bf76fea-32e6-42d8-983b-eb2535901948</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHWARZKOPF PROFESSIONAL'])[1]/preceding::span[2]</value>
-      <webElementGuid>3f7c35b4-6af4-4ace-aacd-3e526cad9bc4</webElementGuid>
+      <webElementGuid>0bc55b0b-506e-45ad-8a35-6f2fe6106812</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='CONNEXION']/parent::*</value>
-      <webElementGuid>7fe66c1c-ecce-478e-a210-800cd7993853</webElementGuid>
+      <webElementGuid>97417e18-0412-4841-9b16-7082ac09293c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a/span</value>
-      <webElementGuid>674b526d-317e-4e2f-9efa-ccb9b1a738ac</webElementGuid>
+      <webElementGuid>75e40cb0-22f5-4f38-b84b-58d5542185e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'CONNEXION' or . = 'CONNEXION')]</value>
-      <webElementGuid>ffbe98ed-29eb-4932-a9b0-2491d7d12c6a</webElementGuid>
+      <webElementGuid>7242a872-9ce3-409b-8886-9e5f6d9f88b3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

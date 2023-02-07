@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Accueil/h1_ASK EDUCATION",
+      "brokenLocator": "//div[@id\u003d\u0027title-6fb8d38fde\u0027]/h1",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CATALOGUE\u0027])[2]/following::h1[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230203_152645/SKP smoke test/20230203_152646/Object Repository/Page_Accueil/h1_ASK EDUCATION_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Accueil/h1_BIENVENUE SUR LA NOUVELLE eACADEMY",
+      "brokenLocator": "//div[@id\u003d\u0027title-f9e241ea0d\u0027]/h1",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CATALOGUE\u0027])[2]/following::h1[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230203_152645/SKP smoke test/20230203_152646/Object Repository/Page_Accueil/h1_BIENVENUE SUR LA NOUVELLE eACADEMY_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Accueil/a_QUAIMERIEZ-VOUS APPRENDRE",
+      "brokenLocator": "//a[@id\u003d\u0027calltoaction-fedd7b9e95\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027QUOI DE NEUF ?\u0027])[1]/preceding::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230203_152645/SKP smoke test/20230203_152646/Object Repository/Page_Accueil/a_QUAIMERIEZ-VOUS APPRENDRE_neighbor.png"
+    }
+  ]
+}
