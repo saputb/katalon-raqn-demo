@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4b9fcfb4-10fc-4d06-b6b5-289ae126678a</webElementGuid>
+      <webElementGuid>f3fe7561-b3ce-4dcb-881b-b3d0a7537d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__text calltoaction__text--initial</value>
-      <webElementGuid>06476b55-8fdb-41af-87bc-e053b7475fb3</webElementGuid>
+      <webElementGuid>105b326b-2b5c-4dc4-bb1d-85101dbcafb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>S'ENREGISTRER</value>
-      <webElementGuid>1ab6597e-41ff-4604-9254-fbb61ec7aee3</webElementGuid>
+      <webElementGuid>f994788a-d9ab-4917-a3f2-67519f5d2cc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calltoaction-78b26aa002&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
-      <webElementGuid>38e43168-8fea-4012-9207-7b57e5fe03a5</webElementGuid>
+      <webElementGuid>5012343c-a3ed-4deb-bca7-80a9eca40c9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='calltoaction-78b26aa002']/span</value>
-      <webElementGuid>d4000a0b-00a4-4e0f-9a41-6a68bd6d92fd</webElementGuid>
+      <webElementGuid>21dfde5d-95f1-49e9-b9df-bf231d8f0e80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CONNEXION'])[1]/following::span[1]</value>
-      <webElementGuid>d0f9cb80-fdf2-4da2-938a-643ed4459e9b</webElementGuid>
+      <webElementGuid>263475d5-b557-43e0-aee0-a223d7a91b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHWARZKOPF PROFESSIONAL'])[1]/preceding::span[1]</value>
-      <webElementGuid>84cb0fa6-0142-42bc-919b-25f59d448bd6</webElementGuid>
+      <webElementGuid>085e98fc-a6b9-40cf-bc2b-77c210be5d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP'])[1]/preceding::span[2]</value>
-      <webElementGuid>7cfa7153-e3a7-490d-af7c-a3e61310c3ba</webElementGuid>
+      <webElementGuid>137bdcf8-b58f-403c-be2f-22f7bd6a2ead</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//heliux-calltoaction[2]/div/div/a/span</value>
-      <webElementGuid>1d58ec2a-a8cd-4858-81c2-f7af57dd321d</webElementGuid>
+      <webElementGuid>87484f19-df07-4ad4-a74f-55128e1825b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = concat(&quot;S&quot; , &quot;'&quot; , &quot;ENREGISTRER&quot;) or . = concat(&quot;S&quot; , &quot;'&quot; , &quot;ENREGISTRER&quot;))]</value>
-      <webElementGuid>b30a02fd-2a3f-4d4f-87f2-e202fe509246</webElementGuid>
+      <webElementGuid>25d8fb75-ac49-430c-9f47-ffadd20e3e12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

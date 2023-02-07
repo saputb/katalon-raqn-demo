@@ -39,6 +39,36 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Accueil/a_QUAIMERIEZ-VOUS APPRENDRE_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Henkel dx - Google Search/h3_Digital Transformation - Henkel",
+      "brokenLocator": "//div[@id\u003d\u0027rso\u0027]/div/div/div/div/div/div/div/div/div/a/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search Results\u0027])[1]/following::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Henkel dx - Google Search/h3_Digital Transformation - Henkel_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Senregistrer/input",
+      "brokenLocator": "//input[@value\u003d\u0027OUI\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Senregistrer/input_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352",
+      "brokenLocator": "//div[@id\u003d\u0027columncontrol-8660b43a3a\u0027]/heliux-grid",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//heliux-grid",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352_position.png"
     }
   ]
 }

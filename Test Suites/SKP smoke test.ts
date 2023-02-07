@@ -15,7 +15,7 @@
       <guid>3a303f2a-82ab-4801-b5d8-d7115b882eb1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/E2E_Test_SKP/Login_Ref_SKP</testCaseId>
+      <testCaseId>Test Cases/E2E_Test_SKP/Login_Ref_Simple</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

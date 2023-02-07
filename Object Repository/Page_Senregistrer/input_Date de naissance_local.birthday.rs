@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Prfrences de communication_gigya-input-submit</name>
+   <name>input_Date de naissance_local.birthday</name>
    <tag></tag>
-   <elementGuidId>ebca5e83-50d2-4a55-87f5-242fb0c682a5</elementGuidId>
+   <elementGuidId>f7d0c7a3-a2ad-4eff-85df-a5f9f9559bb7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='CRÉER UN COMPTE']</value>
+         <value>//input[@id='gigya-textbox-birthday']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#gigya-register-form > div.gigya-layout-row > div.gigya-composite-control.gigya-composite-control-submit > input.gigya-input-submit</value>
+         <value>#gigya-textbox-birthday</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c88e505e-c340-4472-8937-1d3a6725eaae</webElementGuid>
+      <webElementGuid>1adff69b-d575-4932-8dbd-380e7554466f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>88ec676e-500e-43b9-ae3d-8e7306ce62d0</webElementGuid>
+      <value>date</value>
+      <webElementGuid>25ee7ba7-e128-429a-988c-9f2fbf5dfd2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>gigya-input-submit</value>
-      <webElementGuid>aa2a02f9-b38a-4766-b533-d5a3d55dd59b</webElementGuid>
+      <value>gigya-input-text</value>
+      <webElementGuid>6e7b6810-5b98-4a96-823d-e1460d8865bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d52d59de-cc49-4c6b-a211-09fa6e1f9186</webElementGuid>
+      <value>on</value>
+      <webElementGuid>a7f793ab-fca4-4c1a-9e39-0896cdb80fda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-gigya-type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>3d5b55b8-515a-4626-928c-13e8521d2ca6</webElementGuid>
+      <value>date</value>
+      <webElementGuid>8b98009e-d07f-4cb4-a21e-96f1ffe770be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>gigya-expression:value</name>
+      <name>name</name>
       <type>Main</type>
-      <value>screenset.translations['SUBMIT_107533287770336750_VALUE']</value>
-      <webElementGuid>ebc2af73-8320-4c94-8719-c2d778987653</webElementGuid>
+      <value>local.birthday</value>
+      <webElementGuid>8ee53b82-7c8b-4304-90b1-45eb524cb0d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-screenset-element-id</name>
       <type>Main</type>
-      <value>__gig_template_element_378_1675780411527</value>
-      <webElementGuid>bb16a8af-4c30-4b96-9b4a-541109bf4df9</webElementGuid>
+      <value>gigya-textbox-birthday</value>
+      <webElementGuid>a6e288e6-9ddb-42cc-b958-aa48e49aa657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-screenset-element-id-publish</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>476887cb-c12e-4d5d-a158-8ed3024bc124</webElementGuid>
+      <value>true</value>
+      <webElementGuid>e1d6bf53-4dd1-4738-a12f-7cd53a442f69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,70 +86,70 @@
       <name>data-screenset-roles</name>
       <type>Main</type>
       <value>instance</value>
-      <webElementGuid>a58f73d2-e418-4e07-8a60-2a3bbe44d916</webElementGuid>
+      <webElementGuid>37d4c6c9-26ed-47cc-9aac-8990e716e5dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>data-gigya-name</name>
       <type>Main</type>
-      <value>CRÉER UN COMPTE</value>
-      <webElementGuid>d78c44c2-0ad5-40b4-944c-ea9945a81eb0</webElementGuid>
+      <value>local.birthday</value>
+      <webElementGuid>4806594d-fee8-4422-9649-f0f76d870bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gigya-textbox-birthday</value>
+      <webElementGuid>51e6a6cd-8cd5-4967-9e04-a08612e329c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1a67fc06-7922-4690-b6e1-8b675e2c2980</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;gigya-register-form&quot;)/div[@class=&quot;gigya-layout-row&quot;]/div[@class=&quot;gigya-composite-control gigya-composite-control-submit&quot;]/input[@class=&quot;gigya-input-submit&quot;]</value>
-      <webElementGuid>9ead0f18-d224-4757-84ef-a3a898d65668</webElementGuid>
+      <value>id(&quot;gigya-textbox-birthday&quot;)</value>
+      <webElementGuid>799b6813-87ef-43b7-ae2d-e74f025d6ac4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='CRÉER UN COMPTE']</value>
-      <webElementGuid>3c9a8a77-1589-435d-991e-c5fd460d40e0</webElementGuid>
+      <value>//input[@id='gigya-textbox-birthday']</value>
+      <webElementGuid>abcc44ac-7de2-42bf-8055-b2c244a7cc12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='gigya-register-form']/div[28]/div/input</value>
-      <webElementGuid>26bad40f-a689-4558-b6e0-c87900f12c4d</webElementGuid>
+      <value>//form[@id='gigya-register-form']/div[12]/div/input</value>
+      <webElementGuid>a631b453-b050-4318-90fd-e71e374134a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div[28]/div/input</value>
-      <webElementGuid>679c4097-1ac7-4889-a53c-42e64895cd17</webElementGuid>
+      <value>//div[2]/div/form/div[12]/div/input</value>
+      <webElementGuid>98214699-e757-4c95-a641-9c0969248cff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>fbae8661-f145-4eb7-9159-5ffa6ce9c393</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='gigya-register-form']/div[29]/div/input</value>
-      <webElementGuid>52b3f579-c0cc-4495-aa1d-5f8c70fe3ea2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/form/div[29]/div/input</value>
-      <webElementGuid>8a602c97-aa5d-4ed8-b53f-85307d56a2fd</webElementGuid>
+      <value>//input[@type = 'date' and @name = 'local.birthday' and @id = 'gigya-textbox-birthday']</value>
+      <webElementGuid>95208ab2-e93f-4e39-b443-8731857af332</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

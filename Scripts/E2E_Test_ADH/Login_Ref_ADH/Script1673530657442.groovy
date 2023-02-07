@@ -64,7 +64,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Henkel Adhes
 
 WebUI.click(findTestObject('Object Repository/Page_Henkel Adhesive Technologies/a_LOG OUT'))
 
-WebUI.getWindowTitle()
+WebUI.getUrl()
 
 WebUI.closeBrowser()
 

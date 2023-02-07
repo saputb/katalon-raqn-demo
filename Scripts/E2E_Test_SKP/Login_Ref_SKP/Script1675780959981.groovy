@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in')
 
 WebUI.click(findTestObject('Object Repository/Page_Login/button_Autoriser tous les cookies'))
@@ -30,10 +28,6 @@ WebUI.setText(findTestObject('Object Repository/Page_Login/input_E-mail_username
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Mot de passe_password'), 'DwTTIjmC6TIdOW0tF9H0lw==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053'))
-
-WebUI.click(findTestObject('Object Repository/Page_Accueil/button_Start'))
-
-WebUI.click(findTestObject('Object Repository/Page_Accueil/button_submit'))
 
 WebUI.click(findTestObject('Page_Accueil/svg'))
 
