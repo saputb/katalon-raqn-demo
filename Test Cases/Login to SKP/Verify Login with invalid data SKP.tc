@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Login with invalid data SKP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bca1a29d-5fdb-403b-9efa-099252fcfc18</testCaseGuid>
+</TestCaseEntity>
