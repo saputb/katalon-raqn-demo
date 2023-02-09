@@ -35,13 +35,15 @@ WebUI.click(findTestObject('Object Repository/Page_Login/input_Vous avez oubli v
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Accueil/h4_Interests, skills and knowledge'), 0)
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Accueil/div_BS'))
+WebUI.verifyElementClickable(findTestObject('Page_Accueil/svg'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Accueil/span_SE DCONNECTER'))
-
-WebUI.click(findTestObject('Object Repository/Page_Accueil/span_SE DCONNECTER'))
+WebUI.click(findTestObject('Page_Accueil/svg'))
 
 WebUI.getUrl()
 
-WebUI.clickOffset(findTestObject('Page_Accueil/div__modal__overlay'), 20, 15)
+WebUI.mouseOver(findTestObject('Page_Accueil/span_BS'))
+
+WebUI.click(findTestObject('Page_Accueil/span_SE DCONNECTER'))
+
+WebUI.closeBrowser()
 

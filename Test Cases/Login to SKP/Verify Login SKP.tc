@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Register_Ref_SKP</name>
+   <name>Verify Login SKP</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b1d1c067-b43e-4690-97cf-5a823006a609</testCaseGuid>
+   <testCaseGuid>28f5b069-4c6e-468a-b97c-6cf91901d6a6</testCaseGuid>
 </TestCaseEntity>
