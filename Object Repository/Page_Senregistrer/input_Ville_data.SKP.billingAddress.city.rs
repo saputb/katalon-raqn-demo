@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_E-mail_email</name>
+   <name>input_Ville_data.SKP.billingAddress.city</name>
    <tag></tag>
-   <elementGuidId>b1bdf6b8-6116-4a64-8825-f2305a01c4cc</elementGuidId>
+   <elementGuidId>9caf01e5-57e7-4da5-af64-4ebea736cbe2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='gigya-loginID-86616308672852050']</value>
+         <value>//input[@id='gigya-textbox-54937185545266024']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#gigya-loginID-86616308672852050</value>
+         <value>#gigya-textbox-54937185545266024</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a6c7a44d-0420-4e83-8529-5b2326952b7d</webElementGuid>
+      <webElementGuid>f8273af0-87d5-4980-97aa-acce92d561a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8c0ac5e7-3e04-44d3-ba7f-9b040ead854c</webElementGuid>
+      <webElementGuid>6fe299c0-2879-4862-9d71-746bb7c752db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,55 +38,47 @@
       <name>class</name>
       <type>Main</type>
       <value>gigya-input-text</value>
-      <webElementGuid>28439ff6-ad73-4700-81c1-3c0c7f979f1c</webElementGuid>
+      <webElementGuid>7a7165b9-5b8a-4f3a-bd31-7414fc478bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>0cf93804-5d85-4385-a0d6-4b7173723dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gigya-type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>55f4e80b-ebf5-4ac8-a775-b2e54f4d99bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>a8012431-3359-4454-9ed2-ce487ac4cfbe</webElementGuid>
+      <value>data.SKP.billingAddress.city</value>
+      <webElementGuid>9d8072f0-7b23-4f7e-8988-9f91f57c6986</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>show-valid-checkmark</name>
+      <name>data-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>add0bc31-7afe-4276-b561-8ee9785bfa23</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>d2e5e975-0cf2-4c46-ba37-037cf90c1e96</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>formnovalidate</name>
-      <type>Main</type>
-      <value>formnovalidate</value>
-      <webElementGuid>43991e23-66f3-4062-b284-202fc3dc710b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>11d169b8-4664-4510-a160-c7e6f572e0f0</webElementGuid>
+      <webElementGuid>c7573038-00bf-4794-be64-8b7824507ee3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-screenset-element-id</name>
       <type>Main</type>
-      <value>gigya-loginID-86616308672852050</value>
-      <webElementGuid>9e3d0ec1-bd50-4f4f-acd7-7491bdc5f720</webElementGuid>
+      <value>gigya-textbox-54937185545266024</value>
+      <webElementGuid>a0e78b6e-4f9a-4a79-bddf-5ad7386ea8fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +86,7 @@
       <name>data-screenset-element-id-publish</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>666e9ace-b3fb-474d-81af-119ac234dd02</webElementGuid>
+      <webElementGuid>074fdebc-bd5b-4797-85dc-77c9068542d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,23 +94,23 @@
       <name>data-screenset-roles</name>
       <type>Main</type>
       <value>instance</value>
-      <webElementGuid>2d03c3f9-3a4b-4645-952b-596773af3702</webElementGuid>
+      <webElementGuid>f546d615-cbca-4b71-979a-829c206b02b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-gigya-name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>6b3b02d9-b4bb-4073-bd70-2214f905c972</webElementGuid>
+      <value>data.SKP.billingAddress.city</value>
+      <webElementGuid>ac8cdcc7-87bb-492e-84ab-bde37e838b3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>gigya-loginID-86616308672852050</value>
-      <webElementGuid>02efbaa5-ae1b-4dbf-bb92-ec62dcf4ae7a</webElementGuid>
+      <value>gigya-textbox-54937185545266024</value>
+      <webElementGuid>5c3ebfd3-60f8-4594-8207-fa37fb7dde2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,70 +118,46 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>87ecc659-4243-42a1-9bdd-2b4d8fa7396f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-invalid</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>1e160a39-af37-468a-b956-54cd6ab42eaa</webElementGuid>
+      <webElementGuid>dd719371-7999-4da1-b8e1-11bda2ecdc7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;gigya-loginID-86616308672852050&quot;)</value>
-      <webElementGuid>7acfe5f7-0e12-486f-ac71-12e54790473f</webElementGuid>
+      <value>id(&quot;gigya-textbox-54937185545266024&quot;)</value>
+      <webElementGuid>4308ca9e-ca30-48ac-91cd-7d8cb928a6d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='gigya-loginID-86616308672852050']</value>
-      <webElementGuid>c32dfe36-a63e-40ee-9962-68f07cf372bc</webElementGuid>
+      <value>//input[@id='gigya-textbox-54937185545266024']</value>
+      <webElementGuid>db895306-ff24-42b1-99c3-06bd408ba994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='gigya-register-form']/div[4]/div/input</value>
-      <webElementGuid>22342c83-8347-4597-9d87-c7f48ef4ba8c</webElementGuid>
+      <value>//form[@id='gigya-register-form']/div[19]/div/input</value>
+      <webElementGuid>de69404e-d4e0-4f67-bb53-2b38b4b6b1ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div[4]/div/input</value>
-      <webElementGuid>bb66b981-2abb-402d-97b6-9120a71ec852</webElementGuid>
+      <value>//div[2]/div/form/div[19]/div/input</value>
+      <webElementGuid>440776c3-55d3-4622-8667-dcd0850ab2f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'email' and @id = 'gigya-loginID-86616308672852050']</value>
-      <webElementGuid>42108d44-e30c-410c-8066-d37fad4ebbd5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='gigya-register-form']/div[5]/div/input</value>
-      <webElementGuid>d6508d97-2763-4edb-b41f-219306971a68</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/form/div[5]/div/input</value>
-      <webElementGuid>8c6abc9d-07e1-4f55-9390-5e87ce36432c</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'data.SKP.billingAddress.city' and @id = 'gigya-textbox-54937185545266024']</value>
+      <webElementGuid>9cecc03c-5d6f-4f21-bfc7-9f601319ab12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,11 @@
       <guid>93e7ee6d-57f3-413f-a07c-d9344a3d0f9c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+<<<<<<< HEAD
       <testCaseId>Test Cases/Login to SKP/Verify Login SKP</testCaseId>
+=======
+      <testCaseId>Test Cases/E2E_Test_SKP/Login_Ref_Simple</testCaseId>
+>>>>>>> branch 'main' of https://github.com/saputb/katalon-raqn-demo.git
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

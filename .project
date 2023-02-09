@@ -269,6 +269,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1675949154238</id>
 			<name></name>
 			<type>10</type>
@@ -297,6 +298,18 @@
 		</filter>
 		<filter>
 			<id>1675949319317</id>
+=======
+			<id>1675768650282</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1675768650286</id>
+>>>>>>> branch 'main' of https://github.com/saputb/katalon-raqn-demo.git
 			<name></name>
 			<type>6</type>
 			<matcher>

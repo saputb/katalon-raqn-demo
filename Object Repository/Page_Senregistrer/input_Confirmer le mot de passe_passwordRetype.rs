@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_E-mail_email</name>
+   <name>input_Confirmer le mot de passe_passwordRetype</name>
    <tag></tag>
-   <elementGuidId>b1bdf6b8-6116-4a64-8825-f2305a01c4cc</elementGuidId>
+   <elementGuidId>a64209f2-f788-4bfd-998c-fe1f24c9a9fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='gigya-loginID-86616308672852050']</value>
+         <value>//input[@id='gigya-password-54377226270436850']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#gigya-loginID-86616308672852050</value>
+         <value>#gigya-password-54377226270436850</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,55 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a6c7a44d-0420-4e83-8529-5b2326952b7d</webElementGuid>
+      <webElementGuid>675f5381-8530-4a2c-87db-edf20a44d5a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>8c0ac5e7-3e04-44d3-ba7f-9b040ead854c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>gigya-input-text</value>
-      <webElementGuid>28439ff6-ad73-4700-81c1-3c0c7f979f1c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>a8012431-3359-4454-9ed2-ce487ac4cfbe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>show-valid-checkmark</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>add0bc31-7afe-4276-b561-8ee9785bfa23</webElementGuid>
+      <value>password</value>
+      <webElementGuid>33f3bc41-7950-4e5d-96d4-2f0a8166dc72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>d2e5e975-0cf2-4c46-ba37-037cf90c1e96</webElementGuid>
+      <value>Confirm password</value>
+      <webElementGuid>f01e9098-3dc5-4f92-b230-52844bd303b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>formnovalidate</name>
+      <name>class</name>
       <type>Main</type>
-      <value>formnovalidate</value>
-      <webElementGuid>43991e23-66f3-4062-b284-202fc3dc710b</webElementGuid>
+      <value>gigya-input-password</value>
+      <webElementGuid>201b7bcd-fcca-4a02-bcae-44f648946a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>passwordRetype</value>
+      <webElementGuid>19f202c9-6594-47d0-9f00-5565443a70a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,15 +62,31 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>11d169b8-4664-4510-a160-c7e6f572e0f0</webElementGuid>
+      <webElementGuid>2eb2f9cf-a457-4cd0-9877-83ecf5535ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>show-valid-checkmark</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3101f775-279f-4495-b0d9-7b0dac1724f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>05ed4daf-8e0f-40c8-883a-5197f3dfcc25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-screenset-element-id</name>
       <type>Main</type>
-      <value>gigya-loginID-86616308672852050</value>
-      <webElementGuid>9e3d0ec1-bd50-4f4f-acd7-7491bdc5f720</webElementGuid>
+      <value>gigya-password-54377226270436850</value>
+      <webElementGuid>b1786fd1-d718-466b-8f1c-f23eeda96bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-screenset-element-id-publish</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>666e9ace-b3fb-474d-81af-119ac234dd02</webElementGuid>
+      <webElementGuid>ed876c8f-23ad-4314-b2d0-68aeea0de36b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,23 +102,23 @@
       <name>data-screenset-roles</name>
       <type>Main</type>
       <value>instance</value>
-      <webElementGuid>2d03c3f9-3a4b-4645-952b-596773af3702</webElementGuid>
+      <webElementGuid>58e2b1fa-0cb7-47bd-8f24-f3a0a1926c90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-gigya-name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>6b3b02d9-b4bb-4073-bd70-2214f905c972</webElementGuid>
+      <value>passwordRetype</value>
+      <webElementGuid>72f20b7a-213c-415e-b1d1-1e5990fd0493</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>gigya-loginID-86616308672852050</value>
-      <webElementGuid>02efbaa5-ae1b-4dbf-bb92-ec62dcf4ae7a</webElementGuid>
+      <value>gigya-password-54377226270436850</value>
+      <webElementGuid>c46fd598-e98b-46f7-8574-3c1ac3a8a7ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>87ecc659-4243-42a1-9bdd-2b4d8fa7396f</webElementGuid>
+      <webElementGuid>b1fa8848-8660-4677-bf37-a1d89c0033eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,62 +134,46 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1e160a39-af37-468a-b956-54cd6ab42eaa</webElementGuid>
+      <webElementGuid>18b34041-4fca-49d9-8d50-c90cdacb3f39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;gigya-loginID-86616308672852050&quot;)</value>
-      <webElementGuid>7acfe5f7-0e12-486f-ac71-12e54790473f</webElementGuid>
+      <value>id(&quot;gigya-password-54377226270436850&quot;)</value>
+      <webElementGuid>dd6b0c98-f808-4f17-ac62-210d88d792bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='gigya-loginID-86616308672852050']</value>
-      <webElementGuid>c32dfe36-a63e-40ee-9962-68f07cf372bc</webElementGuid>
+      <value>//input[@id='gigya-password-54377226270436850']</value>
+      <webElementGuid>202615f2-e669-49ab-9205-94a6ff1f23a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='gigya-register-form']/div[4]/div/input</value>
-      <webElementGuid>22342c83-8347-4597-9d87-c7f48ef4ba8c</webElementGuid>
+      <value>//form[@id='gigya-register-form']/div[6]/div/input</value>
+      <webElementGuid>16a0b589-ccb2-44d7-b8d6-01b74002b6dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div[4]/div/input</value>
-      <webElementGuid>bb66b981-2abb-402d-97b6-9120a71ec852</webElementGuid>
+      <value>//div[2]/div/form/div[6]/div/input</value>
+      <webElementGuid>41878b9f-4c41-42d6-807b-61454b35e3ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'email' and @id = 'gigya-loginID-86616308672852050']</value>
-      <webElementGuid>42108d44-e30c-410c-8066-d37fad4ebbd5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='gigya-register-form']/div[5]/div/input</value>
-      <webElementGuid>d6508d97-2763-4edb-b41f-219306971a68</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/form/div[5]/div/input</value>
-      <webElementGuid>8c6abc9d-07e1-4f55-9390-5e87ce36432c</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'passwordRetype' and @id = 'gigya-password-54377226270436850']</value>
+      <webElementGuid>d703dc1a-6b8c-47fc-9ab6-1f764d44736f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
