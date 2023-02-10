@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BS</name>
+   <tag></tag>
+   <elementGuidId>dc5069c5-cf0d-4a30-be1c-fffb327d6c72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-controls']/heliux-login/div/button[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login__circle > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0d268114-7c97-4cce-91c4-b6e402fc4b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BS</value>
+      <webElementGuid>76c9c371-57d9-4c14-89c4-642f1a901408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-controls&quot;)/heliux-login[@class=&quot;login&quot;]/div[@class=&quot;login__wrapper login1667733523206&quot;]/button[@class=&quot;login__button login__button--logout cta active&quot;]/div[@class=&quot;login__circle&quot;]/span[1]</value>
+      <webElementGuid>61eb279b-8e72-4f8f-8b5f-01c25075e695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-controls']/heliux-login/div/button[2]/div/span</value>
+      <webElementGuid>53b11743-34a0-4610-aa36-c178d4e646b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::span[4]</value>
+      <webElementGuid>847255c2-608e-4ea2-981c-afdf60592639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonjour, Bobby!'])[1]/preceding::span[1]</value>
+      <webElementGuid>fb52d9fc-155a-476c-adda-4a4d1dbc4bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/preceding::span[1]</value>
+      <webElementGuid>c2024aa4-9c32-4037-9be8-98ab7b85cd56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BS']/parent::*</value>
+      <webElementGuid>078e5bdd-d3f2-4b85-8276-745ce3f3116d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>647a112e-b5e1-4533-a097-b69e781d0f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BS' or . = 'BS')]</value>
+      <webElementGuid>87d4347b-4869-4919-83c5-4149a3f503e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
