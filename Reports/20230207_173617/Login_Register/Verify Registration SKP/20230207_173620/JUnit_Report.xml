@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Verify Registration SKP" time="147.994" tests="1" failures="0" errors="0">
+   <testsuite name="Verify Registration SKP" tests="1" failures="0" errors="0" time="147.994" skipped="0" timestamp="2023-02-07 17:37:33" hostname="bobbysaputra - mbp-bs-c02dn1fkmd6t.fritz.box" id="Test Suites/Login_Register/Verify Registration SKP">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230207_173617/Login_Register/Verify Registration SKP/20230207_173620"/>
+         <property name="logFiles" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230207_173617/Login_Register/Verify Registration SKP/20230207_173620/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bobbysaputra - mbp-bs-c02dn1fkmd6t.fritz.box"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.178.192"/>
+         <property name="sessionId" value="d1a9afdc25c6da7c2908edda576a8e07"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/E2E_Test_SKP/Register_Ref_SKP" time="147.815" classname="Test Cases/E2E_Test_SKP/Register_Ref_SKP" status="PASSED">
+         <system-out><![CDATA[2023-02-07 17:37:33 - [TEST_CASE][PASSED] - Test Cases/E2E_Test_SKP/Register_Ref_SKP: Test Cases/E2E_Test_SKP/Register_Ref_SKP
+
+2023-02-07 17:37:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 17:37:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 17:37:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 17:37:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 17:37:36 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-02-07 17:37:36 - [MESSAGE][PASSED] - Current window maximized
+
+2023-02-07 17:37:36 - [TEST_STEP][PASSED] - navigateToUrl("https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in"): Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in' successfully
+
+2023-02-07 17:37:39 - [MESSAGE][PASSED] - Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in' successfully
+
+2023-02-07 17:37:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/button_Autoriser tous les cookies")): Object: 'Object Repository/Page_Senregistrer/button_Autoriser tous les cookies' is clicked on
+
+2023-02-07 17:37:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/button_Autoriser tous les cookies' is clicked on
+
+2023-02-07 17:37:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input")): Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-07 17:38:13 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@value='RETOUR À L’ACCUEIL']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-02-07 17:38:13 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Senregistrer/input'. Try using Self-healing.
+
+2023-02-07 17:38:14 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Senregistrer/input' was broken. Propose an alternative one: '//a/input'.
+
+2023-02-07 17:38:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-07 17:38:14 - [TEST_STEP][PASSED] - RN = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2023-02-07 17:38:14 - [TEST_STEP][PASSED] - RN = Math.random() * 1000: null
+
+2023-02-07 17:38:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_E-mail_email"), "dontobono+" + RN + "@gmail.com"): Text 'dontobono+695@gmail.com' is set on object 'Object Repository/Page_Senregistrer/input_E-mail_email'
+
+2023-02-07 17:38:16 - [MESSAGE][PASSED] - Text 'dontobono+695@gmail.com' is set on object 'Object Repository/Page_Senregistrer/input_E-mail_email'
+
+2023-02-07 17:38:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Senregistrer/input_Mot de passe_password"), "DwTTIjmC6TIdOW0tF9H0lw=="): Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Mot de passe_password'
+
+2023-02-07 17:38:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Mot de passe_password'
+
+2023-02-07 17:38:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype"), "DwTTIjmC6TIdOW0tF9H0lw=="): Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype'
+
+2023-02-07 17:38:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype'
+
+2023-02-07 17:38:17 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Senregistrer/select_Mme.M.Div"), "mr", true): All options with value 'mr' are selected in object 'Object Repository/Page_Senregistrer/select_Mme.M.Div'  using regular expression
+
+2023-02-07 17:38:19 - [MESSAGE][PASSED] - All options with value 'mr' are selected in object 'Object Repository/Page_Senregistrer/select_Mme.M.Div'  using regular expression
+
+2023-02-07 17:38:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Prnom_profile.firstName"), "Bobby"): Text 'Bobby' is set on object 'Object Repository/Page_Senregistrer/input_Prnom_profile.firstName'
+
+2023-02-07 17:38:23 - [MESSAGE][PASSED] - Text 'Bobby' is set on object 'Object Repository/Page_Senregistrer/input_Prnom_profile.firstName'
+
+2023-02-07 17:38:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Nom_profile.lastName"), "Saputra"): Text 'Saputra' is set on object 'Object Repository/Page_Senregistrer/input_Nom_profile.lastName'
+
+2023-02-07 17:38:27 - [MESSAGE][PASSED] - Text 'Saputra' is set on object 'Object Repository/Page_Senregistrer/input_Nom_profile.lastName'
+
+2023-02-07 17:38:27 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Senregistrer/input_Date de naissance_local.birthday"), "27/11/1980"): Text '27/11/1980' is set on object 'Object Repository/Page_Senregistrer/input_Date de naissance_local.birthday'
+
+2023-02-07 17:38:28 - [MESSAGE][PASSED] - Text '27/11/1980' is set on object 'Object Repository/Page_Senregistrer/input_Date de naissance_local.birthday'
+
+2023-02-07 17:38:28 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29"), "salon_owner", true): All options with value 'salon_owner' are selected in object 'Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29'  using regular expression
+
+2023-02-07 17:38:29 - [MESSAGE][PASSED] - All options with value 'salon_owner' are selected in object 'Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29'  using regular expression
+
+2023-02-07 17:38:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a")): Object: 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a' is clicked on
+
+2023-02-07 17:38:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a' is clicked on
+
+2023-02-07 17:38:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a"), "test"): Text 'test' is set on object 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a'
+
+2023-02-07 17:38:31 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a'
+
+2023-02-07 17:38:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input__data.SKP.ID"), "1444669"): Text '1444669' is set on object 'Object Repository/Page_Senregistrer/input__data.SKP.ID'
+
+2023-02-07 17:38:32 - [MESSAGE][PASSED] - Text '1444669' is set on object 'Object Repository/Page_Senregistrer/input__data.SKP.ID'
+
+2023-02-07 17:38:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1"), "42 rue Michel Ange"): Text '42 rue Michel Ange' is set on object 'Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1'
+
+2023-02-07 17:38:33 - [MESSAGE][PASSED] - Text '42 rue Michel Ange' is set on object 'Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1'
+
+2023-02-07 17:38:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city"), "Le Havre"): Text 'Le Havre' is set on object 'Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city'
+
+2023-02-07 17:38:34 - [MESSAGE][PASSED] - Text 'Le Havre' is set on object 'Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city'
+
+2023-02-07 17:38:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip"), "76610"): Text '76610' is set on object 'Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip'
+
+2023-02-07 17:38:35 - [MESSAGE][PASSED] - Text '76610' is set on object 'Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip'
+
+2023-02-07 17:38:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9")): Object: 'Object Repository/Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9' is clicked on
+
+2023-02-07 17:38:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9' is clicked on
+
+2023-02-07 17:38:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef' is clicked on
+
+2023-02-07 17:38:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef' is clicked on
+
+2023-02-07 17:38:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577' is clicked on
+
+2023-02-07 17:38:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577' is clicked on
+
+2023-02-07 17:38:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69' is clicked on
+
+2023-02-07 17:38:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69' is clicked on
+
+2023-02-07 17:38:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f' is clicked on
+
+2023-02-07 17:38:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f' is clicked on
+
+2023-02-07 17:38:48 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html'
+
+2023-02-07 17:38:48 - [MESSAGE][PASSED] - Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html'
+
+2023-02-07 17:38:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Senregistrer/h2_Profitez des avantages de"), "Profitez des avantages de"): Actual text and expected text of test object 'Object Repository/Page_Senregistrer/h2_Profitez des avantages de' are matched.
+
+2023-02-07 17:38:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Senregistrer/h2_Profitez des avantages de' are matched.
+
+2023-02-07 17:38:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input")): Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-07 17:38:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-07 17:38:56 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/welcome.html'
+
+2023-02-07 17:38:56 - [MESSAGE][PASSED] - Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/welcome.html'
+
+2023-02-07 17:38:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352")): Object: 'Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352' is clicked on
+
+2023-02-07 17:39:30 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='columncontrol-8660b43a3a']/heliux-grid'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-02-07 17:39:30 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352'. Try using Self-healing.
+
+2023-02-07 17:40:01 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352' was broken. Propose an alternative one: '//heliux-grid'.
+
+2023-02-07 17:40:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352' is clicked on
+
+2023-02-07 17:40:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-07 17:40:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-07 17:37:33 - [TEST_SUITE][PASSED] - Verify Registration SKP: Test Cases/E2E_Test_SKP/Register_Ref_SKP]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify Registration SKP,Chrome 107.0.0.0,,,2023-02-07 17:37:33,2023-02-07 17:40:01,2m - 27.994s,PASSED
+,,,,,,,
+Test Cases/E2E_Test_SKP/Register_Ref_SKP,Chrome 107.0.0.0,,,2023-02-07 17:37:33,2023-02-07 17:40:01,2m - 27.815s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2023-02-07 17:37:33,2023-02-07 17:37:36,2.818s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2023-02-07 17:37:36,2023-02-07 17:37:36,0.223s,PASSED
+"navigateToUrl(""https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in"")",Chrome 107.0.0.0,,,2023-02-07 17:37:36,2023-02-07 17:37:39,2.509s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/button_Autoriser tous les cookies""))",Chrome 107.0.0.0,,,2023-02-07 17:37:39,2023-02-07 17:37:41,2.077s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input""))",Chrome 107.0.0.0,,,2023-02-07 17:37:41,2023-02-07 17:38:14,33.033s,PASSED
+RN = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 107.0.0.0,,,2023-02-07 17:38:14,2023-02-07 17:38:14,0.001s,PASSED
+RN = Math.random() * 1000,Chrome 107.0.0.0,,,2023-02-07 17:38:14,2023-02-07 17:38:14,0.008s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_E-mail_email""), ""dontobono+"" + RN + ""@gmail.com"")",Chrome 107.0.0.0,,,2023-02-07 17:38:14,2023-02-07 17:38:16,1.539s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Senregistrer/input_Mot de passe_password""), ""DwTTIjmC6TIdOW0tF9H0lw=="")",Chrome 107.0.0.0,,,2023-02-07 17:38:16,2023-02-07 17:38:16,0.642s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype""), ""DwTTIjmC6TIdOW0tF9H0lw=="")",Chrome 107.0.0.0,,,2023-02-07 17:38:16,2023-02-07 17:38:17,0.766s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Senregistrer/select_Mme.M.Div""), ""mr"", true)",Chrome 107.0.0.0,,,2023-02-07 17:38:17,2023-02-07 17:38:19,1.752s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_Prnom_profile.firstName""), ""Bobby"")",Chrome 107.0.0.0,,,2023-02-07 17:38:19,2023-02-07 17:38:23,4.030s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_Nom_profile.lastName""), ""Saputra"")",Chrome 107.0.0.0,,,2023-02-07 17:38:23,2023-02-07 17:38:27,4.205s,PASSED
+"setText(findTestObject(""Page_Senregistrer/input_Date de naissance_local.birthday""), ""27/11/1980"")",Chrome 107.0.0.0,,,2023-02-07 17:38:27,2023-02-07 17:38:28,1.071s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29""), ""salon_owner"", true)",Chrome 107.0.0.0,,,2023-02-07 17:38:28,2023-02-07 17:38:29,1.332s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a""))",Chrome 107.0.0.0,,,2023-02-07 17:38:29,2023-02-07 17:38:30,0.603s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a""), ""test"")",Chrome 107.0.0.0,,,2023-02-07 17:38:30,2023-02-07 17:38:31,0.710s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input__data.SKP.ID""), ""1444669"")",Chrome 107.0.0.0,,,2023-02-07 17:38:31,2023-02-07 17:38:32,0.977s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1""), ""42 rue Michel Ange"")",Chrome 107.0.0.0,,,2023-02-07 17:38:32,2023-02-07 17:38:33,1.078s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city""), ""Le Havre"")",Chrome 107.0.0.0,,,2023-02-07 17:38:33,2023-02-07 17:38:34,0.971s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip""), ""76610"")",Chrome 107.0.0.0,,,2023-02-07 17:38:34,2023-02-07 17:38:35,0.985s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9""))",Chrome 107.0.0.0,,,2023-02-07 17:38:35,2023-02-07 17:38:37,2.714s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef""))",Chrome 107.0.0.0,,,2023-02-07 17:38:37,2023-02-07 17:38:40,2.566s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577""))",Chrome 107.0.0.0,,,2023-02-07 17:38:40,2023-02-07 17:38:42,2.464s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69""))",Chrome 107.0.0.0,,,2023-02-07 17:38:42,2023-02-07 17:38:45,2.571s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f""))",Chrome 107.0.0.0,,,2023-02-07 17:38:45,2023-02-07 17:38:48,2.589s,PASSED
+getUrl(),Chrome 107.0.0.0,,,2023-02-07 17:38:48,2023-02-07 17:38:48,0.015s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Senregistrer/h2_Profitez des avantages de""), ""Profitez des avantages de"")",Chrome 107.0.0.0,,,2023-02-07 17:38:48,2023-02-07 17:38:48,0.691s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input""))",Chrome 107.0.0.0,,,2023-02-07 17:38:48,2023-02-07 17:38:56,8.130s,PASSED
+getUrl(),Chrome 107.0.0.0,,,2023-02-07 17:38:56,2023-02-07 17:38:56,0.053s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352""))",Chrome 107.0.0.0,,,2023-02-07 17:38:56,2023-02-07 17:40:01,1m - 4.234s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2023-02-07 17:40:01,2023-02-07 17:40:01,0.230s,PASSED

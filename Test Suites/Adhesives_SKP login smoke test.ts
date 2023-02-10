@@ -22,7 +22,7 @@
       <guid>93e7ee6d-57f3-413f-a07c-d9344a3d0f9c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/E2E_Test_SKP/Login_Ref_Simple</testCaseId>
+      <testCaseId>Test Cases/Login to SKP site/Login_Ref_Simple</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

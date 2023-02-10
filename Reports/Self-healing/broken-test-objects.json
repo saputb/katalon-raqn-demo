@@ -69,6 +69,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Accueil/svg",
+      "brokenLocator": "//button[@target\u003d\u0027close\u0027]//span[@class\u003d\u0027icon__svgWrap icon__svgWrap--initial icon__svgWrap--initial-only\u0027]//*[name()\u003d\u0027svg\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Interests, skills and knowledge\u0027])[1]/preceding::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Accueil/svg_neighbor.png"
     }
   ]
 }

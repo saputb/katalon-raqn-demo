@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify Login SKP,Chrome 107.0.0.0,,,2023-02-07 21:38:26,2023-02-07 21:39:36,1m - 9.782s,PASSED
+,,,,,,,
+Test Cases/E2E_Test_SKP/Login_Ref_SKP,Chrome 107.0.0.0,,,2023-02-07 21:38:26,2023-02-07 21:39:36,1m - 9.617s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2023-02-07 21:38:26,2023-02-07 21:38:30,3.491s,PASSED
+"navigateToUrl(""https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in"")",Chrome 107.0.0.0,,,2023-02-07 21:38:30,2023-02-07 21:38:32,2.647s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Autoriser tous les cookies""))",Chrome 107.0.0.0,,,2023-02-07 21:38:32,2023-02-07 21:38:34,1.969s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_E-mail_username""), ""13kZ8gQ78EDBcCNmg339zDKsqBmecz/GYnEFWYF0PJ8="")",Chrome 107.0.0.0,,,2023-02-07 21:38:34,2023-02-07 21:38:35,0.939s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Mot de passe_password""), ""DwTTIjmC6TIdOW0tF9H0lw=="")",Chrome 107.0.0.0,,,2023-02-07 21:38:35,2023-02-07 21:38:36,0.543s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053""))",Chrome 107.0.0.0,,,2023-02-07 21:38:36,2023-02-07 21:38:36,0.444s,PASSED
+"click(findTestObject(""Page_Accueil/svg""))",Chrome 107.0.0.0,,,2023-02-07 21:38:36,2023-02-07 21:39:04,27.931s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Accueil/button_BS""))",Chrome 107.0.0.0,,,2023-02-07 21:39:04,2023-02-07 21:39:05,1.238s,PASSED
+"click(findTestObject(""Object Repository/Page_Accueil/span_SE DCONNECTER""))",Chrome 107.0.0.0,,,2023-02-07 21:39:05,2023-02-07 21:39:36,30.131s,PASSED
+getUrl(),Chrome 107.0.0.0,,,2023-02-07 21:39:36,2023-02-07 21:39:36,0.026s,PASSED

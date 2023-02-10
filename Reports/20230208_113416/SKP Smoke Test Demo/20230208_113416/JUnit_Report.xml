@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SKP Smoke Test Demo" time="398.508" tests="2" failures="0" errors="0">
+   <testsuite name="Verify Login SKP" tests="1" failures="0" errors="0" time="347.634" skipped="0" timestamp="2023-02-08 11:34:26" hostname="bobbysaputra - 192.168.2.178" id="Test Suites/Login_Register/Verify Login SKP">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113417"/>
+         <property name="logFiles" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113417/execution0.log"/>
+         <property name="attachments" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113417/1675852560543.png, /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113417/1675852652532.png, /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113417/1675852735568.png"/>
+         <property name="hostName" value="bobbysaputra - 192.168.2.178"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.2.178"/>
+         <property name="sessionId" value="1886550e83460375da80b57d95a95a43"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Login to SKP site/Verify Login SKP" time="78.163" classname="Test Cases/Login to SKP site/Verify Login SKP" status="PASSED">
+         <system-out><![CDATA[2023-02-08 11:38:56 - [TEST_CASE][PASSED] - Test Cases/Login to SKP site/Verify Login SKP: Test Cases/Login to SKP site/Verify Login SKP
+
+2023-02-08 11:38:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-08 11:38:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-08 11:38:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-08 11:38:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-08 11:38:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-08 11:38:58 - [TEST_STEP][PASSED] - navigateToUrl("https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in"): Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in' successfully
+
+2023-02-08 11:39:00 - [MESSAGE][PASSED] - Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in' successfully
+
+2023-02-08 11:39:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/button_Autoriser tous les cookies")): Object: 'Object Repository/Page_Login/button_Autoriser tous les cookies' is clicked on
+
+2023-02-08 11:39:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Autoriser tous les cookies' is clicked on
+
+2023-02-08 11:39:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Login/input_E-mail_username"), "13kZ8gQ78EDBcCNmg339zDKsqBmecz/GYnEFWYF0PJ8="): Text ****** has been set on object 'Object Repository/Page_Login/input_E-mail_username'
+
+2023-02-08 11:39:02 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_E-mail_username'
+
+2023-02-08 11:39:02 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Login/input_Mot de passe_password"), "DwTTIjmC6TIdOW0tF9H0lw=="): Text ****** has been set on object 'Object Repository/Page_Login/input_Mot de passe_password'
+
+2023-02-08 11:39:03 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_Mot de passe_password'
+
+2023-02-08 11:39:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053")): Object: 'Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053' is clicked on
+
+2023-02-08 11:39:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053' is clicked on
+
+2023-02-08 11:39:03 - [TEST_STEP][PASSED] - click(findTestObject("Page_Accueil/svg")): Object: 'Object Repository/Page_Accueil/svg' is clicked on
+
+2023-02-08 11:39:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accueil/svg' is clicked on
+
+2023-02-08 11:39:48 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Page_Accueil/button_BS")): Object: 'Object Repository/Page_Accueil/button_BS' is hovered
+
+2023-02-08 11:40:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accueil/button_BS' is hovered
+
+2023-02-08 11:40:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Accueil/span_SE DCONNECTER")): Object: 'Object Repository/Page_Accueil/span_SE DCONNECTER' is clicked on
+
+2023-02-08 11:40:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accueil/span_SE DCONNECTER' is clicked on
+
+2023-02-08 11:40:13 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr.html'
+
+2023-02-08 11:40:13 - [MESSAGE][PASSED] - Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr.html'
+
+2023-02-08 11:40:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-08 11:40:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-08 11:34:26 - [TEST_SUITE][FAILED] - Verify Login SKP: Test Cases/Login to SKP site/Verify Login SKP FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Accueil/span_SE DCONNECTER'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at Verify Login SKP.run(Verify Login SKP:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675852457949.run(TempTestSuite1675852457949.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=107.0.5304.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'MBP-BS-C02DN1FKMD6T', ip: '2003:da:a730:bbe3:4082:4bbd:f639:a036%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_275'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.110, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/r4/b057fbvx5j1...}, goog:chromeOptions: {debuggerAddress: localhost:51097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5324ba7699337f700846bd16ea7a2562
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-02-08 11:34:26 - [TEST_SUITE][FAILED] - Verify Login SKP: Test Cases/Login to SKP site/Verify Login SKP FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Accueil/span_SE DCONNECTER'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$1.call(Unknown Source)
+	at Verify Login SKP.run(Verify Login SKP:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675852457949.run(TempTestSuite1675852457949.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=107.0.5304.110)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'MBP-BS-C02DN1FKMD6T', ip: '2003:da:a730:bbe3:4082:4bbd:f639:a036%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_275'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.110, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/r4/b057fbvx5j1...}, goog:chromeOptions: {debuggerAddress: localhost:51097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5324ba7699337f700846bd16ea7a2562
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+   <testsuite name="Verify Login SKP" tests="1" failures="0" errors="0" time="30.072" skipped="0" timestamp="2023-02-08 11:40:26" hostname="bobbysaputra - 192.168.2.178" id="Test Suites/Login_Register/Verify Login SKP">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113419"/>
+         <property name="logFiles" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230208_113416/Login_Register/Verify Login SKP/20230208_113419/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="bobbysaputra - 192.168.2.178"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Safari 16"/>
+         <property name="hostAddress" value="192.168.2.178"/>
+         <property name="sessionId" value="53EEEA09-29EF-4F50-A09A-9A97F3ED8BCD"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Login to SKP site/Verify Login SKP" time="29.883" classname="Test Cases/Login to SKP site/Verify Login SKP" status="PASSED">
+         <system-out><![CDATA[2023-02-08 11:40:26 - [TEST_CASE][PASSED] - Test Cases/Login to SKP site/Verify Login SKP: Test Cases/Login to SKP site/Verify Login SKP
+
+2023-02-08 11:40:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-08 11:40:26 - [MESSAGE][INFO] - Starting 'Safari' driver
+
+2023-02-08 11:40:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-08 11:40:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-08 11:40:28 - [TEST_STEP][PASSED] - navigateToUrl("https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in"): Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in' successfully
+
+2023-02-08 11:40:29 - [MESSAGE][PASSED] - Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in' successfully
+
+2023-02-08 11:40:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/button_Autoriser tous les cookies")): Object: 'Object Repository/Page_Login/button_Autoriser tous les cookies' is clicked on
+
+2023-02-08 11:40:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Autoriser tous les cookies' is clicked on
+
+2023-02-08 11:40:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Login/input_E-mail_username"), "13kZ8gQ78EDBcCNmg339zDKsqBmecz/GYnEFWYF0PJ8="): Text ****** has been set on object 'Object Repository/Page_Login/input_E-mail_username'
+
+2023-02-08 11:40:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_E-mail_username'
+
+2023-02-08 11:40:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Login/input_Mot de passe_password"), "DwTTIjmC6TIdOW0tF9H0lw=="): Text ****** has been set on object 'Object Repository/Page_Login/input_Mot de passe_password'
+
+2023-02-08 11:40:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_Mot de passe_password'
+
+2023-02-08 11:40:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053")): Object: 'Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053' is clicked on
+
+2023-02-08 11:40:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053' is clicked on
+
+2023-02-08 11:40:31 - [TEST_STEP][PASSED] - click(findTestObject("Page_Accueil/svg")): Object: 'Object Repository/Page_Accueil/svg' is clicked on
+
+2023-02-08 11:40:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accueil/svg' is clicked on
+
+2023-02-08 11:40:55 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Page_Accueil/button_BS")): Object: 'Object Repository/Page_Accueil/button_BS' is hovered
+
+2023-02-08 11:40:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accueil/button_BS' is hovered
+
+2023-02-08 11:40:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Accueil/span_SE DCONNECTER")): Object: 'Object Repository/Page_Accueil/span_SE DCONNECTER' is clicked on
+
+2023-02-08 11:40:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Accueil/span_SE DCONNECTER' is clicked on
+
+2023-02-08 11:40:56 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr.html'
+
+2023-02-08 11:40:56 - [MESSAGE][PASSED] - Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr.html'
+
+2023-02-08 11:40:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-08 11:40:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-08 11:40:26 - [TEST_SUITE][PASSED] - Verify Login SKP: Test Cases/Login to SKP site/Verify Login SKP]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

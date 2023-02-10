@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Accueil/svg",
+      "brokenLocator": "//button[@target\u003d\u0027close\u0027]//span[@class\u003d\u0027icon__svgWrap icon__svgWrap--initial icon__svgWrap--initial-only\u0027]//*[name()\u003d\u0027svg\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Interests, skills and knowledge\u0027])[1]/preceding::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230209_132104/Login_Register/Verify Login SKP/20230209_132105/Object Repository/Page_Accueil/svg_neighbor.png"
+    }
+  ]
+}

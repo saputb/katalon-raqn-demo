@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Senregistrer/input",
+      "brokenLocator": "//input[@value\u003d\u0027RETOUR À L’ACCUEIL\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230207_214238/Login_Register/Verify Registration SKP/20230207_214241/Object Repository/Page_Senregistrer/input_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352",
+      "brokenLocator": "//div[@id\u003d\u0027columncontrol-8660b43a3a\u0027]/heliux-grid",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//heliux-grid",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230207_214238/Login_Register/Verify Registration SKP/20230207_214241/Object Repository/Page_Senregistrer/heliux-grid_section-f47ba71989           --_0c9352_position.png"
+    }
+  ]
+}

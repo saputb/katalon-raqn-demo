@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify Login SKP,Safari 16,,,2023-02-08 11:02:40,2023-02-08 11:03:09,28.046s,PASSED
+,,,,,,,
+Test Cases/Login to SKP site/Verify Login SKP,Safari 16,,,2023-02-08 11:02:41,2023-02-08 11:03:09,27.857s,PASSED
+"openBrowser("""")",Safari 16,,,2023-02-08 11:02:41,2023-02-08 11:02:42,1.325s,PASSED
+"navigateToUrl(""https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in"")",Safari 16,,,2023-02-08 11:02:42,2023-02-08 11:02:43,0.806s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Autoriser tous les cookies""))",Safari 16,,,2023-02-08 11:02:43,2023-02-08 11:02:43,0.201s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_E-mail_username""), ""13kZ8gQ78EDBcCNmg339zDKsqBmecz/GYnEFWYF0PJ8="")",Safari 16,,,2023-02-08 11:02:43,2023-02-08 11:02:44,0.841s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Mot de passe_password""), ""DwTTIjmC6TIdOW0tF9H0lw=="")",Safari 16,,,2023-02-08 11:02:44,2023-02-08 11:02:44,0.093s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053""))",Safari 16,,,2023-02-08 11:02:44,2023-02-08 11:02:44,0.122s,PASSED
+"click(findTestObject(""Page_Accueil/svg""))",Safari 16,,,2023-02-08 11:02:44,2023-02-08 11:03:08,23.591s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Accueil/button_BS""))",Safari 16,,,2023-02-08 11:03:08,2023-02-08 11:03:08,0.304s,PASSED
+"click(findTestObject(""Object Repository/Page_Accueil/span_SE DCONNECTER""))",Safari 16,,,2023-02-08 11:03:08,2023-02-08 11:03:08,0.067s,PASSED
+getUrl(),Safari 16,,,2023-02-08 11:03:08,2023-02-08 11:03:08,0.017s,PASSED
+closeBrowser(),Safari 16,,,2023-02-08 11:03:08,2023-02-08 11:03:09,0.286s,PASSED
