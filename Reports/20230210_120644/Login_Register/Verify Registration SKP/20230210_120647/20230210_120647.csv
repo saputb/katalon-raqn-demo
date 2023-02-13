@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify Registration SKP,Safari 16,,,2023-02-10 12:09:26,2023-02-10 12:11:50,2m - 23.983s,FAILED
+,,,,,,,
+Test Cases/Register user SKP/Verify Registration SKP,Safari 16,,,2023-02-10 12:11:14,2023-02-10 12:11:50,36.502s,FAILED
+"openBrowser("""")",Safari 16,,,2023-02-10 12:11:14,2023-02-10 12:11:15,0.852s,PASSED
+maximizeWindow(),Safari 16,,,2023-02-10 12:11:15,2023-02-10 12:11:15,0.025s,PASSED
+"navigateToUrl(""https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in"")",Safari 16,,,2023-02-10 12:11:15,2023-02-10 12:11:18,2.938s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/button_Autoriser tous les cookies""))",Safari 16,,,2023-02-10 12:11:18,2023-02-10 12:11:18,0.059s,PASSED
+"click(findTestObject(""Object Repository/Page_Senregistrer/input""))",Safari 16,,,2023-02-10 12:11:18,2023-02-10 12:11:49,31.129s,PASSED
+RN = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Safari 16,,,2023-02-10 12:11:49,2023-02-10 12:11:49,0.000s,PASSED
+RN = Math.random() * 1000,Safari 16,,,2023-02-10 12:11:49,2023-02-10 12:11:49,0.000s,PASSED
+"setText(findTestObject(""Object Repository/Page_Senregistrer/input_E-mail_email""), ""dontobono+"" + RN + ""@gmail.com"")",Safari 16,,,2023-02-10 12:11:49,2023-02-10 12:11:49,0.245s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Senregistrer/input_Mot de passe_password""), ""DwTTIjmC6TIdOW0tF9H0lw=="")",Safari 16,,,2023-02-10 12:11:49,2023-02-10 12:11:50,0.549s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype""), ""DwTTIjmC6TIdOW0tF9H0lw=="")",Safari 16,,,2023-02-10 12:11:50,2023-02-10 12:11:50,0.200s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Senregistrer/select_Mme.M.Div""), ""mr"", true)",Safari 16,,,2023-02-10 12:11:50,2023-02-10 12:11:50,0.487s,FAILED
