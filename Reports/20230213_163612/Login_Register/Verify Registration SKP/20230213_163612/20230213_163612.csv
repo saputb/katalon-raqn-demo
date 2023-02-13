@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify Registration SKP,Safari 16,,,2023-02-13 16:36:19,2023-02-13 16:38:17,1m - 57.719s,FAILED
+,,,,,,,
+Test Cases/Register user SKP/Verify Registration SKP,Safari 16,,,2023-02-13 16:38:17,2023-02-13 16:38:17,0.097s,FAILED
+"openBrowser("""")",Safari 16,,,2023-02-13 16:38:17,2023-02-13 16:38:17,0.086s,FAILED
