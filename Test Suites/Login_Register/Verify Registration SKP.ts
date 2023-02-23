@@ -15,7 +15,7 @@
       <guid>294997b4-9500-4371-a233-67ef5e414269</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Register user SKP/Verify Registration SKP</testCaseId>
+      <testCaseId>Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

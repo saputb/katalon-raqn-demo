@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dontobono@gmail.com\n'</initValue>
+      <name>emailID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test123!!!'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Just one more click and you\'re part of the Team!\n'</initValue>
+      <name>folderLableName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

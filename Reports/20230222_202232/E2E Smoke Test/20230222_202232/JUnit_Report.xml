@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="E2E Smoke Test" time="204.383" tests="1" failures="1" errors="0">
+   <testsuite name="E2E Smoke Test" tests="1" failures="1" errors="0" time="204.383" skipped="0" timestamp="2023-02-22 20:22:37" hostname="bobbysaputra - mbp-bs-c02dn1fkmd6t.henkelgroup.net" id="Test Suites/E2E Smoke Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232"/>
+         <property name="logFiles" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/execution0.log"/>
+         <property name="attachments" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/1677093763765.png, /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/1677093808789.png, /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/1677093862182.png, /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/1677093915354.png"/>
+         <property name="hostName" value="bobbysaputra - mbp-bs-c02dn1fkmd6t.henkelgroup.net"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="100.64.1.3"/>
+         <property name="sessionId" value="0628a0469405cca4755523a96d19ee3d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/ABC/Verify Accesible Links" time="51.67" classname="Test Cases/ABC/Verify Accesible Links" status="FAILED">
+         <failure type="FAILED" message="Test Cases/ABC/Verify Accesible Links FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-02-22 20:25:10 - [TEST_CASE][FAILED] - Test Cases/ABC/Verify Accesible Links: Test Cases/ABC/Verify Accesible Links FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-02-22 20:25:10 - [TEST_STEP][PASSED] - openBrowser("https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html"): Browser is opened with url: 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html'
+
+2023-02-22 20:25:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-22 20:25:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-22 20:25:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-22 20:25:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html'
+
+2023-02-22 20:25:14 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2023-02-22 20:25:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/1677093915354.png]]
+
+2023-02-22 20:25:15 - [TEST_STEP][FAILED] - verifyAllLinksOnCurrentPageAccessible(false, []): Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)
+
+2023-02-22 20:25:17 - [MESSAGE][PASSED] - Found 109 unique links on the page https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html
+
+2023-02-22 20:25:17 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/327.har
+
+2023-02-22 20:25:17 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:17 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/328.har
+
+2023-02-22 20:25:17 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:18 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/329.har
+
+2023-02-22 20:25:18 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:18 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/330.har
+
+2023-02-22 20:25:18 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:18 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/331.har
+
+2023-02-22 20:25:18 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:19 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/332.har
+
+2023-02-22 20:25:19 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:19 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/333.har
+
+2023-02-22 20:25:19 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:19 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/334.har
+
+2023-02-22 20:25:19 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:20 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/335.har
+
+2023-02-22 20:25:20 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:20 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/336.har
+
+2023-02-22 20:25:20 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:21 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/337.har
+
+2023-02-22 20:25:21 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:21 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/338.har
+
+2023-02-22 20:25:21 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:21 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/339.har
+
+2023-02-22 20:25:21 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:22 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/340.har
+
+2023-02-22 20:25:22 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:23 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/341.har
+
+2023-02-22 20:25:23 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:23 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/342.har
+
+2023-02-22 20:25:23 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:23 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/343.har
+
+2023-02-22 20:25:23 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:23 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/344.har
+
+2023-02-22 20:25:23 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:24 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/345.har
+
+2023-02-22 20:25:24 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:24 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/346.har
+
+2023-02-22 20:25:24 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:25 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/347.har
+
+2023-02-22 20:25:25 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:25 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/348.har
+
+2023-02-22 20:25:25 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:25 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/349.har
+
+2023-02-22 20:25:25 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:26 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/350.har
+
+2023-02-22 20:25:26 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:26 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/351.har
+
+2023-02-22 20:25:26 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:27 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/352.har
+
+2023-02-22 20:25:27 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:27 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/353.har
+
+2023-02-22 20:25:27 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:27 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/354.har
+
+2023-02-22 20:25:27 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:28 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/355.har
+
+2023-02-22 20:25:28 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:28 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/356.har
+
+2023-02-22 20:25:28 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:28 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/357.har
+
+2023-02-22 20:25:28 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:29 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/358.har
+
+2023-02-22 20:25:29 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:29 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/359.har
+
+2023-02-22 20:25:29 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:29 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/360.har
+
+2023-02-22 20:25:29 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:30 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/361.har
+
+2023-02-22 20:25:30 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:30 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/362.har
+
+2023-02-22 20:25:30 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:31 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/363.har
+
+2023-02-22 20:25:31 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:31 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/364.har
+
+2023-02-22 20:25:31 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:32 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/365.har
+
+2023-02-22 20:25:32 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:32 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/366.har
+
+2023-02-22 20:25:33 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:33 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/367.har
+
+2023-02-22 20:25:33 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:34 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/368.har
+
+2023-02-22 20:25:34 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:34 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/369.har
+
+2023-02-22 20:25:34 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:35 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/370.har
+
+2023-02-22 20:25:35 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:35 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/371.har
+
+2023-02-22 20:25:35 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:35 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/372.har
+
+2023-02-22 20:25:35 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:36 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/373.har
+
+2023-02-22 20:25:36 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:36 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/374.har
+
+2023-02-22 20:25:36 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:37 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/375.har
+
+2023-02-22 20:25:37 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:37 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/376.har
+
+2023-02-22 20:25:37 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:38 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/377.har
+
+2023-02-22 20:25:38 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:38 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/378.har
+
+2023-02-22 20:25:38 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:38 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/379.har
+
+2023-02-22 20:25:38 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:39 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/380.har
+
+2023-02-22 20:25:39 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:40 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/381.har
+
+2023-02-22 20:25:40 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:40 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/382.har
+
+2023-02-22 20:25:40 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:41 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/383.har
+
+2023-02-22 20:25:41 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:41 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/384.har
+
+2023-02-22 20:25:41 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:42 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/385.har
+
+2023-02-22 20:25:42 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:42 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/386.har
+
+2023-02-22 20:25:42 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:42 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/387.har
+
+2023-02-22 20:25:42 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:43 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/388.har
+
+2023-02-22 20:25:43 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:43 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/389.har
+
+2023-02-22 20:25:43 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:43 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/390.har
+
+2023-02-22 20:25:43 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:44 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/391.har
+
+2023-02-22 20:25:44 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:44 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/392.har
+
+2023-02-22 20:25:44 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:44 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/393.har
+
+2023-02-22 20:25:44 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:45 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/394.har
+
+2023-02-22 20:25:45 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:45 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/395.har
+
+2023-02-22 20:25:45 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:45 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/396.har
+
+2023-02-22 20:25:45 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:46 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/397.har
+
+2023-02-22 20:25:46 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:46 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/398.har
+
+2023-02-22 20:25:46 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:46 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/399.har
+
+2023-02-22 20:25:46 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:46 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/400.har
+
+2023-02-22 20:25:46 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:47 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/401.har
+
+2023-02-22 20:25:47 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:47 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/402.har
+
+2023-02-22 20:25:47 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:47 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/403.har
+
+2023-02-22 20:25:47 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:48 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/404.har
+
+2023-02-22 20:25:48 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:48 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/405.har
+
+2023-02-22 20:25:48 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:49 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/406.har
+
+2023-02-22 20:25:49 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:50 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/407.har
+
+2023-02-22 20:25:50 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:50 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/408.har
+
+2023-02-22 20:25:50 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:50 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/409.har
+
+2023-02-22 20:25:50 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:50 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/410.har
+
+2023-02-22 20:25:50 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:51 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/411.har
+
+2023-02-22 20:25:51 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:51 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/412.har
+
+2023-02-22 20:25:51 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:51 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/413.har
+
+2023-02-22 20:25:51 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:52 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/414.har
+
+2023-02-22 20:25:52 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:53 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/415.har
+
+2023-02-22 20:25:53 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:53 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/416.har
+
+2023-02-22 20:25:53 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:54 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/417.har
+
+2023-02-22 20:25:54 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:54 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/418.har
+
+2023-02-22 20:25:54 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:55 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/419.har
+
+2023-02-22 20:25:55 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:55 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/420.har
+
+2023-02-22 20:25:55 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:55 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/421.har
+
+2023-02-22 20:25:55 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:56 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/422.har
+
+2023-02-22 20:25:56 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:56 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/423.har
+
+2023-02-22 20:25:56 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:57 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/424.har
+
+2023-02-22 20:25:57 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:57 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/425.har
+
+2023-02-22 20:25:57 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:57 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/426.har
+
+2023-02-22 20:25:57 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:58 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/427.har
+
+2023-02-22 20:25:58 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:59 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/428.har
+
+2023-02-22 20:25:59 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:25:59 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/429.har
+
+2023-02-22 20:25:59 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:00 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/430.har
+
+2023-02-22 20:26:00 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:00 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/431.har
+
+2023-02-22 20:26:00 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:00 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/432.har
+
+2023-02-22 20:26:00 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:01 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/433.har
+
+2023-02-22 20:26:01 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:01 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/434.har
+
+2023-02-22 20:26:01 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:02 - [MESSAGE][INFO] - HAR: /Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230222_202232/E2E Smoke Test/20230222_202232/requests/main/435.har
+
+2023-02-22 20:26:02 - [MESSAGE][PASSED] - Send request successfully
+
+2023-02-22 20:26:02 - [MESSAGE][WARNING] - Found 1 inaccessible links [https://www.authenticbeautyconcept.pl/content/authentic-beauty-concept/pl/pl/home/cookies.html] (Root cause: com.kms.katalon.core.exception.StepFailedException: Found 1 inaccessible links [https://www.authenticbeautyconcept.pl/content/authentic-beauty-concept/pl/pl/home/cookies.html]
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyLinksAccessibleKeyword$_verifyLinksAccessible_closure1.doCall(VerifyLinksAccessibleKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyLinksAccessibleKeyword$_verifyLinksAccessible_closure1.call(VerifyLinksAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyLinksAccessibleKeyword.verifyLinksAccessible(VerifyLinksAccessibleKeyword.groovy:37)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyLinksAccessibleKeyword.execute(VerifyLinksAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyLinksAccessible(WebUiBuiltInKeywords.groovy:4795)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:40)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+)
+
+2023-02-22 20:26:02 - [MESSAGE][FAILED] - Some of links on the current page are inaccessible (Root cause: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+)
+
+2023-02-22 20:26:02 - [MESSAGE][FAILED] - Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+)]]></system-out>
+         <system-err><![CDATA[2023-02-22 20:25:10 - [TEST_CASE][FAILED] - Test Cases/ABC/Verify Accesible Links: Test Cases/ABC/Verify Accesible Links FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-22 20:22:37 - [TEST_SUITE][FAILED] - E2E Smoke Test: Test Cases/ABC/Verify Accesible Links FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-02-22 20:22:37 - [TEST_SUITE][FAILED] - E2E Smoke Test: Test Cases/ABC/Verify Accesible Links FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify all links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677093752747.run(TempTestSuite1677093752747.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Some of links on the current page are inaccessible
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

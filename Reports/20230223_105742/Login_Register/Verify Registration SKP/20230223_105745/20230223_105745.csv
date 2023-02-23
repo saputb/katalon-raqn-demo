@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Verify Registration SKP,,,,2023-02-23 10:57:54,2023-02-23 10:57:59,5.324s,FAILED
+,,,,,,,
+Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP,,,,2023-02-23 10:57:59,2023-02-23 10:57:59,0.303s,FAILED
+"openBrowser("""")",,,,2023-02-23 10:57:59,2023-02-23 10:57:59,0.240s,FAILED

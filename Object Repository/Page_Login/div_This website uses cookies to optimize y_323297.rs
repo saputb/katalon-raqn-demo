@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This website uses cookies to optimize y_323297</name>
+   <tag></tag>
+   <elementGuidId>b0eb32b0-3fcd-4dc2-8c30-79594d3edfa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ot-sdk-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onetrust-banner-sdk']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d3397541-636c-4733-bbb3-5897c60c0005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ot-sdk-row</value>
+      <webElementGuid>dab0a257-d0eb-4968-88e6-72991a509c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This website uses cookies to optimize your experience.This website uses cookies to analyze and optimize the website, give you a more relevant experience, and assist our marketing efforts, including serving ads on other sites. We may monitor your use of the site and share information about how you use our site with analytics, social media, and advertising partners. Your data is retained as necessary for these purposes, for more info see the privacy notices linked below.  By using the website, you agree to the use of cookies. Privacy Policy CA Privacy NoticeCookie Settings  Accept Cookies</value>
+      <webElementGuid>de0c9346-a245-4d4e-8bde-da2d85fdf44d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-banner-sdk&quot;)/div[1]/div[@class=&quot;ot-sdk-container&quot;]/div[@class=&quot;ot-sdk-row&quot;]</value>
+      <webElementGuid>3f0c900d-f672-42b1-8e7f-8d2eb012529f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-banner-sdk']/div/div/div</value>
+      <webElementGuid>978806f3-5955-41cc-9b1d-bac85d644a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::div[10]</value>
+      <webElementGuid>a8dfd01d-2614-4bce-ac17-6eb579202611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent searches'])[1]/following::div[10]</value>
+      <webElementGuid>5e1b2fa0-4b37-44c9-93c2-3fae0b8d6085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/div/div</value>
+      <webElementGuid>1ad2750f-9b90-46f7-b40d-fab9ac6e301c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This website uses cookies to optimize your experience.This website uses cookies to analyze and optimize the website, give you a more relevant experience, and assist our marketing efforts, including serving ads on other sites. We may monitor your use of the site and share information about how you use our site with analytics, social media, and advertising partners. Your data is retained as necessary for these purposes, for more info see the privacy notices linked below.  By using the website, you agree to the use of cookies. Privacy Policy CA Privacy NoticeCookie Settings  Accept Cookies' or . = 'This website uses cookies to optimize your experience.This website uses cookies to analyze and optimize the website, give you a more relevant experience, and assist our marketing efforts, including serving ads on other sites. We may monitor your use of the site and share information about how you use our site with analytics, social media, and advertising partners. Your data is retained as necessary for these purposes, for more info see the privacy notices linked below.  By using the website, you agree to the use of cookies. Privacy Policy CA Privacy NoticeCookie Settings  Accept Cookies')]</value>
+      <webElementGuid>19bc3994-2ee8-43de-bbd6-7adf26c91d44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

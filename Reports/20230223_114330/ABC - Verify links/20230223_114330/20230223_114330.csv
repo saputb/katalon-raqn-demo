@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+ABC - Verify links,Chrome 107.0.0.0,,,2023-02-23 11:43:36,2023-02-23 11:44:31,55.269s,FAILED
+,,,,,,,
+Test Cases/ABC/Verify Accesible Links,Chrome 107.0.0.0,,,2023-02-23 11:43:36,2023-02-23 11:44:31,55.111s,FAILED
+"openBrowser(""https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html"")",Chrome 107.0.0.0,,,2023-02-23 11:43:36,2023-02-23 11:43:42,5.630s,PASSED
+takeScreenshot(),Chrome 107.0.0.0,,,2023-02-23 11:43:42,2023-02-23 11:43:43,1.341s,PASSED
+"verifyAllLinksOnCurrentPageAccessible(false, [])",Chrome 107.0.0.0,,,2023-02-23 11:43:43,2023-02-23 11:44:31,47.964s,FAILED

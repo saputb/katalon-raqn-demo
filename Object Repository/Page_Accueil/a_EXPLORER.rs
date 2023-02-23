@@ -6,12 +6,12 @@
    <elementGuidId>021c8fe6-46a0-4cc7-b8de-22aa33753ef2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[@id='calltoaction-5077f8fe6b'])[2]</value>
+         <key>CSS</key>
+         <value>#calltoaction-5077f8fe6b</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-5077f8fe6b']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bee1f648-fc8b-42db-9a5b-d68d851bbee8</webElementGuid>
+      <webElementGuid>9f5af428-5ec4-427b-a36c-822263cf0eef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calltoaction-5077f8fe6b</value>
-      <webElementGuid>d4807599-777a-44af-8cf9-e8689df7f36d</webElementGuid>
+      <webElementGuid>476ef305-6316-4af3-98fb-3b5aaced6718</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-customizationclass</name>
       <type>Main</type>
       <value>customizations__calltoaction</value>
-      <webElementGuid>f30be18e-d6fe-4166-b13d-bd0166520ba3</webElementGuid>
+      <webElementGuid>ae3037ea-ebc6-4aaf-969a-5fb3751158d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta</value>
-      <webElementGuid>ae6f30a6-2ccd-43e9-9195-5b56d6c7955d</webElementGuid>
+      <webElementGuid>cd02bec2-f60a-4814-be84-ceb21a3ae1e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/fr/fr/catalogue/courses.html/course/1350093/Test%20Paid%20Online%20Seminar</value>
-      <webElementGuid>e488348d-3dd6-4077-b2ec-43ce9ffa855b</webElementGuid>
+      <value>/fr/fr/catalogue/courses.html/course/1523548/Stage%20%3A%20Atelier%20Nouveaut%C3%A9s%20Couleurs</value>
+      <webElementGuid>d881ce87-aa94-468f-8210-a364a46ba6a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
-      <webElementGuid>fc329124-60f2-4a06-b369-d01a90b50b55</webElementGuid>
+      <webElementGuid>a3a5490c-c012-4b95-be4d-b42bdc5a2166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-components-params-calltoactionmodalcontrol</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;_self&quot;}</value>
-      <webElementGuid>05cb6803-865a-4008-9ae9-ac64b18f3388</webElementGuid>
+      <webElementGuid>3f2f1d96-a7f4-4b2e-9f10-8aefb43ead43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CallToActionModalControl</value>
-      <webElementGuid>849f5496-a6a6-4d58-9526-ed88164eafdf</webElementGuid>
+      <webElementGuid>7eca7d4e-05a1-43d4-9aee-07610b063f38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -89,19 +89,89 @@
               
               EXPLORER
             </value>
-      <webElementGuid>8506ffee-d129-4d02-a0ad-2f65e746a5b0</webElementGuid>
+      <webElementGuid>e8c6b0e1-690c-47c7-806b-dd7b04000775</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;carousel_uuid6cffcfcb_2333_47b0_8c31_09035406c74e&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider&quot;]/ul[@class=&quot;teaserlist__items
+      <value>id(&quot;carousel_uuid7c7064ff_9d19_4461_88be_15681feaa275&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider&quot;]/ul[@class=&quot;teaserlist__items
                     atomic--target&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-top-small margin-left-small margin-right-small margin-bottom-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-2c82a46d8a&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-left margin-top-default margin-left-default margin-right-default margin-bottom-default default-margin-top default-margin-left&quot;]/div[@id=&quot;columncontrol-e33a2ceb53&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-calltoaction[@class=&quot;calltoaction button margin-top-default margin-left-none margin-right-none margin-bottom-none calltoaction__animationsbuttonaccent1 isOffScreen isOnScreen&quot;]/div[@id=&quot;wrapper-calltoaction-5077f8fe6b&quot;]/div[@class=&quot;calltoaction__background&quot;]/a[@id=&quot;calltoaction-5077f8fe6b&quot;]</value>
-      <webElementGuid>15642c8b-5be6-4a56-b5ec-e45dfaaca4ed</webElementGuid>
+      <webElementGuid>c1fc8034-77aa-40c1-8c04-d03d49c3a80b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-5077f8fe6b']</value>
+      <webElementGuid>2f391bcd-e082-4044-a4b7-05fa2a00229e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-calltoaction-5077f8fe6b']/div/a</value>
+      <webElementGuid>89a06d31-eba4-422a-8123-d49c045e444a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::a[1]</value>
+      <webElementGuid>72791360-da41-4c0d-9d10-53ff2abc4f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[10]/following::a[1]</value>
+      <webElementGuid>5a69e0a8-c727-4d57-b37b-42f5f464eb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Séminaire'])[2]/preceding::a[2]</value>
+      <webElementGuid>fb56dd0c-2a6b-43fb-b43f-c207bd4a3640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/fr/fr/catalogue/courses.html/course/1523548/Stage%20%3A%20Atelier%20Nouveaut%C3%A9s%20Couleurs')])[2]</value>
+      <webElementGuid>e25b7d4f-61bc-43b9-a9eb-6d5fc13d7197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/heliux-calltoaction/div[2]/div/a</value>
+      <webElementGuid>6282fe14-8d3a-4789-bccb-7fd9194fe3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'calltoaction-5077f8fe6b' and @href = '/fr/fr/catalogue/courses.html/course/1523548/Stage%20%3A%20Atelier%20Nouveaut%C3%A9s%20Couleurs' and (text() = '
+              
+              EXPLORER
+            ' or . = '
+              
+              EXPLORER
+            ')]</value>
+      <webElementGuid>e31242f1-9dc7-4356-806e-6f11f3ac5df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

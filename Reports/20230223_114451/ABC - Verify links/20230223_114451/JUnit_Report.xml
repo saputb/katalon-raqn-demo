@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ABC - Verify links" time="3.704" tests="1" failures="0" errors="0">
+   <testsuite name="ABC - Verify links" tests="1" failures="0" errors="0" time="3.704" skipped="0" timestamp="2023-02-23 11:44:57" hostname="bobbysaputra - 192.168.2.178" id="Test Suites/ABC - Verify links">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_114451/ABC - Verify links/20230223_114451"/>
+         <property name="logFiles" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_114451/ABC - Verify links/20230223_114451/execution0.log"/>
+         <property name="attachments" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_114451/ABC - Verify links/20230223_114451/1677149100507.png"/>
+         <property name="hostName" value="bobbysaputra - 192.168.2.178"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Safari 16"/>
+         <property name="hostAddress" value="192.168.2.178"/>
+         <property name="sessionId" value="6F85F721-2F9D-4333-B96C-57F575E24621"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/ABC/Verify Accesible Links" time="3.522" classname="Test Cases/ABC/Verify Accesible Links" status="PASSED">
+         <system-out><![CDATA[2023-02-23 11:44:57 - [TEST_CASE][PASSED] - Test Cases/ABC/Verify Accesible Links: Test Cases/ABC/Verify Accesible Links
+
+2023-02-23 11:44:58 - [TEST_STEP][PASSED] - openBrowser("https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html"): Browser is opened with url: 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html'
+
+2023-02-23 11:44:58 - [MESSAGE][INFO] - Starting 'Safari' driver
+
+2023-02-23 11:44:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-23 11:45:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html'
+
+2023-02-23 11:45:00 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2023-02-23 11:45:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_114451/ABC - Verify links/20230223_114451/1677149100507.png]]
+
+2023-02-23 11:45:00 - [TEST_STEP][PASSED] - verifyAllLinksOnCurrentPageAccessible(false, []): All links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+
+2023-02-23 11:45:01 - [MESSAGE][WARNING] - Unable to get all links on the page https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to get all links on the page https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword.getAllLinksOnCurrentPage(GetAllLinksOnCurrentPageKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword.execute(GetAllLinksOnCurrentPageKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAllLinksOnCurrentPage(WebUiBuiltInKeywords.groovy:4765)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:39)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Verify Accesible Links.run(Verify Accesible Links:27)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677149091934.run(TempTestSuite1677149091934.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: A node reference could not be resolved: Node with identifier 'node-1FAD9794-CFB0-48F0-9507-6443EA9F4DFE' was not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'MBP-BS-C02DN1FKMD6T', ip: '2003:da:a730:bbbf:20fb:98c3:b114:86b7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_275'
+Driver info: com.kms.katalon.selenium.driver.CSafariDriver
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 16.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 22C65, safari:platformVersion: 13.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 6F85F721-2F9D-4333-B96C-57F575E24621
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CSafariDriver.execute(CSafariDriver.java:20)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.getAttribute(RemoteWebElement.java:134)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.getAttribute(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.getAttribute(EventFiringWebDriver.java:447)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword.getLinkAttribute(GetAllLinksOnCurrentPageKeyword.groovy:162)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword.access$7(GetAllLinksOnCurrentPageKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword$_getAllLinksOnCurrentPage_closure1.doCall(GetAllLinksOnCurrentPageKeyword.groovy:59)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword$_getAllLinksOnCurrentPage_closure1.call(GetAllLinksOnCurrentPageKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword.getAllLinksOnCurrentPage(GetAllLinksOnCurrentPageKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAllLinksOnCurrentPageKeyword.execute(GetAllLinksOnCurrentPageKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAllLinksOnCurrentPage(WebUiBuiltInKeywords.groovy:4765)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.doCall(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:39)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword$_verifyAllLinksOnCurrentPageAccessible_closure1.call(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.verifyAllLinksOnCurrentPageAccessible(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:48)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAllLinksOnCurrentPageAccessibleKeyword.execute(VerifyAllLinksOnCurrentPageAccessibleKeyword.groovy:32)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAllLinksOnCurrentPageAccessible(WebUiBuiltInKeywords.groovy:4840)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyAllLinksOnCurrentPageAccessible$1.call(Unknown Source)
+	at Script1677078544579.run(Script1677078544579.groovy:27)
+	... 13 more
+)
+
+2023-02-23 11:45:01 - [MESSAGE][PASSED] - All links are accessible
+
+2023-02-23 11:45:01 - [MESSAGE][PASSED] - All links on the page 'https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html' are accessible
+
+2023-02-23 11:45:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-23 11:45:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-23 11:44:57 - [TEST_SUITE][PASSED] - ABC - Verify links: Test Cases/ABC/Verify Accesible Links]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

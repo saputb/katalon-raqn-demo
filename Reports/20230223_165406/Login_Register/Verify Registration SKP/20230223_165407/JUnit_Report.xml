@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Verify Registration SKP" time="128.186" tests="1" failures="0" errors="0">
+   <testsuite name="Verify Registration SKP" tests="1" failures="0" errors="0" time="128.186" skipped="0" timestamp="2023-02-23 16:54:16" hostname="bobbysaputra - 192.168.2.178" id="Test Suites/Login_Register/Verify Registration SKP">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_165406/Login_Register/Verify Registration SKP/20230223_165407"/>
+         <property name="logFiles" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_165406/Login_Register/Verify Registration SKP/20230223_165407/execution0.log"/>
+         <property name="attachments" value="/Users/bobbysaputra/git/katalon-raqn-demo/Reports/20230223_165406/Login_Register/Verify Registration SKP/20230223_165407/1677167707998.png"/>
+         <property name="hostName" value="bobbysaputra - 192.168.2.178"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.2.178"/>
+         <property name="sessionId" value="e732d93ba9cc3ff5bade1517d4cf24a3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP" time="75.853" classname="Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP" status="PASSED">
+         <system-out><![CDATA[2023-02-23 16:55:08 - [TEST_CASE][PASSED] - Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP: Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP
+
+2023-02-23 16:55:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-23 16:55:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-23 16:55:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-23 16:55:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-23 16:55:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-23 16:55:11 - [TEST_STEP][PASSED] - navigateToUrl("https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in"): Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in' successfully
+
+2023-02-23 16:55:13 - [MESSAGE][PASSED] - Navigate to 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html/please-log-me-in' successfully
+
+2023-02-23 16:55:13 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-02-23 16:55:13 - [MESSAGE][PASSED] - Current window maximized
+
+2023-02-23 16:55:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/button_Autoriser tous les cookies")): Object: 'Object Repository/Page_Senregistrer/button_Autoriser tous les cookies' is clicked on
+
+2023-02-23 16:55:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/button_Autoriser tous les cookies' is clicked on
+
+2023-02-23 16:55:16 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_Senregistrer/div_Interests, skills and knowledgeStartYou can quit anytime and Continue later"), 0): Object 'Object Repository/Page_Senregistrer/div_Interests, skills and knowledgeStartYou can quit anytime and Continue later' is present
+
+2023-02-23 16:55:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-02-23 16:55:16 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Senregistrer/div_Interests, skills and knowledgeStartYou can quit anytime and Continue later' is present
+
+2023-02-23 16:55:16 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-02-23 16:55:21 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-02-23 16:55:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject(null), Keys.chord(ESCAPE)): Keys 'ESCAPE + ' sent to object: 'tempBody'
+
+2023-02-23 16:55:21 - [MESSAGE][WARNING] - Test object id is null
+
+2023-02-23 16:55:21 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2023-02-23 16:55:22 - [MESSAGE][PASSED] - Keys 'ESCAPE + ' sent to object: 'tempBody'
+
+2023-02-23 16:55:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input")): Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-23 16:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-23 16:55:22 - [TEST_STEP][PASSED] - RN = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2023-02-23 16:55:22 - [TEST_STEP][PASSED] - RN = Math.random() * 1000: null
+
+2023-02-23 16:55:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_E-mail_email"), "dontobono+" + RN + "@gmail.com"): Text 'dontobono+247@gmail.com' is set on object 'Object Repository/Page_Senregistrer/input_E-mail_email'
+
+2023-02-23 16:55:24 - [MESSAGE][PASSED] - Text 'dontobono+247@gmail.com' is set on object 'Object Repository/Page_Senregistrer/input_E-mail_email'
+
+2023-02-23 16:55:24 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Senregistrer/input_Mot de passe_password"), "DwTTIjmC6TIdOW0tF9H0lw=="): Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Mot de passe_password'
+
+2023-02-23 16:55:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Mot de passe_password'
+
+2023-02-23 16:55:24 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype"), "DwTTIjmC6TIdOW0tF9H0lw=="): Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype'
+
+2023-02-23 16:55:25 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Senregistrer/input_Confirmer le mot de passe_passwordRetype'
+
+2023-02-23 16:55:25 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Senregistrer/select_Mme.M.Div"), "mr", true): All options with value 'mr' are selected in object 'Object Repository/Page_Senregistrer/select_Mme.M.Div'  using regular expression
+
+2023-02-23 16:55:26 - [MESSAGE][PASSED] - All options with value 'mr' are selected in object 'Object Repository/Page_Senregistrer/select_Mme.M.Div'  using regular expression
+
+2023-02-23 16:55:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Prnom_profile.firstName"), "Bobby"): Text 'Bobby' is set on object 'Object Repository/Page_Senregistrer/input_Prnom_profile.firstName'
+
+2023-02-23 16:55:27 - [MESSAGE][PASSED] - Text 'Bobby' is set on object 'Object Repository/Page_Senregistrer/input_Prnom_profile.firstName'
+
+2023-02-23 16:55:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Nom_profile.lastName"), "Saputra"): Text 'Saputra' is set on object 'Object Repository/Page_Senregistrer/input_Nom_profile.lastName'
+
+2023-02-23 16:55:28 - [MESSAGE][PASSED] - Text 'Saputra' is set on object 'Object Repository/Page_Senregistrer/input_Nom_profile.lastName'
+
+2023-02-23 16:55:28 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Senregistrer/input_Date de naissance_local.birthday"), "27/11/1980"): Text '27/11/1980' is set on object 'Object Repository/Page_Senregistrer/input_Date de naissance_local.birthday'
+
+2023-02-23 16:55:29 - [MESSAGE][PASSED] - Text '27/11/1980' is set on object 'Object Repository/Page_Senregistrer/input_Date de naissance_local.birthday'
+
+2023-02-23 16:55:29 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29"), "salon_owner", true): All options with value 'salon_owner' are selected in object 'Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29'  using regular expression
+
+2023-02-23 16:55:31 - [MESSAGE][PASSED] - All options with value 'salon_owner' are selected in object 'Object Repository/Page_Senregistrer/select_Propritaire de salonChane de salonsS_4b2a29'  using regular expression
+
+2023-02-23 16:55:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a")): Object: 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a' is clicked on
+
+2023-02-23 16:55:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a' is clicked on
+
+2023-02-23 16:55:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a"), "test"): Text 'test' is set on object 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a'
+
+2023-02-23 16:55:32 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_Senregistrer/input_Nom du salon ou dnomination commercia_86907a'
+
+2023-02-23 16:55:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input__data.SKP.ID"), "1444669"): Text '1444669' is set on object 'Object Repository/Page_Senregistrer/input__data.SKP.ID'
+
+2023-02-23 16:55:33 - [MESSAGE][PASSED] - Text '1444669' is set on object 'Object Repository/Page_Senregistrer/input__data.SKP.ID'
+
+2023-02-23 16:55:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1"), "42 rue Michel Ange"): Text '42 rue Michel Ange' is set on object 'Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1'
+
+2023-02-23 16:55:34 - [MESSAGE][PASSED] - Text '42 rue Michel Ange' is set on object 'Object Repository/Page_Senregistrer/input_Ligne dadresse 1_data.SKP.billingAddr_94b9a1'
+
+2023-02-23 16:55:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city"), "Le Havre"): Text 'Le Havre' is set on object 'Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city'
+
+2023-02-23 16:55:35 - [MESSAGE][PASSED] - Text 'Le Havre' is set on object 'Object Repository/Page_Senregistrer/input_Ville_data.SKP.billingAddress.city'
+
+2023-02-23 16:55:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip"), "76610"): Text '76610' is set on object 'Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip'
+
+2023-02-23 16:55:36 - [MESSAGE][PASSED] - Text '76610' is set on object 'Object Repository/Page_Senregistrer/input_Code postal_data.SKP.billingAddress.zip'
+
+2023-02-23 16:55:36 - [TEST_STEP][PASSED] - click(findTestObject("Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9")): Object: 'Object Repository/Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9' is clicked on
+
+2023-02-23 16:55:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Pays_preferences.terms.HenkelSKPeAcad_dba1a9' is clicked on
+
+2023-02-23 16:55:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef' is clicked on
+
+2023-02-23 16:55:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_11c1ef' is clicked on
+
+2023-02-23 16:55:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577' is clicked on
+
+2023-02-23 16:55:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_c9f577' is clicked on
+
+2023-02-23 16:55:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69' is clicked on
+
+2023-02-23 16:55:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_subscripti_0ddd69' is clicked on
+
+2023-02-23 16:55:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f")): Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f' is clicked on
+
+2023-02-23 16:55:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input_Prfrences de communication_gigya-inpu_cec64f' is clicked on
+
+2023-02-23 16:55:49 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html'
+
+2023-02-23 16:55:49 - [MESSAGE][PASSED] - Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/enregistrer.html'
+
+2023-02-23 16:55:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Senregistrer/h2_Profitez des avantages de"), "Profitez des avantages de"): Actual text and expected text of test object 'Object Repository/Page_Senregistrer/h2_Profitez des avantages de' are matched.
+
+2023-02-23 16:55:49 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Senregistrer/h2_Profitez des avantages de' are matched.
+
+2023-02-23 16:55:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Senregistrer/input")): Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-23 16:56:21 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@value='OUI']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-02-23 16:56:21 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Senregistrer/input'. Try using Self-healing.
+
+2023-02-23 16:56:21 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Senregistrer/input' was broken. Propose an alternative one: '//a/input'.
+
+2023-02-23 16:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Senregistrer/input' is clicked on
+
+2023-02-23 16:56:24 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/welcome.html'
+
+2023-02-23 16:56:24 - [MESSAGE][PASSED] - Current window's url is: 'https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/welcome.html'
+
+2023-02-23 16:56:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-23 16:56:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-23 16:54:16 - [TEST_SUITE][FAILED] - Verify Registration SKP: Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Senregistrer/input'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Verify Registration SKP.run(Verify Registration SKP:87)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677167647303.run(TempTestSuite1677167647303.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=107.0.5304.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'MBP-BS-C02DN1FKMD6T', ip: '2003:da:a730:bbbf:20fb:98c3:b114:86b7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_275'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.110, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/r4/b057fbvx5j1...}, goog:chromeOptions: {debuggerAddress: localhost:51049}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0572391d6ce6b77e168e591de2164365
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-02-23 16:54:16 - [TEST_SUITE][FAILED] - Verify Registration SKP: Test Cases/OSB_SKP/Register user SKP/Verify Registration SKP FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Senregistrer/input'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Verify Registration SKP.run(Verify Registration SKP:87)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1677167647303.run(TempTestSuite1677167647303.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=107.0.5304.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'MBP-BS-C02DN1FKMD6T', ip: '2003:da:a730:bbbf:20fb:98c3:b114:86b7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_275'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.110, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/r4/b057fbvx5j1...}, goog:chromeOptions: {debuggerAddress: localhost:51049}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0572391d6ce6b77e168e591de2164365
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

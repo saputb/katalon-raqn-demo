@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_haris.mauriliomoabuild.com</name>
+   <tag></tag>
+   <elementGuidId>7b969440-b157-44ff-91b4-c570a0eae0ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.zavorky</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>58f1e65e-de48-4d8d-9fed-7913075cb768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zavorky</value>
+      <webElementGuid>9c0ae39b-4be2-4ac5-b930-04d8837f7456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>haris.maurilio@moabuild.com</value>
+      <webElementGuid>cdd11ba8-abee-4977-981f-7c0f4f9fb6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 linkBlock no-padding&quot;]/div[@class=&quot;emailBlock&quot;]/p[@class=&quot;zavorky&quot;]</value>
+      <webElementGuid>86040cc7-086e-486e-90e6-dbc4a4dae58d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::p[2]</value>
+      <webElementGuid>730e2e12-495f-45d2-b3f0-66593e752d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::p[1]</value>
+      <webElementGuid>9e856609-dea4-459b-903b-fca5a34381f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>63a9c5ca-74e4-47af-a833-a8edcf3a8ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'haris.maurilio@moabuild.com' or . = 'haris.maurilio@moabuild.com')]</value>
+      <webElementGuid>a4247b5c-d7c8-4592-891a-e266106a4e97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

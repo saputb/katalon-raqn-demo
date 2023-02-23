@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Senregistrer/input",
+      "brokenLocator": "//input[@value\u003d\u0027OUI\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230223_165406/Login_Register/Verify Registration SKP/20230223_165407/Object Repository/Page_Senregistrer/input_position.png"
+    }
+  ]
+}

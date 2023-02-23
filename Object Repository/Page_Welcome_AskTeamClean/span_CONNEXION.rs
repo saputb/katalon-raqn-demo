@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CONNEXION</name>
+   <tag></tag>
+   <elementGuidId>81b37e06-7d58-4dbc-8ef5-af65068db3b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.calltoaction__text.calltoaction__text--initial</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-f4f1d682f9']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>893959f9-4187-4ba2-8869-dc0d4a2bae20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial</value>
+      <webElementGuid>6c8d79de-4dc9-4031-94ab-f6a5f9c25781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONNEXION</value>
+      <webElementGuid>b1e7f96a-de18-4d2f-9897-73c6ee65e6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-f4f1d682f9&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>462bd6b2-373e-40bb-aa61-8152c3a96980</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-f4f1d682f9']/span</value>
+      <webElementGuid>b35b66f3-9adb-41bc-9fa0-4fdb0627d5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::span[3]</value>
+      <webElementGuid>caee8cf5-4f48-44e7-a78d-7208e19df1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MON APPRENTISSAGE'])[1]/following::span[5]</value>
+      <webElementGuid>09a7a227-dc52-4e45-bc2f-e25adb40c3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('S', &quot;'&quot;, 'ENREGISTRER')])[1]/preceding::span[1]</value>
+      <webElementGuid>88428432-9de1-4e50-8fe2-096316461979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHWARZKOPF PROFESSIONAL'])[1]/preceding::span[2]</value>
+      <webElementGuid>497ccda2-fad9-4075-b33d-3a456e500bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONNEXION']/parent::*</value>
+      <webElementGuid>39088c9d-8b4c-4c58-8ef5-764266237996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/span</value>
+      <webElementGuid>54f8c0f3-7887-464e-b16e-a92dc988bb00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CONNEXION' or . = 'CONNEXION')]</value>
+      <webElementGuid>7cdbb191-8c03-4e71-a90c-0f0232ee4968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::span[4]</value>
+      <webElementGuid>b4caf831-8a3d-4610-a570-039e0ebd7482</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

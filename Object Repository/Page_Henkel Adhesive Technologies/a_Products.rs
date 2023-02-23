@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Products</name>
+   <tag></tag>
+   <elementGuidId>9f1e9041-b87e-4efe-b90f-a83b8cd4b905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navigation-4f5705c219']/ul/li[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a8caeac-5579-414f-a1c1-55c8ba0554d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>d4f77d4b-60ef-42f1-81ef-4ec8b27d6e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www-beta-henkel-adhesives-com.ref.web.raqn.io/us/en/products.html</value>
+      <webElementGuid>7c296b80-8267-4952-a554-1adbc76cabad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Products</value>
+      <webElementGuid>946c0d90-9768-4f92-8e43-f5d1a04c62a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a0049171-e13a-47a1-8240-267b7156afa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navigation__item-link navigation__item-link--level-0</value>
+      <webElementGuid>f9acec7c-9a85-4d44-b4f2-1f66c08d4cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>b491d231-ffc3-4e56-b11e-032bcc4072f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+       
+            Products
+        
+    </value>
+      <webElementGuid>4a91adf4-d36b-4aa1-8aa9-155a68d7bf79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation-4f5705c219&quot;)/ul[@class=&quot;navigation__group navigation__group--level-0&quot;]/li[@class=&quot;navigation__item navigation__item--level-0&quot;]/div[@class=&quot;navigation__item-content&quot;]/a[@class=&quot;navigation__item-link navigation__item-link--level-0&quot;]</value>
+      <webElementGuid>ef047932-233c-4155-8b5d-b2b827d1f65c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navigation-4f5705c219']/ul/li[3]/div/a</value>
+      <webElementGuid>1cfaccac-2a5b-4c9f-97ed-e053ceb853a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loctite'])[1]/following::a[1]</value>
+      <webElementGuid>5be920d1-fb93-4c30-95f0-9dbcf6089f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge'])[1]/following::a[2]</value>
+      <webElementGuid>67971249-d617-4d84-bfe9-fd912a23a55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::a[1]</value>
+      <webElementGuid>a8b1bc80-f24b-496c-b720-d8e8c2103f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www-beta-henkel-adhesives-com.ref.web.raqn.io/us/en/products.html')]</value>
+      <webElementGuid>bcbe1ef9-c29a-4fe0-9144-da13d055c4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>cbebd7bf-5166-4c69-ba28-c1a20188408b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www-beta-henkel-adhesives-com.ref.web.raqn.io/us/en/products.html' and @title = 'Products' and (text() = '
+       
+            Products
+        
+    ' or . = '
+       
+            Products
+        
+    ')]</value>
+      <webElementGuid>0e2d9504-32cc-4d0b-af34-822ca5c6a24b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

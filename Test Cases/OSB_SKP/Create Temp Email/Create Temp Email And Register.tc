@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Temp Email And Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ffb7a7b-000c-4308-ab65-fc11834e6a47</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f9cfdfb-1f47-4d15-8a36-01fb74240561</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f9cfdfb-1f47-4d15-8a36-01fb74240561</id>
+      <masked>false</masked>
+      <name>varTemEmail</name>
+   </variable>
+</TestCaseEntity>

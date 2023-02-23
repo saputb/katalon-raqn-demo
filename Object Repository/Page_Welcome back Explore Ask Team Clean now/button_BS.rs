@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_BS</name>
+   <tag></tag>
+   <elementGuidId>db019a2a-344c-4718-b475-933a0306d811</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.login__button.login__button--logout.cta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-controls']/heliux-login/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e4b74bab-b1c2-4497-aa33-a6231d15312e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login__button login__button--logout cta</value>
+      <webElementGuid>9cdc9a3f-caf4-47fd-8f23-bafaabca3166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>790b107e-7946-4edb-8e75-34c225e60fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BS</value>
+      <webElementGuid>94f6f394-f589-4d39-81d0-19b985331c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-controls&quot;)/heliux-login[@class=&quot;login&quot;]/div[@class=&quot;login__wrapper customizations__login&quot;]/button[@class=&quot;login__button login__button--logout cta&quot;]</value>
+      <webElementGuid>9b519ded-b91b-4bb3-83c8-db1f7637989d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-controls']/heliux-login/div/button</value>
+      <webElementGuid>300b2258-f215-4931-9de5-b3ca0f0b8fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up NOW!'])[1]/following::button[1]</value>
+      <webElementGuid>d4b1002f-4485-4620-a75e-f6df57b47bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Persil® Sample'])[1]/following::button[1]</value>
+      <webElementGuid>123a350f-a4c1-4aeb-9437-898186b41292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::button[1]</value>
+      <webElementGuid>fb81a98e-c17d-444a-899a-0ceda7ab35bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//heliux-login/div/button</value>
+      <webElementGuid>d93cced8-815b-42e8-9342-9528ca4a3763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'BS' or . = 'BS')]</value>
+      <webElementGuid>a698d9b8-6747-4928-a0fc-82e67872093c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

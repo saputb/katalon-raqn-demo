@@ -11,11 +11,4 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>a7026e35-3fd9-4ac7-94a9-1b8d5a373f9e</testSuiteGuid>
-   <testCaseLink>
-      <guid>70b53735-aed3-45be-a53a-c1a635fa8221</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login to SKP site/Verify Login SKP</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

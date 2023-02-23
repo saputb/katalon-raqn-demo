@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VRIFIER VOTRE COMPTE</name>
+   <tag></tag>
+   <elementGuidId>d04f1ab9-37c0-4e35-8dc2-3d5f9359643d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bobby'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.link.c-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd61457c-ca44-402a-901a-c7912b90799a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://url72.registration.schwarzkopfpro.com/ls/click?upn=DA3toNXD5KubTSlMYoMQv3Hct4-2Fd-2BMFST5a9q3TilG237YSuzMqtsn1vOdER05ICR-2Ft9Wql-2BpCgmO37ZrLKxOFCQMHPJD7ZxsyYE9cTv-2F93dXXA-2FGP5H8PAw3oLfNcCu5paOO9bLWYlrdV81W3FfNdNsK8BVWzxAa2QtZOiwx3iCv8qZxQB43JsAgSsyrVo8hrTpHJebWQrofqyCb-2F6sTA-3D-3D4M93_yvUVyZmlwYw9MUSfNMMlcIosA1y16R8h-2B-2B0wOcMmULnu-2F2nvkULwJbqajK63TdJBxW6DpPwkiCMerlawbRdsieiRQJgmZxKIwe4FQPlUBaSjdnyyikL3hItjsKccH5WLeCYDKOweiAvr7sw6peDUT8jv7AuTcYfVd4Wum90Rsu9RnObfhVc-2Bo1xeiR2pqxOhk20iTILuE-2F-2BpidgPs51CyGk3dGbLXaGciE45rLbifhU-3D</value>
+      <webElementGuid>b4af6b99-fe72-4180-b6b5-ecbc804fa924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c1ef6eae-74a2-449c-817e-8f79e3c53002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link c-white</value>
+      <webElementGuid>db635c1d-400f-4565-b9d8-ea3a8b37c35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VÉRIFIER VOTRE COMPTE</value>
+      <webElementGuid>6e7d4289-acd9-4156-817c-819102d560c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body&quot;]/center[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;m-shell&quot;]/tbody[1]/tr[1]/td[@class=&quot;td&quot;]/table[1]/tbody[1]/tr[2]/td[@class=&quot;px-25 pb-93 mpx-20 mpb-50&quot;]/table[1]/tbody[1]/tr[3]/td[@class=&quot;pb-29&quot;]/table[@class=&quot;center&quot;]/tbody[1]/tr[1]/td[@class=&quot;btn-19&quot;]/a[@class=&quot;link c-white&quot;]</value>
+      <webElementGuid>80275329-3072-4686-9aca-04207bd1c5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_MinuteInbox  10 Minute Mail Address/iframe_Veuillez vrifier votre compte Schwar_c9c7e5</value>
+      <webElementGuid>aea0dfbd-6a0a-4f68-aa7d-aa5cf2d8660e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bobby'])[1]/following::a[1]</value>
+      <webElementGuid>a7952102-7450-49bc-ab70-af942ea0f5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://url72.registration.schwarzkopfpro.com/ls/click?upn=DA3toNXD5KubTSlMYoMQv3Hct4-2Fd-2BMFST5a9q3TilG237YSuzMqtsn1vOdER05ICR-2Ft9Wql-2BpCgmO37ZrLKxOFCQMHPJD7ZxsyYE9cTv-2F93dXXA-2FGP5H8PAw3oLfNcCu5paOO9bLWYlrdV81W3FfNdNsK8BVWzxAa2QtZOiwx3iCv8qZxQB43JsAgSsyrVo8hrTpHJebWQrofqyCb-2F6sTA-3D-3D4M93_yvUVyZmlwYw9MUSfNMMlcIosA1y16R8h-2B-2B0wOcMmULnu-2F2nvkULwJbqajK63TdJBxW6DpPwkiCMerlawbRdsieiRQJgmZxKIwe4FQPlUBaSjdnyyikL3hItjsKccH5WLeCYDKOweiAvr7sw6peDUT8jv7AuTcYfVd4Wum90Rsu9RnObfhVc-2Bo1xeiR2pqxOhk20iTILuE-2F-2BpidgPs51CyGk3dGbLXaGciE45rLbifhU-3D']</value>
+      <webElementGuid>120a3d27-b031-43d7-84f2-71f9e1532ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>88bd1379-00e2-483b-86bf-c5d07d5a5f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://url72.registration.schwarzkopfpro.com/ls/click?upn=DA3toNXD5KubTSlMYoMQv3Hct4-2Fd-2BMFST5a9q3TilG237YSuzMqtsn1vOdER05ICR-2Ft9Wql-2BpCgmO37ZrLKxOFCQMHPJD7ZxsyYE9cTv-2F93dXXA-2FGP5H8PAw3oLfNcCu5paOO9bLWYlrdV81W3FfNdNsK8BVWzxAa2QtZOiwx3iCv8qZxQB43JsAgSsyrVo8hrTpHJebWQrofqyCb-2F6sTA-3D-3D4M93_yvUVyZmlwYw9MUSfNMMlcIosA1y16R8h-2B-2B0wOcMmULnu-2F2nvkULwJbqajK63TdJBxW6DpPwkiCMerlawbRdsieiRQJgmZxKIwe4FQPlUBaSjdnyyikL3hItjsKccH5WLeCYDKOweiAvr7sw6peDUT8jv7AuTcYfVd4Wum90Rsu9RnObfhVc-2Bo1xeiR2pqxOhk20iTILuE-2F-2BpidgPs51CyGk3dGbLXaGciE45rLbifhU-3D' and (text() = 'VÉRIFIER VOTRE COMPTE' or . = 'VÉRIFIER VOTRE COMPTE')]</value>
+      <webElementGuid>36b24f72-e45e-4330-bf58-ef5e1c2ea4b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+E2E Smoke Test,Chrome 107.0.0.0,,,2023-02-22 20:22:37,2023-02-22 20:26:02,3m - 24.383s,FAILED
+,,,,,,,
+Test Cases/ABC/Verify Accesible Links,Chrome 107.0.0.0,,,2023-02-22 20:25:10,2023-02-22 20:26:02,51.670s,FAILED
+"openBrowser(""https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html"")",Chrome 107.0.0.0,,,2023-02-22 20:25:10,2023-02-22 20:25:14,3.576s,PASSED
+takeScreenshot(),Chrome 107.0.0.0,,,2023-02-22 20:25:14,2023-02-22 20:25:15,1.575s,PASSED
+"verifyAllLinksOnCurrentPageAccessible(false, [])",Chrome 107.0.0.0,,,2023-02-22 20:25:15,2023-02-22 20:26:02,46.513s,FAILED

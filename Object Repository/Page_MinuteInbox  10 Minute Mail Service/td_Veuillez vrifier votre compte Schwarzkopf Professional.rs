@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Veuillez vrifier votre compte Schwarzkopf Professional</name>
+   <tag></tag>
+   <elementGuidId>b1b11a54-9528-4842-b387-c7459c0fd5bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='schranka']/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c0addc8e-b276-46c4-a4ab-a08122954a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Veuillez vérifier votre compte Schwarzkopf Professional</value>
+      <webElementGuid>bb1474ea-7334-483b-9a5d-0344773302cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schranka&quot;)/tr[@class=&quot;hidden-xs hidden-sm klikaciRadek newMail&quot;]/td[2]</value>
+      <webElementGuid>2113b7d8-dc8a-46b0-945c-40f3b9aeaefb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='schranka']/tr/td[2]</value>
+      <webElementGuid>f2d05017-dd73-4c40-b51c-dbbb63b0a78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/following::td[2]</value>
+      <webElementGuid>c32bbf90-8eb0-491c-9762-4782ba901ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to MinuteInbox:)'])[1]/preceding::td[3]</value>
+      <webElementGuid>8aa49206-d003-40be-8c9c-73dde894767c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Veuillez vérifier votre compte Schwarzkopf Professional']/parent::*</value>
+      <webElementGuid>ff1aa02b-d4f6-44fd-916d-b7a7c02418e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>c7ecd6f8-ab77-472c-97d8-a251c141aa68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Veuillez vérifier votre compte Schwarzkopf Professional' or . = 'Veuillez vérifier votre compte Schwarzkopf Professional')]</value>
+      <webElementGuid>57ff38da-abca-4a65-a2c8-9dd1321ffb1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

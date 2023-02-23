@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_sidhant.dorionmoabuild.com</name>
+   <tag></tag>
+   <elementGuidId>e03a9bd5-f15a-4230-980c-c6652cec4b72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.zavorky</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>895db371-88eb-439c-b8e3-b546ff8cfbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zavorky</value>
+      <webElementGuid>aaa2410a-dd20-4da4-9a2a-c778cedcc54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sidhant.dorion@moabuild.com</value>
+      <webElementGuid>abf38d03-3c92-4347-ad8d-49784c395a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 linkBlock no-padding&quot;]/div[@class=&quot;emailBlock&quot;]/p[@class=&quot;zavorky&quot;]</value>
+      <webElementGuid>697a6ea0-280f-4ea6-a3be-8e66fb160d28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::p[2]</value>
+      <webElementGuid>69366c01-3b68-4a9c-8a2b-aaaa4b7aef07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::p[1]</value>
+      <webElementGuid>a451e5d1-a5d9-42f2-8562-8e3222bb1748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>afe90c86-fa24-4095-b506-528bab8f022c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'sidhant.dorion@moabuild.com' or . = 'sidhant.dorion@moabuild.com')]</value>
+      <webElementGuid>023b758f-bc31-463f-bc8e-3957e173773d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

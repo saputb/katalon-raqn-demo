@@ -6,12 +6,12 @@
    <elementGuidId>d0aa9618-7740-471d-a5db-a295a47feb2d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//p[@id='onetrust-policy-text']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#onetrust-policy-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='onetrust-policy-text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>731e027b-44c2-4132-b6aa-06076fd66129</webElementGuid>
+      <webElementGuid>d07dc9b1-63ed-4c84-8ebc-c2729bcd75ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-policy-text</value>
-      <webElementGuid>923508eb-7328-4d73-a03e-2b97b73ca3bf</webElementGuid>
+      <webElementGuid>ff6807a9-4ad7-4cc2-b86c-dbea72980032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </value>
-      <webElementGuid>9578a40a-58b6-498b-b599-79fd3c5f51af</webElementGuid>
+      <webElementGuid>1f4c8967-5a2c-498b-bb09-e030fc23691a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onetrust-policy-text&quot;)</value>
-      <webElementGuid>c597f799-7a89-418c-ba03-9e867a9fc81e</webElementGuid>
+      <webElementGuid>197b1c3b-6c4f-456f-b454-6fed290e69af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id='onetrust-policy-text']</value>
-      <webElementGuid>5d56fdd0-439c-46fb-9f69-c8f078cdbae6</webElementGuid>
+      <webElementGuid>f9ee6fe0-dc0a-4c59-b335-bf7e397fbf0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-policy']/p</value>
-      <webElementGuid>b16af222-831a-403d-8e44-072bec89a843</webElementGuid>
+      <webElementGuid>fbaa47c0-d4c9-4ea5-9711-adb71d92c780</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please accept our cookies to get the best experience of our website.'])[1]/following::p[1]</value>
-      <webElementGuid>cdbf5ecb-6270-465b-823d-8b1f875856f8</webElementGuid>
+      <webElementGuid>cf71ca55-d286-4a3e-8543-f5038d6d8da9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[1]</value>
-      <webElementGuid>ffedab97-f6cc-42c3-809b-7a251426d687</webElementGuid>
+      <webElementGuid>65e5426d-2467-41dc-9043-f0ebbea58251</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept All Cookies'])[1]/preceding::p[1]</value>
-      <webElementGuid>8f886051-0e6c-4d0a-ace2-059ca03399f9</webElementGuid>
+      <webElementGuid>10dd883c-7627-47a0-9b2e-6e48b799301c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Settings'])[1]/preceding::p[1]</value>
-      <webElementGuid>86f292c7-fe6f-4455-b577-008def606582</webElementGuid>
+      <webElementGuid>03f59f67-7788-491f-8d34-e93921bdfe98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.']/parent::*</value>
-      <webElementGuid>be0215e6-74ee-4fc1-92e7-d6efd2613bb2</webElementGuid>
+      <webElementGuid>f9d0c90c-d194-492b-ad5a-50673d651335</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/p</value>
-      <webElementGuid>8a314012-6295-49b6-9200-8c65424028d4</webElementGuid>
+      <webElementGuid>4b361c80-d24a-4bd8-b414-4c784195cc91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = 'onetrust-policy-text' and (text() = 'By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. ' or . = 'By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. ')]</value>
-      <webElementGuid>a4c9418c-489d-4710-a21c-86f62f231db9</webElementGuid>
+      <webElementGuid>eb930382-96ce-4283-a21f-7b72f6905a9d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

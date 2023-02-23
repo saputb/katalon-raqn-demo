@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Up NOW</name>
+   <tag></tag>
+   <elementGuidId>057d99bc-5bb9-4480-9545-e9c00ff2e618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-82300b4ecf']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#calltoaction-82300b4ecf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5794ca2d-17b5-49a7-badd-4720fcd88c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>calltoaction-82300b4ecf</value>
+      <webElementGuid>81169d70-5e23-4db1-a99c-ee2917978f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-customizationclass</name>
+      <type>Main</type>
+      <value>calltoaction1633632427195</value>
+      <webElementGuid>bfad303f-9733-4661-9ee3-7583302ab147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__link cta </value>
+      <webElementGuid>79fadcb3-a88c-41a3-a10a-39d249695bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/profile/registration.html</value>
+      <webElementGuid>5ce569bd-7711-4ac9-bd5d-71dbbfa66126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-components-params-calltoactionmodalcontrol</name>
+      <type>Main</type>
+      <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;&quot;}</value>
+      <webElementGuid>f537cb9d-66c8-4532-863d-4fde221561cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-components</name>
+      <type>Main</type>
+      <value>CallToActionModalControl</value>
+      <webElementGuid>a32704d1-47cb-497e-8867-e6c3f2891d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>45600afd-44de-4802-82eb-ab69b2e5bbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          
+          Sign Up NOW!
+      </value>
+      <webElementGuid>ccb6abb0-56d8-4ac3-9f4e-3b23fe09f406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-82300b4ecf&quot;)</value>
+      <webElementGuid>33fa3e45-b0da-418e-a1ed-907e1ff2fc45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-82300b4ecf']</value>
+      <webElementGuid>bffc17c9-1216-4ef4-8fde-1cb0ab486e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-calltoaction-82300b4ecf']/div/a</value>
+      <webElementGuid>c4c07d26-6e0b-4ece-ba4c-09530b1f667e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Persil® Sample'])[1]/following::a[1]</value>
+      <webElementGuid>d7ff81af-fb40-460c-bf4b-986c57db61b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laundry Symbol Scanner'])[1]/following::a[2]</value>
+      <webElementGuid>373a8c3a-08ba-4950-b659-c0ee84b18ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help when life gets messy'])[1]/preceding::a[3]</value>
+      <webElementGuid>05aeed64-05cd-4ce4-b06c-095cad53f1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/us/en/profile/registration.html')]</value>
+      <webElementGuid>07ab38b4-0413-4811-baa1-36238065cc2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>87662d4d-816a-40bf-9ece-cb7e59741ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'calltoaction-82300b4ecf' and @href = '/us/en/profile/registration.html' and (text() = '
+          
+          Sign Up NOW!
+      ' or . = '
+          
+          Sign Up NOW!
+      ')]</value>
+      <webElementGuid>a699ddb7-1af9-47cf-9eac-3bddf9809f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

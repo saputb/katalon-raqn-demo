@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='pf-root']/div/div</value>
+         <value>e</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a41bc706-6ada-45a5-a740-49d522f82022</webElementGuid>
+      <webElementGuid>c0b6d8d7-bbed-4e8d-9f78-cc3e53e99c80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pf__wrapper</value>
-      <webElementGuid>85553417-f007-420d-8c3f-772f42229e37</webElementGuid>
+      <webElementGuid>6379a877-9dc7-4219-9afc-23d49b2a9ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Interests, skills and knowledgeStartYou can quit anytime and Continue later</value>
-      <webElementGuid>b9c9602c-9527-414a-adbf-c889a7be23fc</webElementGuid>
+      <webElementGuid>26b511e5-39e8-4247-a2e0-5d7671f97238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pf-root&quot;)/div[@class=&quot;pf__app&quot;]/div[@class=&quot;pf__wrapper&quot;]</value>
-      <webElementGuid>26c9ef21-064b-4898-a72b-e45e2cc56d92</webElementGuid>
+      <webElementGuid>fbe12f3a-31c7-4ff4-9ebc-5e4017aa7529</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pf-root']/div/div</value>
-      <webElementGuid>cb549da6-9f21-4424-9058-8bd7d44dc82b</webElementGuid>
+      <webElementGuid>adcfccbe-7116-4a99-8fd7-c5402418285e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[23]</value>
-      <webElementGuid>f99f883f-4d12-4459-97c7-3b87690eeb86</webElementGuid>
+      <webElementGuid>b9750af6-72ce-45c5-aacd-c61e53eb7d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[23]</value>
-      <webElementGuid>b409f5a2-0e0c-49cb-956d-f95fb9b17d54</webElementGuid>
+      <webElementGuid>0ff675fe-2bea-4f34-95eb-244df0aab99c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div/div</value>
-      <webElementGuid>c3751ae5-9d69-405f-be01-868ba9c04caf</webElementGuid>
+      <webElementGuid>302e7a4f-8f02-4a8d-9a07-f777fd3d32c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Interests, skills and knowledgeStartYou can quit anytime and Continue later' or . = 'Interests, skills and knowledgeStartYou can quit anytime and Continue later')]</value>
-      <webElementGuid>b61c80f9-dbdc-4fd1-9ed4-02b9329f22cb</webElementGuid>
+      <webElementGuid>780fd94e-97ae-4ddf-91b2-7104c15764c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

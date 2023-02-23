@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes, Id like to sign up to receive the latest news, special offers, and promotions from Ask Team Clean and other Henkel Brands. I can opt-out at any time</name>
+   <tag></tag>
+   <elementGuidId>d4afeac4-9e54-47a3-b308-b52b093f0083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gigya-composite-control.gigya-composite-control-checkbox.gigya-terms-valid > label.gigya-label > span.gigya-label-text.gigya-checkbox-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='gigya-lite-account-progression-form']/div[2]/div[7]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a9e358c-6cf1-4bcb-bf0d-c258d8dddb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gigya-label-text gigya-checkbox-text</value>
+      <webElementGuid>490d6ce7-dd65-434a-845c-14470f2de82f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translation-key</name>
+      <type>Main</type>
+      <value>CHECKBOX_43087684228907120_LABEL</value>
+      <webElementGuid>bc0f0204-fcbb-4f7d-bcbc-4e6667bbfd20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-screenset-element-id</name>
+      <type>Main</type>
+      <value>__gig_template_element_46_1676972646878</value>
+      <webElementGuid>24d88439-91c5-46ed-8b9a-8bd9527c5822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-screenset-element-id-publish</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>09e6b985-b39e-4091-8324-08148368bbf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-screenset-roles</name>
+      <type>Main</type>
+      <value>instance,template</value>
+      <webElementGuid>627a1eb9-ccd1-4db0-bef7-f1c5e004638b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, I’d like to sign up to receive the latest news, special offers, and promotions from Ask Team Clean and other Henkel Brands. I can opt-out at any time.</value>
+      <webElementGuid>9fdabcdb-bb51-4201-a5d6-a4e93874aaf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gigya-lite-account-progression-form&quot;)/div[@class=&quot;gigya-layout-row&quot;]/div[@class=&quot;gigya-composite-control gigya-composite-control-checkbox gigya-terms-valid&quot;]/label[@class=&quot;gigya-label&quot;]/span[@class=&quot;gigya-label-text gigya-checkbox-text&quot;]</value>
+      <webElementGuid>b9475ae6-1203-4453-a5db-57547abb887d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='gigya-lite-account-progression-form']/div[2]/div[7]/label/span</value>
+      <webElementGuid>1ab3a682-47c5-434e-a2ba-517d01170afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::span[6]</value>
+      <webElementGuid>b3a53f31-a2bf-4665-a42f-508d1b83a674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='®'])[3]/following::span[9]</value>
+      <webElementGuid>b46ca2fd-4a64-45a6-b422-cce8cb00dd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c0fee26-561a-49ec-a5de-d8ac9067cf17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes, I’d like to sign up to receive the latest news, special offers, and promotions from Ask Team Clean and other Henkel Brands. I can opt-out at any time.']/parent::*</value>
+      <webElementGuid>b0eace52-af6e-4935-ad23-9d44e0373b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div[2]/div[7]/label/span</value>
+      <webElementGuid>e774eb85-e4c1-4e14-9f1e-2dc8eb3d31b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes, I’d like to sign up to receive the latest news, special offers, and promotions from Ask Team Clean and other Henkel Brands. I can opt-out at any time.' or . = 'Yes, I’d like to sign up to receive the latest news, special offers, and promotions from Ask Team Clean and other Henkel Brands. I can opt-out at any time.')]</value>
+      <webElementGuid>682209c4-f445-4bba-bfc6-fe1fc9ebe242</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+ABC - Verify links,Safari 16,,,2023-02-23 11:44:57,2023-02-23 11:45:01,3.704s,PASSED
+,,,,,,,
+Test Cases/ABC/Verify Accesible Links,Safari 16,,,2023-02-23 11:44:57,2023-02-23 11:45:01,3.522s,PASSED
+"openBrowser(""https://www.authenticbeautyconcept.pl/salony/atelier-stylissimo.html"")",Safari 16,,,2023-02-23 11:44:58,2023-02-23 11:45:00,2.262s,PASSED
+takeScreenshot(),Safari 16,,,2023-02-23 11:45:00,2023-02-23 11:45:00,0.238s,PASSED
+"verifyAllLinksOnCurrentPageAccessible(false, [])",Safari 16,,,2023-02-23 11:45:00,2023-02-23 11:45:01,0.771s,PASSED
+closeBrowser(),Safari 16,,,2023-02-23 11:45:01,2023-02-23 11:45:01,0.079s,PASSED

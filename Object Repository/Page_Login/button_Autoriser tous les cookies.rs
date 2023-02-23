@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>29a5a92f-3c4a-44b2-9ded-acb4b26fc13a</webElementGuid>
+      <webElementGuid>761b0d42-59ef-45f5-bc95-be28499e0277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>a8310583-c07f-46b0-afcc-7abe0f92d76a</webElementGuid>
+      <webElementGuid>150bb7a9-c454-45a3-8e93-973de5399faa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b69b49f9-dcc1-4db7-8980-e7afa2eb2c16</webElementGuid>
+      <webElementGuid>5ab636ba-5963-4c09-ab02-c5d0379984be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Autoriser tous les cookies</value>
-      <webElementGuid>e492d50b-beac-496c-b365-eedd96165fef</webElementGuid>
+      <webElementGuid>1a075769-296e-4798-b9af-405f79a58014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
-      <webElementGuid>ed34687e-e8a9-44b4-b624-2d3773e49334</webElementGuid>
+      <webElementGuid>29b0441c-5b18-4169-a242-b29d35f2ee0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onetrust-accept-btn-handler']</value>
-      <webElementGuid>2adeeb81-616b-44c0-997d-135c385f6813</webElementGuid>
+      <webElementGuid>b771b613-b189-4ef1-8605-903310a206c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='onetrust-button-group']/div/button[2]</value>
-      <webElementGuid>c82fa5b9-2f20-4292-8cb2-b22978ba3b7b</webElementGuid>
+      <webElementGuid>c38e97dc-a46f-40be-9168-918f1d3d81f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tout refuser'])[1]/following::button[1]</value>
-      <webElementGuid>35416b2c-4f80-430a-bd1e-3a3beff81a27</webElementGuid>
+      <webElementGuid>cada5adf-a58f-4e68-92a9-277ce15fb535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Merci d’accepter les cookies pour bénéficier de toute l’expérience'])[1]/following::button[2]</value>
-      <webElementGuid>b18739be-0864-40ba-8e85-93a06a688564</webElementGuid>
+      <webElementGuid>0c228906-a44e-43ba-a945-ccd6ef2ed6cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paramètres des cookies'])[1]/preceding::button[1]</value>
-      <webElementGuid>13de4790-73a6-4e82-ab27-37aed65b4c1a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gérer mes préférences'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d25923e-0f16-4d35-bbaa-4ea576d4fa10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centre de préférences de la confidentialité'])[1]/preceding::button[3]</value>
+      <webElementGuid>cc2881c8-e1ae-4493-a74a-8f6fddf75119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Autoriser tous les cookies']/parent::*</value>
-      <webElementGuid>5432b30b-3ce3-4e0e-9673-99b73ce0b67e</webElementGuid>
+      <webElementGuid>37bfa335-8842-4f62-b9e8-2c85c5bbc167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/button[2]</value>
-      <webElementGuid>aecd6860-0843-413c-a0fc-b1c7ceda1785</webElementGuid>
+      <webElementGuid>88238ffa-effe-4707-99a8-78e5777b3da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +126,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Autoriser tous les cookies' or . = 'Autoriser tous les cookies')]</value>
-      <webElementGuid>18d2cf0a-224e-4d0d-936b-98f1e0f33586</webElementGuid>
+      <webElementGuid>858f8e28-4ff4-4d25-92c1-9d8ba745f87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paramètres des cookies'])[1]/preceding::button[1]</value>
+      <webElementGuid>1b958589-d670-40d6-ba49-eb6eb70d8cdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

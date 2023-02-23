@@ -6,12 +6,12 @@
    <elementGuidId>5d761a29-c299-4325-92e5-7a06116ef585</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='RETOUR À L’ACCUEIL']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='OUI']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d7bb636b-058b-4bee-92ac-a6239710bd21</webElementGuid>
+      <webElementGuid>38620a74-22f2-47c7-b18d-9dba23ed9d92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1efbae59-03ee-4644-932c-08009488faf3</webElementGuid>
+      <webElementGuid>02002871-b725-4bc3-a9a6-8d11426e59f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7a634fd4-1aea-43ab-8d68-f2b80f8b7421</webElementGuid>
+      <webElementGuid>0b4a9896-32f2-474f-ae89-8f4bd9898091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>RETOUR À L’ACCUEIL</value>
-      <webElementGuid>fe505e9c-798c-4037-a672-8f2d67412d10</webElementGuid>
+      <webElementGuid>d1cc2ddf-28ad-4332-b65e-5a8e04757f3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-screenset-element-id</name>
       <type>Main</type>
       <value>__gig_template_element_608_1675777010179</value>
-      <webElementGuid>d17c261e-8911-4db9-b082-76dde128bae2</webElementGuid>
+      <webElementGuid>06dbe4df-de14-44a4-8101-d018f2c34005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-screenset-element-id-publish</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>aadb6437-a3af-4f23-a924-d7f56c71734c</webElementGuid>
+      <webElementGuid>510bd6ab-e8e6-42ac-801c-89c40c04ca4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-screenset-roles</name>
       <type>Main</type>
       <value>template,instance</value>
-      <webElementGuid>cfe77a93-ecbe-4470-967e-27f4f43ea583</webElementGuid>
+      <webElementGuid>9fbff001-0ef2-4296-a987-4017baa5aafd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gigya-verification-sent-screen&quot;)/div[@class=&quot;gigya-layout-row&quot;]/a[@class=&quot;gigya-composite-control gigya-composite-control-link gigya-button-link&quot;]/input[1]</value>
-      <webElementGuid>4002c435-6b1f-4de8-af8a-04bc0b8c9ca9</webElementGuid>
+      <webElementGuid>0c3bef73-6513-42bb-ba8e-6ad37903d251</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='RETOUR À L’ACCUEIL']</value>
-      <webElementGuid>864deca3-bf5b-444f-af14-634e6635f567</webElementGuid>
+      <webElementGuid>4d755e44-c8da-483a-8040-343e4751cb24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gigya-verification-sent-screen']/div[4]/a/input</value>
-      <webElementGuid>bacbcc84-624e-40a0-9713-d56e0d1d798d</webElementGuid>
+      <webElementGuid>18c80e3c-efef-4a29-a418-e62943a3d237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/input</value>
-      <webElementGuid>3c4fabc2-1aaa-499d-ba81-bf9f58f75cb5</webElementGuid>
+      <webElementGuid>d17c34ab-9fad-40fb-a66e-0aa95e67258d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>1f928743-0eee-48ea-a220-307eb8e5003d</webElementGuid>
+      <webElementGuid>32ef82e4-10ef-4bdc-87a9-a4fe6bfc9aef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='OUI']</value>
-      <webElementGuid>b5200009-ba3b-4557-8d84-e8995cc2bdec</webElementGuid>
+      <webElementGuid>291898cb-2736-459d-8d88-581c826ee4e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='gigya-register-form']/div[2]/div/a/input</value>
-      <webElementGuid>86a8f6bd-f41f-413e-8c67-727d0d64c5f3</webElementGuid>
+      <webElementGuid>3b4c9630-29e1-49af-8737-77434d864019</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

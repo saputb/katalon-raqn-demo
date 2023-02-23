@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9ac9d9cd-68d6-4cf7-82fb-8e21b9b977e8</webElementGuid>
+      <webElementGuid>61a3211e-e5c5-4430-99af-d4b7560787e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login__button login__button--logout cta</value>
-      <webElementGuid>61fd3846-e9f5-46c8-b8ad-18a289a3e78e</webElementGuid>
+      <webElementGuid>18a39122-684c-406b-b446-6f5a2c53b74b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>ae62ab4a-e2fe-47c0-90f9-4b730d31a04a</webElementGuid>
+      <webElementGuid>357c40e0-72f8-4187-9a57-aace800d181c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>BS</value>
-      <webElementGuid>8773c6e6-62f9-452c-80ff-4555f05c2941</webElementGuid>
+      <webElementGuid>fcae14c8-7289-4158-aae0-3a770ccd4162</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-controls&quot;)/heliux-login[@class=&quot;login&quot;]/div[@class=&quot;login__wrapper login1667733523206&quot;]/button[@class=&quot;login__button login__button--logout cta&quot;]</value>
-      <webElementGuid>497bb9b6-cb98-4c13-a362-fc21df167867</webElementGuid>
+      <webElementGuid>45522fca-178d-423c-8cb5-53df8dbaeca1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-controls']/heliux-login/div/button[2]</value>
-      <webElementGuid>12b53bf4-9c37-4383-b2a6-571b407d5ad3</webElementGuid>
+      <webElementGuid>b7f9d9a6-aa54-4aa5-bd4a-e9cff991875c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CATALOGUE'])[1]/following::button[3]</value>
-      <webElementGuid>7bb455ad-ac08-44f3-8c3f-35ee32796266</webElementGuid>
+      <webElementGuid>cd8b015f-867e-4c29-8926-ef157cfc30dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonjour, Bobby!'])[1]/preceding::button[1]</value>
-      <webElementGuid>9c927f57-4aef-403f-8ba7-1cc8f1cabb4b</webElementGuid>
+      <webElementGuid>18dbf3d0-498c-4575-a2d3-451c896e7e20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>544479c0-60c8-4b0b-af84-fb3b0b66497f</webElementGuid>
+      <webElementGuid>0ccb0d1c-98d3-446b-8ba4-4d2d23961235</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'BS' or . = 'BS')]</value>
-      <webElementGuid>9c417c9b-6be4-4e63-b925-e38923c6a824</webElementGuid>
+      <webElementGuid>a9159721-41e4-40fe-9bcf-0e9e7dbd9c8f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

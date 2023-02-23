@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Schwarzkopf Professional</name>
+   <tag></tag>
+   <elementGuidId>622122a6-d30b-4630-a0e8-add852338d08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='schranka']/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.from</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5f3bb9a4-960d-4fe6-b48c-7fc1ed92f775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>from</value>
+      <webElementGuid>96d900d5-e84b-4339-94bd-00b7170d301c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Schwarzkopf Professional </value>
+      <webElementGuid>2db3ed99-f60b-4343-9704-3bc055a10a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schranka&quot;)/tr[@class=&quot;hidden-xs hidden-sm klikaciRadek newMail&quot;]/td[@class=&quot;from&quot;]</value>
+      <webElementGuid>47d50555-b075-406f-b1e5-d6a9de183010</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='schranka']/tr/td</value>
+      <webElementGuid>470492dd-8580-458f-b279-062a86d0efa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/following::td[1]</value>
+      <webElementGuid>ea5973cf-6a3f-4394-b76d-51cfd3aa3e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subject'])[1]/following::td[1]</value>
+      <webElementGuid>d6b69b96-c65c-4107-9758-1fbefa71516b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Veuillez vérifier votre compte Schwarzkopf Professional'])[1]/preceding::td[1]</value>
+      <webElementGuid>293fa210-34e9-426e-89f5-91bbc56a19a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Schwarzkopf Professional']/parent::*</value>
+      <webElementGuid>c778a837-9432-4c0a-be5c-2fc05ae9b89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>9077ad1b-b051-4f46-8cdb-9f72b8527e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' Schwarzkopf Professional ' or . = ' Schwarzkopf Professional ')]</value>
+      <webElementGuid>205bd23e-eb72-4a33-b137-58a17468d105</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
