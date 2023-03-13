@@ -6,12 +6,12 @@
    <elementGuidId>8f6d49d6-41cf-4117-9eb8-fc8266f8845d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[@id='calltoaction-5077f8fe6b']/span)[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='calltoaction-5077f8fe6b']/span)[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9a7f6149-dfde-41ef-bb9d-38139f65de84</webElementGuid>
+      <webElementGuid>c2b27189-967b-4b23-917c-a7ff00d263f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__text calltoaction__text--initial</value>
-      <webElementGuid>35c38ef7-0048-472a-8ad1-e57252b1e079</webElementGuid>
+      <webElementGuid>4eeb71f9-006f-4912-b106-3575b83f11e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,64 +38,63 @@
       <name>text</name>
       <type>Main</type>
       <value>EXPLORER</value>
-      <webElementGuid>e4719f55-6dad-44fe-94ff-0bfa59e0860e</webElementGuid>
+      <webElementGuid>7ae0cf56-3405-4054-b8c7-93efbfe62cb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;carousel_uuid6cffcfcb_2333_47b0_8c31_09035406c74e&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider&quot;]/ul[@class=&quot;teaserlist__items
-                    atomic--target&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-top-small margin-left-small margin-right-small margin-bottom-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-2c82a46d8a&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-left margin-top-default margin-left-default margin-right-default margin-bottom-default default-margin-top default-margin-left&quot;]/div[@id=&quot;columncontrol-e33a2ceb53&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-calltoaction[@class=&quot;calltoaction button margin-top-default margin-left-none margin-right-none margin-bottom-none calltoaction__animationsbuttonaccent1 isOffScreen isOnScreen&quot;]/div[@id=&quot;wrapper-calltoaction-5077f8fe6b&quot;]/div[@class=&quot;calltoaction__background&quot;]/a[@id=&quot;calltoaction-5077f8fe6b&quot;]/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
-      <webElementGuid>e36a15ea-fef5-4486-b14f-bf24aabf46f6</webElementGuid>
+      <value>id(&quot;carousel_uuid29de91f3_7693_4a43_a407_baebc67f5b66&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider animated&quot;]/ul[@class=&quot;teaserlist__items atomic--target carousel__slide--shown&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-block-start-small margin-inline-start-small margin-inline-end-small margin-block-end-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-2c82a46d8a&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-start margin-block-start-default margin-inline-start-default margin-inline-end-default margin-block-end-default default-margin-block-start default-margin-inline-start&quot;]/div[@id=&quot;columncontrol-e33a2ceb53&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-calltoaction[@class=&quot;calltoaction button margin-block-start-default margin-inline-start-none margin-inline-end-none margin-block-end-none calltoaction__animationsbuttonaccent1 isOffScreen isOnScreen&quot;]/div[@id=&quot;wrapper-calltoaction-5077f8fe6b&quot;]/div[@class=&quot;calltoaction__background&quot;]/a[@id=&quot;calltoaction-5077f8fe6b&quot;]/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>9f94cdd7-931f-4057-9c9f-a8230dbc6478</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//a[@id='calltoaction-5077f8fe6b']/span)[2]</value>
-      <webElementGuid>333f0bf2-a21c-480a-ae13-167648ca8057</webElementGuid>
+      <value>(//a[@id='calltoaction-5077f8fe6b']/span)[3]</value>
+      <webElementGuid>38d4354b-c8a4-4298-89d9-995489c0ae5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[2]/following::span[1]</value>
-      <webElementGuid>b9eabacf-fd4d-4cba-9352-364871848de2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[3]/following::span[1]</value>
+      <webElementGuid>c3a466fd-2aea-4f67-82b2-3599917e2cbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[20]/following::span[2]</value>
-      <webElementGuid>1bcaf458-01a0-405f-97bc-b77cd5eee156</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[30]/following::span[2]</value>
+      <webElementGuid>23ca5272-5fcc-4e02-b0b8-64844dac2ee0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='A son propre rythme'])[1]/preceding::span[1]</value>
-      <webElementGuid>607d2bfe-20e2-4799-883f-45a44f670b2a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A son propre rythme'])[2]/preceding::span[1]</value>
+      <webElementGuid>0078dc4b-65fd-4749-b1da-6497ad4c5e46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Self Paced w/o seat limit with Carol'])[1]/preceding::span[2]</value>
-      <webElementGuid>a49170f2-f6fd-4b44-839f-d77e4bdde3d4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test PKO Self Paced 0111'])[1]/preceding::span[2]</value>
+      <webElementGuid>18d50988-2d98-4b05-9c08-f34cdf5ce6e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/div/div/heliux-section/div[3]/section[2]/div/heliux-grid/div[2]/heliux-calltoaction/div[2]/div/a/span</value>
-      <webElementGuid>e6230a66-0ec0-46fb-817b-0d8dce8631b0</webElementGuid>
+      <value>//li[3]/div/div/heliux-section/div[3]/section[2]/div/heliux-grid/div[2]/heliux-calltoaction/div[2]/div/a/span</value>
+      <webElementGuid>d03df79a-c77c-42a7-953a-84db41da5795</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'EXPLORER' or . = 'EXPLORER')]</value>
-      <webElementGuid>13eae05f-1db7-4880-ab34-ebe9127247e3</webElementGuid>
+      <webElementGuid>9619ec3d-d9b8-498f-a97a-8eabfce0bd63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>021c8fe6-46a0-4cc7-b8de-22aa33753ef2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#calltoaction-5077f8fe6b</value>
+         <key>XPATH</key>
+         <value>(//a[@id='calltoaction-5077f8fe6b'])[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='calltoaction-5077f8fe6b']</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9f5af428-5ec4-427b-a36c-822263cf0eef</webElementGuid>
+      <webElementGuid>8c6793f1-58ab-4754-88c9-22fe54d6eaca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calltoaction-5077f8fe6b</value>
-      <webElementGuid>476ef305-6316-4af3-98fb-3b5aaced6718</webElementGuid>
+      <webElementGuid>c9b13656-7c17-4207-bd44-362f9ddf0a47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-customizationclass</name>
       <type>Main</type>
       <value>customizations__calltoaction</value>
-      <webElementGuid>ae3037ea-ebc6-4aaf-969a-5fb3751158d3</webElementGuid>
+      <webElementGuid>d6de9441-8f25-4b80-9ef6-9b0391a37e94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>calltoaction__link cta</value>
-      <webElementGuid>cd02bec2-f60a-4814-be84-ceb21a3ae1e1</webElementGuid>
+      <webElementGuid>efcef1b2-2d31-42dc-a441-7f716da372a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/fr/fr/catalogue/courses.html/course/1523548/Stage%20%3A%20Atelier%20Nouveaut%C3%A9s%20Couleurs</value>
-      <webElementGuid>d881ce87-aa94-468f-8210-a364a46ba6a2</webElementGuid>
+      <value>/fr/fr/catalogue/courses.html/course/1454700/BlondMe%20Signature</value>
+      <webElementGuid>3be0c443-af49-4660-adba-b24cb0063dd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
-      <webElementGuid>a3a5490c-c012-4b95-be4d-b42bdc5a2166</webElementGuid>
+      <webElementGuid>8b48e622-a4ef-44dc-a37a-ac6ad5cb5109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-components-params-calltoactionmodalcontrol</name>
       <type>Main</type>
       <value>{&quot;active&quot;:false,&quot;visible&quot;:true,&quot;addToCart&quot;:false,&quot;action&quot;:&quot;_self&quot;}</value>
-      <webElementGuid>3f2f1d96-a7f4-4b2e-9f10-8aefb43ead43</webElementGuid>
+      <webElementGuid>5e911353-5c08-4cbd-94e3-2171171c03bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-components</name>
       <type>Main</type>
       <value>CallToActionModalControl</value>
-      <webElementGuid>7eca7d4e-05a1-43d4-9aee-07610b063f38</webElementGuid>
+      <webElementGuid>9e108b69-9b8d-41db-9e16-f45ddbc36bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -89,94 +89,24 @@
               
               EXPLORER
             </value>
-      <webElementGuid>e8c6b0e1-690c-47c7-806b-dd7b04000775</webElementGuid>
+      <webElementGuid>f0ec7a7e-94ac-4273-ae61-2292aaf71aca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;carousel_uuid7c7064ff_9d19_4461_88be_15681feaa275&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider&quot;]/ul[@class=&quot;teaserlist__items
-                    atomic--target&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-top-small margin-left-small margin-right-small margin-bottom-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-2c82a46d8a&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-left margin-top-default margin-left-default margin-right-default margin-bottom-default default-margin-top default-margin-left&quot;]/div[@id=&quot;columncontrol-e33a2ceb53&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-calltoaction[@class=&quot;calltoaction button margin-top-default margin-left-none margin-right-none margin-bottom-none calltoaction__animationsbuttonaccent1 isOffScreen isOnScreen&quot;]/div[@id=&quot;wrapper-calltoaction-5077f8fe6b&quot;]/div[@class=&quot;calltoaction__background&quot;]/a[@id=&quot;calltoaction-5077f8fe6b&quot;]</value>
-      <webElementGuid>c1fc8034-77aa-40c1-8c04-d03d49c3a80b</webElementGuid>
+      <value>id(&quot;carousel_uuid2091564a_075e_4862_a6ed_73f5b9d9e88a&quot;)/div[@class=&quot;carousel__sliderContainerWrapper&quot;]/div[@class=&quot;carousel__sliderContainer&quot;]/div[@class=&quot;carousel__slider&quot;]/ul[@class=&quot;teaserlist__items
+                    atomic--target&quot;]/li[@class=&quot;teaserlist__item&quot;]/div[@class=&quot;xf-content-height&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/heliux-section[@class=&quot;section container responsivegrid container-max-grid margin-block-start-small margin-inline-start-small margin-inline-end-small margin-block-end-big aem-GridColumn aem-GridColumn--default--12&quot;]/div[@id=&quot;section-2c82a46d8a&quot;]/section[@class=&quot;columncontrol container responsivegrid container-max alignment-vertical-top order-default-mobile alignment-horizontal-start margin-block-start-default margin-inline-start-default margin-inline-end-default margin-block-end-default default-margin-block-start default-margin-inline-start&quot;]/div[@id=&quot;columncontrol-e33a2ceb53&quot;]/heliux-grid[1]/div[@class=&quot;columncontrol__wrapper&quot;]/heliux-calltoaction[@class=&quot;calltoaction button margin-block-start-default margin-inline-start-none margin-inline-end-none margin-block-end-none calltoaction__animationsbuttonaccent1 isOffScreen isOnScreen&quot;]/div[@id=&quot;wrapper-calltoaction-5077f8fe6b&quot;]/div[@class=&quot;calltoaction__background&quot;]/a[@id=&quot;calltoaction-5077f8fe6b&quot;]</value>
+      <webElementGuid>b72ea1ce-52cc-44c6-bec9-f4dc662e6d30</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='calltoaction-5077f8fe6b']</value>
-      <webElementGuid>2f391bcd-e082-4044-a4b7-05fa2a00229e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='wrapper-calltoaction-5077f8fe6b']/div/a</value>
-      <webElementGuid>89a06d31-eba4-422a-8123-d49c045e444a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::a[1]</value>
-      <webElementGuid>72791360-da41-4c0d-9d10-53ff2abc4f78</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[10]/following::a[1]</value>
-      <webElementGuid>5a69e0a8-c727-4d57-b37b-42f5f464eb8d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Séminaire'])[2]/preceding::a[2]</value>
-      <webElementGuid>fb56dd0c-2a6b-43fb-b43f-c207bd4a3640</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>(//a[contains(@href, '/fr/fr/catalogue/courses.html/course/1523548/Stage%20%3A%20Atelier%20Nouveaut%C3%A9s%20Couleurs')])[2]</value>
-      <webElementGuid>e25b7d4f-61bc-43b9-a9eb-6d5fc13d7197</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/heliux-calltoaction/div[2]/div/a</value>
-      <webElementGuid>6282fe14-8d3a-4789-bccb-7fd9194fe3e7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@id = 'calltoaction-5077f8fe6b' and @href = '/fr/fr/catalogue/courses.html/course/1523548/Stage%20%3A%20Atelier%20Nouveaut%C3%A9s%20Couleurs' and (text() = '
-              
-              EXPLORER
-            ' or . = '
-              
-              EXPLORER
-            ')]</value>
-      <webElementGuid>e31242f1-9dc7-4356-806e-6f11f3ac5df2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
       <value>(//a[@id='calltoaction-5077f8fe6b'])[2]</value>
-      <webElementGuid>f1b43ed0-2c22-423a-85db-45901363efad</webElementGuid>
+      <webElementGuid>c5c7cf63-c0b9-4f7c-a937-85e0cd3041a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -184,7 +114,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>(//div[@id='wrapper-calltoaction-5077f8fe6b']/div/a)[2]</value>
-      <webElementGuid>31556906-8651-4cbf-9ad9-81cef2ca579b</webElementGuid>
+      <webElementGuid>14178016-aaf7-4bb0-9513-53cef48716dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -192,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[2]/following::a[1]</value>
-      <webElementGuid>e70c5967-aacc-493f-903d-b9ae2ef3da0f</webElementGuid>
+      <webElementGuid>9896e0ca-eea0-4e78-9936-5b1ce1e596c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -200,23 +130,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='★'])[20]/following::a[1]</value>
-      <webElementGuid>d1c40074-562d-4ed1-97e3-d68faf4d4031</webElementGuid>
+      <webElementGuid>79624fda-62a3-4719-86d9-2e25b765d40e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='A son propre rythme'])[1]/preceding::a[2]</value>
-      <webElementGuid>9ffef923-dbc4-41a9-9226-44dbe946223d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classe virtuelle'])[1]/preceding::a[2]</value>
+      <webElementGuid>f6e96bd4-acba-4d62-8731-263cd9af5665</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/fr/fr/catalogue/courses.html/course/1350093/Test%20Paid%20Online%20Seminar')])[2]</value>
-      <webElementGuid>0420bc39-45ad-4e6a-9495-24a30c79f56e</webElementGuid>
+      <value>(//a[contains(@href, '/fr/fr/catalogue/courses.html/course/1454700/BlondMe%20Signature')])[2]</value>
+      <webElementGuid>bfdfe74c-ebb8-4bf1-9e12-6c9d98c2720b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -224,20 +154,20 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/div/heliux-section/div[3]/section[2]/div/heliux-grid/div[2]/heliux-calltoaction/div[2]/div/a</value>
-      <webElementGuid>af642aba-18b7-46ab-a22f-b04ea1805de0</webElementGuid>
+      <webElementGuid>b15add60-ad41-4d26-a19f-98cb8eca6574</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'calltoaction-5077f8fe6b' and @href = '/fr/fr/catalogue/courses.html/course/1350093/Test%20Paid%20Online%20Seminar' and (text() = '
+      <value>//a[@id = 'calltoaction-5077f8fe6b' and @href = '/fr/fr/catalogue/courses.html/course/1454700/BlondMe%20Signature' and (text() = '
               
               EXPLORER
             ' or . = '
               
               EXPLORER
             ')]</value>
-      <webElementGuid>3ce0b2ae-63e8-4089-9fc9-8477737320ac</webElementGuid>
+      <webElementGuid>63e53277-69a5-460b-b85d-a31cafdd7e0c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

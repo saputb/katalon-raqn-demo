@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Visit login page</name>
+   <tag></tag>
+   <elementGuidId>04e37593-4377-4688-b72e-851c0aaa3d1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AppContainer']/div/div/div/div[3]/div/div/form/footer/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.PrimaryButton__Text___qzzuY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6b38c94-de05-4e5a-a2b0-5805a54c2bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>29801e00-291e-4676-9dd8-f5fc5b742032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrimaryButton__Text___qzzuY</value>
+      <webElementGuid>8b806e51-192a-43c6-90ee-8abb1efdbbcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visit login page</value>
+      <webElementGuid>2e2a11ec-a59a-4733-b082-4574378007d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AppContainer&quot;)/div[@class=&quot;spectrum_b37d53 spectrum_2a241c spectrum--light_a40724 spectrum--medium_4b172c spectrum_9e130c spectrum--medium_9e130c spectrum--large_9e130c spectrum--darkest_9e130c spectrum--dark_9e130c spectrum--light_9e130c spectrum--lightest_9e130c&quot;]/div[@class=&quot;react-spectrum-provider spectrum spectrum--light spectrum--medium&quot;]/div[@class=&quot;Skeleton__Root___2pVwq&quot;]/div[3]/div[@class=&quot;ModalDisplay__ModalDisplayOpen___1ExXn ModalDisplay__ModalDisplay___1kipn&quot;]/div[@class=&quot;Modal__ModalBackground___3EEms FlexColumn__zero___2YD6e&quot;]/form[@class=&quot;Modal__ModalSmall___g3xeu Modal__Modal___dzUc6&quot;]/footer[@class=&quot;Modal__ModalFooter1Column___vLX1G Modal__ModalFooter___Gul6R padding__py-gutter-medium___3lWrn padding__px-gutter-large-2x___26g29&quot;]/button[@class=&quot;PrimaryButton__Button___2r6P6 PrimaryButton__ButtonDefaults___13Jg5 flex__jc-center___2DZtf flex__display-inline-flex___3KO0V flex__ai-center___3vHsc typography__button___m7Cdz&quot;]/span[@class=&quot;PrimaryButton__Text___qzzuY&quot;]</value>
+      <webElementGuid>5a228b21-f3a0-41d5-afdc-5503043799c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AppContainer']/div/div/div/div[3]/div/div/form/footer/button/span</value>
+      <webElementGuid>e5106bbc-1290-4311-9e51-3d7a42c111e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please log in again.'])[1]/following::span[1]</value>
+      <webElementGuid>e8e472ec-9eb5-4fe1-923e-7c98344e27a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Session Expired'])[1]/following::span[1]</value>
+      <webElementGuid>0e4b1dca-d902-4f06-a0f4-fbd788bb1683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Visit login page']/parent::*</value>
+      <webElementGuid>93e5aa4f-694e-41fc-9043-0a7a4c2df6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>36e3728a-6121-4d0e-a5c3-911b90f2a7e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Visit login page' or . = 'Visit login page')]</value>
+      <webElementGuid>d8675cea-13b2-45c1-9cf7-1995cfd098c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

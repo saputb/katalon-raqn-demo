@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continuer</name>
+   <tag></tag>
+   <elementGuidId>cee079be-b3fd-427d-a53c-152aca5174fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn__calltoaction-3b8ed91c52 > span.calltoaction__text.calltoaction__text--initial.calltoaction__text--initial-only</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn__calltoaction-3b8ed91c52']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8b80df77-44ce-4c05-9b5f-a43f909e0b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial calltoaction__text--initial-only</value>
+      <webElementGuid>4f073528-d4d5-4f24-a7f8-42d12dfbf1d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuer</value>
+      <webElementGuid>54c57463-2a6a-4848-9d6b-ffc829c6c935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn__calltoaction-3b8ed91c52&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial calltoaction__text--initial-only&quot;]</value>
+      <webElementGuid>9928ab31-77ad-4ea2-afab-fc88e52c0f10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btn__calltoaction-3b8ed91c52']/span</value>
+      <webElementGuid>e153eb96-c56f-4d29-ac77-04e131b766e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panier'])[1]/preceding::span[1]</value>
+      <webElementGuid>5c997018-aabf-476d-8cc2-85679fd677bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuer']/parent::*</value>
+      <webElementGuid>1587baa3-6f09-4608-acb8-d8122708ad16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//heliux-inlinesection/div/heliux-calltoaction/div/div/button/span</value>
+      <webElementGuid>b3720e18-242e-4b03-93be-aacc2073d4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continuer' or . = 'Continuer')]</value>
+      <webElementGuid>649e4261-5a8f-4680-8c0f-95b64f552dc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

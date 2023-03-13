@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_00.Activation</name>
+   <tag></tag>
+   <elementGuidId>f8f3a5d2-3a8c-47e4-ba15-55ecb9e9d764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='treeBodyAnchor']/div/div/div[5]/div[2]/div/div/a/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4332174-e150-40bb-b4ec-2ddd7fb5afaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text__Text___3A42T TreeNodeContent__TreeNodeLabel___2I7CZ index-vars__spectrum-Body___toWfg index-vars__spectrum-Body--sizeS___2aWmN</value>
+      <webElementGuid>96e1b3ce-c6d2-434d-a4fe-390fddc9c86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>GlobalSmart Lists für Gruppen00.Activation</value>
+      <webElementGuid>6bac9406-0310-421c-ae2f-0d95f0c65243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00.Activation</value>
+      <webElementGuid>1dc15029-30ac-4dfc-a540-a67452aca08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treeBodyAnchor&quot;)/div[@class=&quot;Tree__TreeLoaded___j9eLs Loading__Loaded___15Ubn&quot;]/div[1]/div[5]/div[2]/div[1]/div[1]/a[@class=&quot;TreeNodeContent__TreeNode___z55ha&quot;]/div[@class=&quot;Text__TextWrapper___1Kuwt Text__regular___2dvsL typography__regular-body___2ZJDz Flex__gutterSmall___3PfgY&quot;]/span[@class=&quot;Text__Text___3A42T TreeNodeContent__TreeNodeLabel___2I7CZ index-vars__spectrum-Body___toWfg index-vars__spectrum-Body--sizeS___2aWmN&quot;]</value>
+      <webElementGuid>871e9020-0378-4d0f-a81e-f3f02b660511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='treeBodyAnchor']/div/div/div[5]/div[2]/div/div/a/div[2]/span</value>
+      <webElementGuid>4d1048c5-9b7a-48f7-ad89-a1b12eb899ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Lists für Gruppen'])[1]/following::span[1]</value>
+      <webElementGuid>db8e0222-e096-4455-92e4-c6b592aab91d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Segmentierungen'])[1]/following::span[2]</value>
+      <webElementGuid>18bdf49b-9040-41ae-bb9d-9a850c069ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='_Learning and Testing'])[1]/preceding::span[4]</value>
+      <webElementGuid>85c4e61e-3476-440f-b98c-39a386e0b6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='z_Archive'])[1]/preceding::span[5]</value>
+      <webElementGuid>91f8537b-c562-4386-b265-1922a0232732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='00.Activation']/parent::*</value>
+      <webElementGuid>d7a611d2-35f5-457e-807c-e1114a91fc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/a/div[2]/span</value>
+      <webElementGuid>3a28e468-9960-40de-bc1f-a24443cecca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '00.Activation' or . = '00.Activation')]</value>
+      <webElementGuid>364418f3-b222-4a89-820b-62053337d85d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

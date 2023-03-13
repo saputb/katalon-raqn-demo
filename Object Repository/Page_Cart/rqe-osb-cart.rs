@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rqe-osb-cart</name>
+   <tag></tag>
+   <elementGuidId>5aff08c5-a22a-45b7-bf7d-1ffecbe0f6c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>rqe-osb-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-f3bc5ee279']/div/rqe-host/rqe-osb-cart </value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rqe-osb-cart</value>
+      <webElementGuid>742942e8-66c1-43ea-bb1f-d781462071b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-f3bc5ee279&quot;)/div[@class=&quot;raqncommerce externalcomponent&quot;]/rqe-host[1]/rqe-osb-cart[1]</value>
+      <webElementGuid>40501325-cb16-470e-a85d-7b578bcbf29e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-f3bc5ee279']/div/rqe-host/rqe-osb-cart</value>
+      <webElementGuid>8b1120e5-2956-475a-93ad-3dc4a66c9c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//rqe-osb-cart</value>
+      <webElementGuid>ee0e5184-4dd7-4e0b-94cf-657d846276a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

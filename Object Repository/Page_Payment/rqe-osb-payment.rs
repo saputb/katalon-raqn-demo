@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rqe-osb-payment</name>
+   <tag></tag>
+   <elementGuidId>67bded73-3f0a-4eca-a235-0e72eb28cb25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>rqe-osb-payment</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-2a0a457a46']/div/rqe-host/rqe-osb-payment</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rqe-osb-payment</value>
+      <webElementGuid>dd5aa013-5003-4107-a4b5-4e1e8a6124d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-2a0a457a46&quot;)/div[@class=&quot;raqncommerce externalcomponent&quot;]/rqe-host[1]/rqe-osb-payment[1]</value>
+      <webElementGuid>e0232fde-ee7e-4dbb-9d9c-fc73fe236c21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-2a0a457a46']/div/rqe-host/rqe-osb-payment</value>
+      <webElementGuid>b82a5acd-c796-45a9-b788-fec4250b7ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//rqe-osb-payment</value>
+      <webElementGuid>59191df3-6451-4b24-b8ac-7468819b195f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

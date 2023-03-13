@@ -134,13 +134,9 @@ WebUI.click(findTestObject('Object Repository/Page_MinuteInbox  10 Minute Mail A
 
 WebUI.delay(10)
 
-WebUI.openBrowser('')
+WebUI.switchToWindowIndex(currentTab + 0)
 
 WebUI.navigateToUrl('https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in')
-
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Login/button_Autoriser tous les cookies'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_Welcome_AskTeamClean/button_Autoriser tous les cookies'))
 
 WebUI.delay(3)
 
@@ -153,7 +149,7 @@ WebUI.delay(5)
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ESCAPE))
 
-WebUI.delay(10)
+WebUI.delay(3)
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_E-mail_username'), GlobalVariable.varTemEmail)
 
@@ -161,9 +157,19 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Mot de
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_Vous avez oubli votre mot de passe_gi_d5d053'))
 
-WebUI.waitForPageLoad(10)
-
-WebUI.getUrl()
+WebUI.delay(5)
 
 WebUI.mouseOver(findTestObject('Page_Accueil/span_BS'))
+
+WebUI.click(findTestObject('Page_Welcome/a_Profil'))
+
+WebUI.delay(3)
+
+WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ESCAPE))
+
+WebUI.click(findTestObject('Page_Profile/span_SUPPRIMER LE COMPTE'))
+
+WebUI.click(findTestObject('Page_Profile/span_CONFIRMER'))
+
+WebUI.closeBrowser()
 

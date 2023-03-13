@@ -3,6 +3,16 @@
    <description></description>
    <name>Verify Login SKP</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>297830, 300242</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <testCaseGuid>28f5b069-4c6e-468a-b97c-6cf91901d6a6</testCaseGuid>
 </TestCaseEntity>

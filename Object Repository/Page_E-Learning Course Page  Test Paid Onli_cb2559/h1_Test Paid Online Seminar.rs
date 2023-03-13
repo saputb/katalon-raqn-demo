@@ -6,12 +6,12 @@
    <elementGuidId>241c3c61-c9c7-4106-8d1f-97f78f4d7bcb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='title-da1bf436ca']/h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h1.heading1.apply-margins.apply-font-style.title__heading.insideTemplate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title-da1bf436ca']/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>4ea93b31-ee6d-459d-bae1-ec18d994548a</webElementGuid>
+      <webElementGuid>0e862867-73ef-43cf-b18e-8fbb3c69e9b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>heading1 apply-margins apply-font-style title__heading insideTemplate</value>
-      <webElementGuid>c094cd98-053a-4b12-9f7c-b804d936a9e9</webElementGuid>
+      <webElementGuid>e17b54e1-16fe-4cdf-bcf0-10269b734276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
            Test Paid Online Seminar
        </value>
-      <webElementGuid>96c208b4-dd12-40f2-919a-f7116573b3aa</webElementGuid>
+      <webElementGuid>7643b4ac-6b69-469f-bd21-8445fb45c7b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;title-da1bf436ca&quot;)/h1[@class=&quot;heading1 apply-margins apply-font-style title__heading insideTemplate&quot;]</value>
-      <webElementGuid>d24749bb-955d-4abc-a6ea-04bbc3ad9943</webElementGuid>
+      <webElementGuid>c5def076-5723-4d50-9f63-256073af5d84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='title-da1bf436ca']/h1</value>
-      <webElementGuid>6bef01dd-48a6-4cc7-8897-2016abeb9697</webElementGuid>
+      <webElementGuid>a812b259-a6df-4f9c-984c-a5f3fa3565d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,15 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Classe virtuelle'])[1]/following::h1[1]</value>
-      <webElementGuid>824e1fed-14e8-459e-8a09-c13badcf347a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Test Paid Online Seminar']/parent::*</value>
-      <webElementGuid>7eadabad-6f78-4527-a1c7-cf9a2269c99a</webElementGuid>
+      <webElementGuid>c734284f-6d38-475a-b9a8-a68c8466f304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +72,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>41f65c00-b3f2-4eb8-a70b-ac373d4af8a3</webElementGuid>
+      <webElementGuid>141fcb1e-fea2-45a8-8f85-d9be7078db30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +84,6 @@
        ' or . = '
            Test Paid Online Seminar
        ')]</value>
-      <webElementGuid>e05f845b-45ae-4e17-9db3-94e5e25c1fc1</webElementGuid>
+      <webElementGuid>ffdd1cab-dbb0-4fd7-8319-6792c9b1e9bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

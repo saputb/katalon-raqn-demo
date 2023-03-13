@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify Order to Cart</name>
+   <name>Sign in Maketo DB</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b8b48e50-2121-4d33-8986-2eb32ac2a4b7</testCaseGuid>
+   <testCaseGuid>7eb204bb-6fe3-492f-907e-dbec1cb01748</testCaseGuid>
 </TestCaseEntity>

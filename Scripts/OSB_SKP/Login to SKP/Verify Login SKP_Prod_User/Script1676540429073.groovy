@@ -30,7 +30,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Login/button_A
 
 WebUI.click(findTestObject('Object Repository/Page_Login/button_Autoriser tous les cookies'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_E-mail_username'), 'bobby.saputra@henkel.com')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_E-mail_username'), '13kZ8gQ78EDBcCNmg339zDKsqBmecz/GYnEFWYF0PJ8=')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Mot de passe_password'), 'DwTTIjmC6TIdOW0tF9H0lw==')
 

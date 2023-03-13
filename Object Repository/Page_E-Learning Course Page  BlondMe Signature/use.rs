@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>29931a86-78a7-43fb-ad5b-086706d00f91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label='Remove Trainee email input']//span[@class='icon__svgWrap icon__svgWrap--initial icon__svgWrap--initial-only']//*[name()='svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>777e6bad-e869-46e2-a252-3bc62ddae184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#iconSprite_close</value>
+      <webElementGuid>b5205c07-4a40-4921-8ec6-24cb9fe9f23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icon-3c549f5849&quot;)/button[@class=&quot;icon__link&quot;]/span[@class=&quot;icon__svgWrap icon__svgWrap--initial icon__svgWrap--initial-only&quot;]/svg[1]/use[1]</value>
+      <webElementGuid>9d26971e-17f9-4de9-8ac4-2c7284c32fa6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

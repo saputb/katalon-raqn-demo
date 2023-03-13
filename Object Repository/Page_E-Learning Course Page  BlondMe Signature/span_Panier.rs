@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Panier</name>
+   <tag></tag>
+   <elementGuidId>652bbfd3-a939-4ee9-bd8f-0b8a902c10ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#calltoaction-1e1b89e387 > span.calltoaction__text.calltoaction__text--initial</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='calltoaction-1e1b89e387']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c346265-dbbd-4804-be0a-71ff744c9973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calltoaction__text calltoaction__text--initial</value>
+      <webElementGuid>011a0d6f-57f9-4984-96a6-b8b611e87d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Panier</value>
+      <webElementGuid>a2f2fd1d-fed3-4319-86cf-1510b09811df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calltoaction-1e1b89e387&quot;)/span[@class=&quot;calltoaction__text calltoaction__text--initial&quot;]</value>
+      <webElementGuid>fc312cbe-13d8-4fd1-8237-2b102694d995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='calltoaction-1e1b89e387']/span</value>
+      <webElementGuid>3700dd43-6e26-4762-b0ff-8bfc934617e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuer'])[1]/following::span[1]</value>
+      <webElementGuid>a7cc7829-6387-46c1-bdcd-7c4e59e1b8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Panier']/parent::*</value>
+      <webElementGuid>8d644893-619e-44b0-a4e0-6265c4d48a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//heliux-calltoaction[2]/div/div/a/span</value>
+      <webElementGuid>68a62046-0f19-4cb9-a0af-179870f91973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Panier' or . = 'Panier')]</value>
+      <webElementGuid>ed004356-48a8-4bfc-a79f-028b0f365b26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

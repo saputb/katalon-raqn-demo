@@ -6,12 +6,12 @@
    <elementGuidId>041593d3-4f13-47ca-9839-34d72999a8ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#icon-d1412ddbd4 > button.icon__link.icon__link--interactive > span.icon__svgWrap.icon__svgWrap--initial.icon__svgWrap--initial-only > svg > use</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/body[1]/div[9]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/heliux-section[1]/div[3]/div[1]/div[1]/form[1]/div[2]/div[1]/div[2]/div[1]/div[1]/heliux-icon[1]/button[1]/span[1]/*[name()='svg'][1]/*[name()='use'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>use</value>
-      <webElementGuid>a14b1f48-9901-4d33-ae74-63cb09686f20</webElementGuid>
+      <webElementGuid>23ef9928-e37b-45ce-8ded-904b0d95a15f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>xlink:href</name>
       <type>Main</type>
       <value>#iconSprite_close</value>
-      <webElementGuid>afbc2601-4167-4a7c-9210-a94f9ad8ee44</webElementGuid>
+      <webElementGuid>f7491471-0489-4dec-baa7-b1fb5e082653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,6 +38,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;icon-d1412ddbd4&quot;)/button[@class=&quot;icon__link icon__link--interactive&quot;]/span[@class=&quot;icon__svgWrap icon__svgWrap--initial icon__svgWrap--initial-only&quot;]/svg[1]/use[1]</value>
-      <webElementGuid>7340bb77-ff6e-4c26-9f87-c6eaef79dd3f</webElementGuid>
+      <webElementGuid>073e19bf-7235-40f7-a19b-0bbfc115e4da</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>heliux-text_250,00</name>
+   <tag></tag>
+   <elementGuidId>7fae2039-2148-49cb-bcc3-c5c371069773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>heliux-text.enrollmentBlock__listPrice.heading3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section-4428592a5e']/div/div/div/div/heliux-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>heliux-text</value>
+      <webElementGuid>ef440146-02be-4c47-bf15-f4a82a2f1cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>enrollmentBlock__listPrice  heading3</value>
+      <webElementGuid>31f0744e-7060-4e3e-88df-265d17bb7231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>250,00 €</value>
+      <webElementGuid>e216ca64-b744-4766-829a-c39740afee4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-4428592a5e&quot;)/div[@class=&quot;dynamiccontent margin-inline-start-none margin-inline-end-none&quot;]/div[@class=&quot;enrollmentBlock__base dynamiccontent1636563459808&quot;]/div[@class=&quot;enrollmentBlock__inner secondary&quot;]/div[@class=&quot;enrollmentBlock__price&quot;]/heliux-text[@class=&quot;enrollmentBlock__listPrice  heading3&quot;]</value>
+      <webElementGuid>5d2be000-3a2b-476d-9152-ac1f1496018e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section-4428592a5e']/div/div/div/div/heliux-text</value>
+      <webElementGuid>44042ace-ec33-48bd-857c-0885a775a5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Désolé, le cours est complet'])[1]/following::heliux-text[1]</value>
+      <webElementGuid>acfe6518-38d0-44c6-a571-2c6c296b0c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='250,00 €']/parent::*</value>
+      <webElementGuid>9bc6a79d-329e-444e-bdd6-f941fc122a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/heliux-section/div[3]/div/div/div/div/heliux-text</value>
+      <webElementGuid>5ce1a59e-7644-42a7-b34c-6333e1903b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//heliux-text[(text() = '250,00 €' or . = '250,00 €')]</value>
+      <webElementGuid>9b6e9741-e44d-4988-ac0c-4cd31a5cc00a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

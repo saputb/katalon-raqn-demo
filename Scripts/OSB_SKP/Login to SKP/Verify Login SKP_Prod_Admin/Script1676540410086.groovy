@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Page_Login/button_Autoriser tous l
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_E-mail_username'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_E-mail_username'), 'p.koehler90@gmx.de')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_E-mail_username'), '0CBSdv2KZRf9q1NG63VGIW/4O0ZEQOej')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Mot de passe_password'), 'R2dZ4hvJ2ujoDGjQ2cClHw==')
 

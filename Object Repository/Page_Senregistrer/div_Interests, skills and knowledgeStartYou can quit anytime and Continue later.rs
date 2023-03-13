@@ -6,12 +6,12 @@
    <elementGuidId>6bb6d8a3-7c9e-4b8b-9643-e9cbe20ebd9b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='pf-root']/div/div/div/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.pf__welcomeScreen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pf-root']/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>153337e5-411b-48cb-8614-1b6ac5728f10</webElementGuid>
+      <webElementGuid>4332411f-9157-4eda-bfb7-1d12e94852d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pf__welcomeScreen</value>
-      <webElementGuid>043b5e03-7a72-4b6b-a13c-8d6089dc081d</webElementGuid>
+      <webElementGuid>54c48510-a87e-4c6e-a03a-fd2dc20d9fc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Interests, skills and knowledgeStartYou can quit anytime and Continue later</value>
-      <webElementGuid>8c083554-54f1-445e-8e54-698931ebaf7c</webElementGuid>
+      <webElementGuid>c737d763-920e-451c-9e7c-2e92d4957168</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pf-root&quot;)/div[@class=&quot;pf__app&quot;]/div[@class=&quot;pf__wrapper&quot;]/div[@class=&quot;pf__formWrapper&quot;]/div[1]/div[@class=&quot;pf__welcomeScreen&quot;]</value>
-      <webElementGuid>5b0acbe5-9dae-492d-a9ff-6b6239f6fa58</webElementGuid>
+      <webElementGuid>86f0c564-c3bd-4ccc-ba8a-e8af8f20305e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pf-root']/div/div/div/div/div</value>
-      <webElementGuid>dd2588e4-aea1-40a3-935c-b49be0f37a2d</webElementGuid>
+      <webElementGuid>7b0be859-bdf5-4f78-86f0-f667371dc032</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTES POUR LES RÉSIDENTS DES ÉTATS-UNIS'])[1]/following::div[26]</value>
-      <webElementGuid>b6abd011-95ec-421a-af11-bce439682008</webElementGuid>
+      <webElementGuid>cba933de-687d-4d00-8de1-4618c4bd7870</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POLITIQUE DE COOKIES'])[1]/following::div[27]</value>
-      <webElementGuid>1b7a6733-8385-4d9b-93a6-0accbac67621</webElementGuid>
+      <webElementGuid>f7015b25-4d57-40ce-bbc8-3f7390791174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>bff9b92c-a2e1-470f-8661-29527119abee</webElementGuid>
+      <webElementGuid>4d616a11-5908-46cd-ade1-8648185148a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Interests, skills and knowledgeStartYou can quit anytime and Continue later' or . = 'Interests, skills and knowledgeStartYou can quit anytime and Continue later')]</value>
-      <webElementGuid>9a6e8dbf-2c5a-4833-8e32-1ff8b238aedb</webElementGuid>
+      <webElementGuid>0d98697d-98be-48cb-8f53-5999f2f87379</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

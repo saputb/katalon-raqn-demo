@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>6767117e-9e36-4588-9679-eee5281f9c5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>28cc9dbc-d402-4af6-8b28-680f7dfed712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#icon-meue-chevron</value>
+      <webElementGuid>a2ff3b0f-0a5a-49e5-a395-8828c5788ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treeBodyAnchor&quot;)/div[@class=&quot;Tree__TreeLoaded___j9eLs Loading__Loaded___15Ubn&quot;]/div[1]/div[5]/div[1]/div[1]/a[@class=&quot;TreeNodeContent__TreeNode___z55ha&quot;]/button[1]/svg[@class=&quot;TreeNodeContent__Chevron___1Ulx7 TreeNodeContent__ChevronClosed___2jwlC TreeNodeContent__Chevron___1Ulx7 SvgIcon__icon-spectrum-small___3-FZw SvgIcon__IconWrapper___28yh- flex__display-inline-flex___3KO0V flex__ai-center___3vHsc flex__jc-center___2DZtf&quot;]/use[1]</value>
+      <webElementGuid>315e4c7b-75aa-4c17-aefe-e04271d6cbde</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

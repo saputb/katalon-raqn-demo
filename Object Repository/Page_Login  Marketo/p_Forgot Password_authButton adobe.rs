@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Forgot Password_authButton adobe</name>
+   <tag></tag>
+   <elementGuidId>1e624333-a004-4c0c-90be-bf2831358a0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mktLogin']/table/tbody/tr[5]/td/table/tbody/tr/td[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.authButton.adobe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d0a2d7e5-b464-4443-92f7-3736d86f0a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>authButton adobe</value>
+      <webElementGuid>d31e65e9-84d6-4d4b-ae11-a394259ddf8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mktLogin&quot;)/table[@class=&quot;login-form&quot;]/tbody[1]/tr[5]/td[1]/table[@class=&quot;loginActionGrid&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;authButtons&quot;]/p[@class=&quot;authButton adobe&quot;]</value>
+      <webElementGuid>ced3ac27-b798-477c-b0de-5b44bf86f293</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mktLogin']/table/tbody/tr[5]/td/table/tbody/tr/td[2]/div/p</value>
+      <webElementGuid>4daa52ed-ba89-439b-91ac-a6059181bedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::p[1]</value>
+      <webElementGuid>e39f7759-96f6-4224-9841-7dfdd9724b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Email'])[1]/following::p[1]</value>
+      <webElementGuid>c873c390-1d84-457e-b4bb-e9796c510bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sign in with an Adobe ID.'])[1]/preceding::p[1]</value>
+      <webElementGuid>1c0319af-e31c-415a-a49e-e0eccb321d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/p</value>
+      <webElementGuid>5ecf8b4f-153f-479a-87ee-5a9649c75910</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

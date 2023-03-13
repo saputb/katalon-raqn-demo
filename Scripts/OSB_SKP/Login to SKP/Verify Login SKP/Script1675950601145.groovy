@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://eacademy-schwarzkopf-professional-com.ref.web.raqn.io/fr/fr/bienvenue/login.html/please-log-me-in')
+
+WebUI.maximizeWindow()
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Login/button_Autoriser tous les cookies'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Welcome_AskTeamClean/button_Autoriser tous les cookies'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Accueil/div_Interests, skills and knowledgeStartYou can quit anytime and Continue later'), 
+WebUI.verifyElementPresent(findTestObject('Page_Login/div_Interests, skills and knowledgeStartYou can quit anytime and Continue later'), 
     0)
 
 WebUI.delay(5)

@@ -99,6 +99,46 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Accueil/span_BS_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_E-Learning Course Page  BlondMe Signature/heliux-text_125,00",
+      "brokenLocator": "//div[@id\u003d\u0027section-4428592a5e\u0027]/div/div/div/div[3]/heliux-text",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "heliux-text.enrollmentBlock__listPrice.heading3",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_E-Learning Course Page  BlondMe Signature/heliux-text_125,00_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Landing page/p_Henkel of America, Inc",
+      "brokenLocator": "//li[@id\u003d\u0027054744784\u0027]/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Company name *\u0027])[1]/following::p[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Landing page/p_Henkel of America, Inc_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Alle Personen  Smart Lists fr System  _a162ad/span_Personal",
+      "brokenLocator": "//a[@id\u003d\u0027ext-gen173\u0027]/em/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Alle Personen\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Alle Personen  Smart Lists fr System  _a162ad/span_Personal_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_testing123 Doe - Skidmore, Owings  Mer_6f5e0f/input_Zuerst_First Name",
+      "brokenLocator": "//input[@id\u003d\u0027ext-comp-1015\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_testing123 Doe - Skidmore, Owings  Mer_6f5e0f/input_Zuerst_First Name_position.png"
     }
   ]
 }
